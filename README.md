@@ -1,5 +1,5 @@
 # Algorithm Study📝
-&nbsp;&nbsp;&nbsp; 알고리즘 스터디의 문제 풀이를 기록하기 위한 리포지토리입니다.
+알고리즘 스터디의 문제 풀이를 기록하기 위한 리포지토리입니다.
 <br></br>
 
 ## 📍 Basic Rules
