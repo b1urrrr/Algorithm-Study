@@ -12,10 +12,8 @@
 |  | 박민영 | 이가인 | 임서희 | 전채연 |
 | :---: | :---: | :---: | :---: | :---: |
 | GitHub | [MinYeongPark](https://github.com/MinYeongPark) | [LGAIN](https://github.com/LGAIN) | [kinglim00](https://github.com/kinglim00) | [b1urrrr](https://github.com/b1urrrr) |
-| Language | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">  |  |  |  |
-| Week 00 (00.00.00.) |  |  |  |  |
-
-<br>
+| Language | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> |
+| Week 01</br>(22.02.27.) |  |  |  |  |
 
 | 업로드 횟수 | 표기 |
 | :---: | :---: |
@@ -33,7 +31,7 @@
 - 📄 [DOCS] : README 등의 문서 개정
 - 🚚 [MOVE] : 프로젝트 파일 및 코드 이동
 - 🪧 [RENAME] : 파일 이름 변경
-- 🔀 [MERGE] : 다른 브랜치와 Merge
+- 🔀 [MERGE] : 다른 브랜치와의 충돌 해결 후 Merge
 - ♻️ [REFACTOR] : 전면 수정
 <br></br>
 
