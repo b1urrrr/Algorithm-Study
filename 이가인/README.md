@@ -10,5 +10,6 @@
 ## 📍 Book
 자료구조와 함께 배우는 알고리즘 입문 - 파이썬 편
 
-## 📍 Reference Site
+<!-- ## 📍 Reference Site
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://blog.naver.com/b1urrr"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
+ -->
