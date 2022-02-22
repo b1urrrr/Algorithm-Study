@@ -7,4 +7,4 @@
 <br>
 
 ## 📍 Reference Site
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://velog.io/@godqhrals</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://velog.io/@godqhrals"><img alt="Python" src ="https://img.shields.io/badge/Velog_Blog-20C997.svg?&style=for-the-badge&logo=Velog_Blog&logoColor=White"/></a>
