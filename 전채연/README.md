@@ -2,7 +2,7 @@
 ### Week 01 (22.02.27.)
 | Category | Title | Link |
 | :---: | :---: | :---: |
-| 자료구조/알고리즘 | <a href="">문제 제목</a>  | <a href="">🔗</a> |
+| 삽입 정렬 (Insertion Sort) | <a href="https://www.acmicpc.net/problem/13771">백준 13771번 : Presents</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/Sorting%20(정렬)/Insertion%20Sort%20(삽입%20정렬)/Presents.java">🔗</a> |
 
 <br>
 
@@ -17,12 +17,12 @@
 ## 📍 Repository Structure
 ```
 📂 전채연
+ ┣ 📂 [알고리즘 유형]
  ┣ 📂 교재 예제
  ┃ ┣ 📂 [교재 제목]
  ┃   ┣ 📂 [챕터]
  ┣ 📂 자료구조
  ┃ ┣ 📂 [자료구조 유형]
- ┣ 📂 [알고리즘 유형]
  ┣ 📜 README.md
 ```
 
