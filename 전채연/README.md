@@ -2,7 +2,7 @@
 ### Week 01 (22.02.27.)
 | Category | Title | Link |
 | :---: | :---: | :---: |
-| 삽입 정렬 (Insertion Sort) | <a href="https://www.acmicpc.net/problem/13771">백준 13771번 : Presents</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/Sorting%20(정렬)/Insertion%20Sort%20(삽입%20정렬)/Presents.java">🔗</a> |
+| 삽입 정렬 (Insertion Sort) | <a href="https://www.acmicpc.net/problem/13771">백준 13771번 : Presents</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Insertion%20Sort%20(삽입%20정렬)/Presents.java">🔗</a> |
 
 <br>
 
