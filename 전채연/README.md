@@ -4,6 +4,7 @@
 | :---: | :---: | :---: |
 | 삽입 정렬 (Insertion Sort) | <a href="https://www.acmicpc.net/problem/13771">백준 13771번 : Presents</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Insertion%20Sort%20(삽입%20정렬)/Presents.java">🔗</a> |
 | 삽입 정렬 (Insertion Sort) | <a href="https://www.acmicpc.net/problem/5576">백준 5576번 : 콘테스트</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Insertion%20Sort%20(삽입%20정렬)/콘테스트.java">🔗</a> |
+| 삽입 정렬 (Insertion Sort) | <a href="https://www.acmicpc.net/problem/2959">백준 2959번 : 거북이</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Insertion%20Sort%20(삽입%20정렬)/거북이.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
