@@ -1,8 +1,8 @@
 /*
  * @author Minyeong Park
- * @date 2022.02.22.
- * 포도주 시식
- * https://www.acmicpc.net/problem/2156
+ * @date 2022.02.23. & 24.
+ * 가장 긴 증가하는 부분 수열
+ * https://www.acmicpc.net/problem/11053
  */
 
 
