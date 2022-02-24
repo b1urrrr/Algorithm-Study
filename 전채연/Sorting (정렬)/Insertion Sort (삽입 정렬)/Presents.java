@@ -16,7 +16,7 @@ public class Presents {
             prices[i] = stdIn.nextFloat();
         }
 
-        // 선택 정렬
+        // 삽입 정렬
         for (int i = 1; i < num; i++) {
             float temp = prices[i];
             int j;
