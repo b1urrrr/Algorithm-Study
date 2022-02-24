@@ -2,7 +2,7 @@
 ### Week 01 (22.02.27.)
 | 유형 | 제목 | 풀이 |
 | :---: | :---: | :---: |
-| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/11053">가장 긴 증가하는 부분 수열</a>  | <a href="https://www.acmicpc.net/source/39543709">🔗</a> |
+| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/11053">백준 11053번 : 가장 긴 증가하는 부분 수열</a>  | <a href="https://www.acmicpc.net/source/39543709">🔗</a> |
 
 <br>
 
