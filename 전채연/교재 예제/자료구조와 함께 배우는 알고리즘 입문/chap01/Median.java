@@ -1,8 +1,6 @@
 package chap01;
 import java.util.Scanner;
 
-import javax.lang.model.util.ElementScanner6;
-
 public class Median {
     static int med3(int a, int b, int c) {
         if (a > b)
