@@ -1,8 +1,6 @@
 package chap01;
 import java.util.Scanner;
 
-import javax.lang.model.util.ElementScanner6;
-
 class JudgeSign {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
