@@ -1,5 +1,4 @@
 package chap01;
-import java.util.Scanner;
 
 public class Multi99Table {
     public static void main(String[] args) {

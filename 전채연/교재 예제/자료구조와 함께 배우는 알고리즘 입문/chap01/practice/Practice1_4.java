@@ -1,7 +1,5 @@
 package chap01.practice;
 
-import javax.lang.model.util.ElementScanner6;
-
 public class Practice1_4 {
     static int med(int a, int b, int c) {
         if (a >= b)
