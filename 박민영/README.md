@@ -24,7 +24,7 @@
 * 17202번 - 핸드폰 번호 궁합
   * 거듭 제곱 구하기 https://coding-factory.tistory.com/531
   * double to int 형변환 https://www.delftstack.com/ko/howto/java/double-to-int-java/
-  * 내가 푼 것과 다르게 문자열,문자 활용으로 푸는 방법 (내가 푼 방법이 메모리/시간이 조금 더 단축되긴 하는데 뭔가 멀리 돌아가서 접근하는 것 같아서 이 코드도 참고했습니다) https://peanut2016.tistory.com/102
+  * 내가 푼 것과 다르게 문자열,문자 활용으로 푸는 방법 (제가 푼 방법이 메모리/시간이 조금 더 단축되긴 하는데 뭔가 멀리 돌아가서 접근하는 것 같아서 이 코드도 참고했습니다) https://peanut2016.tistory.com/102
   * String 형에서 각 문자를 뽑아오는 charAt 메서드 https://colossus-java-practice.tistory.com/31
   * char to int 형변환 https://frhyme.github.io/java/java_basic02_char_to_int/
     
