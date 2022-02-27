@@ -5,6 +5,8 @@
 | 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/11053">백준 11053번 : 가장 긴 증가하는 부분 수열</a>  | <a href="https://www.acmicpc.net/source/39543709">🔗</a> |
 | 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/2839">백준 2839번 : 설탕 배달</a>  | <a href="https://www.acmicpc.net/source/39686395">🔗</a> |
 | 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/9625">백준 9625번 : BABBA</a>  | <a href="https://www.acmicpc.net/source/39696577">🔗</a> |
+| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/13301">백준 13301번 : 타일 장식물</a>  | <a href="https://www.acmicpc.net/source/39698052">🔗</a> |
+
 
 <br>
 
