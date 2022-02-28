@@ -14,7 +14,7 @@
 ### Week 02 (22.03.06.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| 버블 정렬 (Bubble Sort) | <a href="https://www.acmicpc.net/problem/19604">백준 19604번 : Art</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Bubble%20Sort%20(버블%20정렬)/Art.java">🔗</a> |
+| 버블 정렬 (Bubble Sort) | <a href="https://www.acmicpc.net/problem/19604">백준 19604번 : Art</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Bubble%20Sort%20(버블%20정렬)/Art.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
@@ -26,9 +26,9 @@
 
 ### 자료구조와 함께 배우는 알고리즘 입문
 
-| Week | Chapter |     Title     |   Date   |                                                                     Link                                                                     |
-| :--: | :-----: | :-----------: | :------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
-|  1   |   01    | 기본 알고리즘 | 22.02.29 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap01">🔗</a> |
+| Week | Chapter | Title | Date | Link |
+| :--: | :-----: | :---: | :--: | :--: |
+| 1 | 01 | 기본 알고리즘 | 22.02.29 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap01">🔗</a> |
 |  | 02 | 기본 자료구조 | 22.02.29 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap02">🔗</a> |
 
 <!--
