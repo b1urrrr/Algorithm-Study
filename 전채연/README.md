@@ -1,14 +1,20 @@
 # 🌱 전채연 ([b1urrrr](https://github.com/b1urrrr))
 
 ### Week 01 (22.02.27.)
-
-|          Category          |                                    Title                                    |                                                                     Link                                                                     |
-| :------------------------: | :-------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
+| Category | Title | Link |
+| :------: | :---: | :--: |
 | 삽입 정렬 (Insertion Sort) | <a href="https://www.acmicpc.net/problem/13771">백준 13771번 : Presents</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Insertion%20Sort%20(삽입%20정렬)/Presents.java">🔗</a> |
 | 삽입 정렬 (Insertion Sort) |  <a href="https://www.acmicpc.net/problem/5576">백준 5576번 : 콘테스트</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Insertion%20Sort%20(삽입%20정렬)/콘테스트.java">🔗</a> |
 | 삽입 정렬 (Insertion Sort) |   <a href="https://www.acmicpc.net/problem/2959">백준 2959번 : 거북이</a>   |  <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Insertion%20Sort%20(삽입%20정렬)/거북이.java">🔗</a>  |
 | 선택 정렬 (Selection Sort) | <a href="https://www.acmicpc.net/problem/9076">백준 9076번 : 점수 집계</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Selection%20Sort%20(선택%20정렬)/점수_집계.java">🔗</a> |
 | 선택 정렬 (Selection Sort) | <a href="https://www.acmicpc.net/problem/17851">백준 17851번 : This Problem's a Slam Dunk</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Selection%20Sort%20(선택%20정렬)/This_Problems_a_Slam_Dunk.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 02 (22.03.06.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 버블 정렬 (Bubble Sort) | <a href="https://www.acmicpc.net/problem/19604">백준 19604번 : Art</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Bubble%20Sort%20(버블%20정렬)/Art.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
