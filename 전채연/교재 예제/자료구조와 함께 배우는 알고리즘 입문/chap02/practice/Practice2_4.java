@@ -2,6 +2,7 @@ package chap02.practice;
 import java.util.Scanner;
 
 public class Practice2_4 {
+    // Q4
     static void copy(int[] a, int[] b) {
         if (a.length < b.length) {
             System.out.println("배열의 크기가 작습니다.");
@@ -12,6 +13,7 @@ public class Practice2_4 {
         }
     }
 
+    // Q5
     static void rcopy(int[] a, int[] b) {
         if (a.length < b.length) {
             System.out.println("배열의 크기가 작습니다.");
