@@ -19,8 +19,7 @@ public class Practice2_11 {
 
         TMD after(int n) {
             TMD afterDate = new TMD(y, m, d);
-            int isLeap = 0;
-            if (y % 4 == 0 && y % 100 != 0 || y % 400 == 0) isLeap = 1;
+            int isLeap = (y % 4 == 0 && y % 100 != 0 || y % 400 == 0) ? 1 : 0;
             
             afterDate.d += n;
             while (afterDate.d > daysOfYear[isLeap][m]) {
