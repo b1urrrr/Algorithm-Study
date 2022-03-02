@@ -12,6 +12,7 @@
 ### Week 02 (22.03.06.)
 | 유형 | 제목 | 풀이 |
 | :---: | :---: | :---: |
+| 자료구조-연결리스트 | <a href="https://www.acmicpc.net/problem/2605">백준 2605번 : 줄 세우기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/%20data%20structure%20(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/baekjoon/n2605/Main.java">🔗</a> |
 
 <br>
 
