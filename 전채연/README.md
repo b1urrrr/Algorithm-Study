@@ -15,6 +15,7 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 버블 정렬 (Bubble Sort) | <a href="https://www.acmicpc.net/problem/19604">백준 19604번 : Art</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Bubble%20Sort%20(버블%20정렬)/Art.java">🔗</a> |
+| 버블 정렬 (Bubble Sort), 스위핑 (Sweeping) | <a href="https://www.acmicpc.net/problem/3845">백준 3845번 : 잔디깎기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Bubble%20Sort%20(버블%20정렬)/잔디깎기.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
