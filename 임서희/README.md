@@ -12,6 +12,22 @@
 
 <br>
 
+### Week 02 (22.03.06.)
+| 유형 | 제목 | 풀이 | Reference Site |
+| :---: | :---: | :---: | :---: |
+| for 반복문 | <a href="https://www.acmicpc.net/problem/2739">2739번: 구구단</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/2%EC%A3%BC%EC%B0%A8/for%EB%AC%B8/2739%EB%B2%88.py">🔗</a> |  |
+| for 반복문 | <a href="https://www.acmicpc.net/problem/10950">10950번: A+B -3</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/2%EC%A3%BC%EC%B0%A8/for%EB%AC%B8/10950%EB%B2%88.py">🔗</a> |  |
+| for 반복문 | <a href="https://www.acmicpc.net/problem/8393">8393번: 합</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/1%EC%A3%BC%EC%B0%A8/if%EB%AC%B8/2753%EB%B2%88.py">🔗</a> |  |
+| for 반복문 | <a href="https://www.acmicpc.net/problem/15552">15552번: 빠른 A+B</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/2%EC%A3%BC%EC%B0%A8/for%EB%AC%B8/15552%EB%B2%88.py">🔗</a> | <a href="https://velog.io/@yeseolee/Python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%A0%A5-%EC%A0%95%EB%A6%ACsys.stdin.readline">:bookmark:</a> |
+| for 반복문 | <a href="https://www.acmicpc.net/problem/2741">2741번: N 찍기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/2%EC%A3%BC%EC%B0%A8/for%EB%AC%B8/2741%EB%B2%88.py">🔗</a> |  |
+| for 반복문 | <a href="https://www.acmicpc.net/problem/2742">2742번: 기찍 N</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/2%EC%A3%BC%EC%B0%A8/for%EB%AC%B8/2742%EB%B2%88.py">🔗</a> |  |
+| for 반복문 | <a href="https://www.acmicpc.net/problem/11022">11022번: A+B -8</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/2%EC%A3%BC%EC%B0%A8/for%EB%AC%B8/11022%EB%B2%88.py">🔗</a> |  |
+| for 반복문 | <a href="https://www.acmicpc.net/problem/2438">2438번: 별 찍기 -1</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/2%EC%A3%BC%EC%B0%A8/for%EB%AC%B8/2438%EB%B2%88.py">🔗</a> |  |
+| for 반복문 | <a href="https://www.acmicpc.net/problem/2439">2439번: 별 찍기 -2</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/2%EC%A3%BC%EC%B0%A8/for%EB%AC%B8/2439%EB%B2%88.py">🔗</a> |  |
+| for 반복문 | <a href="https://www.acmicpc.net/problem/10871">10871번: X보다 작은 수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/2%EC%A3%BC%EC%B0%A8/for%EB%AC%B8/10871%EB%B2%88.py">🔗</a> | <a href="https://velog.io/@jsw8050/%EB%B0%B1%EC%A4%80-for%EB%AC%B8-10871%EB%B2%88-X%EB%B3%B4%EB%8B%A4-%EC%9E%91%EC%9D%80-%EC%88%98-Python">:bookmark:</a> |
+
+<br>
+
 ## 📍 Study Book
 ### 자료구조와 함깨 배우는 알고리즘 입문 (파이썬 편)
 | Week | Chapter | Title | Date | Link |
