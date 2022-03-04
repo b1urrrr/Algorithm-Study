@@ -25,6 +25,9 @@
 | for 반복문 | <a href="https://www.acmicpc.net/problem/2438">2438번: 별 찍기 -1</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/2%EC%A3%BC%EC%B0%A8/for%EB%AC%B8/2438%EB%B2%88.py">🔗</a> |  |
 | for 반복문 | <a href="https://www.acmicpc.net/problem/2439">2439번: 별 찍기 -2</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/2%EC%A3%BC%EC%B0%A8/for%EB%AC%B8/2439%EB%B2%88.py">🔗</a> |  |
 | for 반복문 | <a href="https://www.acmicpc.net/problem/10871">10871번: X보다 작은 수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/2%EC%A3%BC%EC%B0%A8/for%EB%AC%B8/10871%EB%B2%88.py">🔗</a> | <a href="https://velog.io/@jsw8050/%EB%B0%B1%EC%A4%80-for%EB%AC%B8-10871%EB%B2%88-X%EB%B3%B4%EB%8B%A4-%EC%9E%91%EC%9D%80-%EC%88%98-Python">:bookmark:</a> |
+| while 반복문 | <a href="https://www.acmicpc.net/problem/10952">10952번: A+B -5</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/2%EC%A3%BC%EC%B0%A8/while%EB%AC%B8/10952%EB%B2%88.py">🔗</a> | |
+| while 반복문 | <a href="https://www.acmicpc.net/problem/10951">10951번: A+B -4</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/2%EC%A3%BC%EC%B0%A8/while%EB%AC%B8/10951%EB%B2%88.py">🔗</a> | <a href="https://wook-2124.tistory.com/247">:bookmark:</a> |
+| while 반복문 | <a href="https://www.acmicpc.net/problem/1110">1110번: 더하기 사이클</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/2%EC%A3%BC%EC%B0%A8/while%EB%AC%B8/1110%EB%B2%88.py">🔗</a> | <a href="https://wook-2124.tistory.com/222">:bookmark:</a> |
 
 <br>
 
