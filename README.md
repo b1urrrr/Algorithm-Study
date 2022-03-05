@@ -10,7 +10,7 @@
 | GitHub | [MinYeongPark](https://github.com/MinYeongPark) | [LGAIN](https://github.com/LGAIN) | [kinglim00](https://github.com/kinglim00) | [b1urrrr](https://github.com/b1urrrr) |
 | Language | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> |
 | Week 01</br>(22.02.27.) | ✅ | ✅ | ✅ | ✅ |
-| Week 02</br>(22.03.06.) |  |  |  |  |
+| Week 02</br>(22.03.06.) |  |  |  | ✅ |
 
 | 업로드 횟수 | 표기 |
 | :---: | :---: |
