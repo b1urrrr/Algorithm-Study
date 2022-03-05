@@ -16,6 +16,7 @@
 | 자료구조-연결리스트/큐 | <a href="https://www.acmicpc.net/problem/2161">백준 2161번 : 카드1</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/%20data%20structure%20(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/baekjoon/n2161/Main.java">🔗</a> |
 | 자료구조-스택 | <a href="https://www.acmicpc.net/problem/10828">백준 10828번 : 스택</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/%20data%20structure%20(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/baekjoon/n10828/Main.java">🔗</a> |
 | 구현/자료구조 | <a href="https://www.acmicpc.net/problem/17608">백준 17608번 : 막대기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/%20data%20structure%20(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/baekjoon/n17608/Main.java">🔗</a> |
+| 구현/자료구조 | <a href="https://www.acmicpc.net/problem/12605">백준 12605번 : 단어순서 뒤집기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/implement%20(%EA%B5%AC%ED%98%84)/n12605/Main.java">🔗</a> |
 
 <br>
 
