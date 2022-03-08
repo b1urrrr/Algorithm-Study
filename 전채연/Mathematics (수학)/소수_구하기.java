@@ -1,6 +1,6 @@
 /*
     백준 1929번 : 소수 구하기
-    - 문제 유형 : 수학, 에라토스테네스의 채
+    - 문제 유형 : 수학, 에라토스테네스의 체
 */
 
 import java.util.Scanner;
@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class 소수_구하기 {
     static boolean[] isNotPrime; // 소수가 아님을 표시하는 배열
 
-    // 에라토스테네스의 채 함수
+    // 에라토스테네스의 체 함수
     static void seive_of_eratosthenes(int range) {
         // 0과 1은 소수가 아님을 표시
 		isNotPrime[0] = isNotPrime[1] = true;
@@ -24,7 +24,7 @@ public class 소수_구하기 {
         int end = stdIn.nextInt(); // N 입력
         isNotPrime = new boolean[end + 1];
         
-        // 에라토스테네스의 채 함수 호출
+        // 에라토스테네스의 체 함수 호출
         seive_of_eratosthenes(end);
 
         // 범위 내의 소수 출력
