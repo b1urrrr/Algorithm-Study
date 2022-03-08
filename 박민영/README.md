@@ -1,4 +1,4 @@
-# 🌱 박민영 ([MinYeongPark](github.com/MinYeongPark))
+# 🌱 박민영 ([MinYeongPark](https://github.com/MinYeongPark))
 ### Week 01 (22.02.27.)
 | 유형 | 제목 | 풀이 |
 | :---: | :---: | :---: |
@@ -29,6 +29,6 @@
 |  | 03 | 검색 | 22.03.08 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%95%A8%EA%BB%98%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9E%85%EB%AC%B8/chap03">🔗</a>
 
 ## 📍 Personal Reference Site
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://velog.io/@godqhrals"><img alt="Python" src ="https://img.shields.io/badge/Velog_Blog-20C997.svg?&style=for-the-badge&logo=Velog_Blog&logoColor=White"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://velog.io/@godqhrals"><img alt="Velog" src ="https://img.shields.io/badge/Velog_Blog-20C997.svg?&style=for-the-badge&logo=Velog_Blog&logoColor=White"/></a>
 
     
