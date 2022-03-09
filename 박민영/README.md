@@ -23,6 +23,7 @@
 | 유형 | 제목 | 풀이 |
 | :---: | :---: | :---: |
 | 구현/문자열 | <a href="https://www.acmicpc.net/problem/9093">백준 9093번 : 단어 뒤집기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/implement%20(%EA%B5%AC%ED%98%84)/n9093/Main.java">🔗</a> |
+| 정렬(선택정렬) | <a href="https://www.acmicpc.net/problem/2750">백준 2750번 : 수 정렬하기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/n2750/Main.java">🔗</a> |
 
 <br>
 
