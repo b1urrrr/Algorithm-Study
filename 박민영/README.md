@@ -1,4 +1,4 @@
-# 🌱 박민영 ([MinYeongPark](https://github.com/MinYeongPark))
+# 🏃‍♀️ 박민영 ([MinYeongPark](https://github.com/MinYeongPark))
 ### Week 01 (22.02.27.)
 | 유형 | 제목 | 풀이 |
 | :---: | :---: | :---: |
