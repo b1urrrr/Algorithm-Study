@@ -27,6 +27,7 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 퀵 정렬 (Quick Sort) | <a href="https://www.acmicpc.net/problem/24092">백준 24092번 : 알고리즘 수업 - 퀵 정렬 3</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Quick%20Sort%20(퀵%20정렬)/알고리즘_수업_퀵_정렬_3.java">🔗</a> |
+| 합병 정렬 (Merge Sort) | <a href="https://www.acmicpc.net/problem/2693">백준 2693번 : N번째 큰 수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Merge%20Sort%20(합병%20정렬)/N번째_큰_수.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
