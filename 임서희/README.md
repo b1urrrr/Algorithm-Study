@@ -51,6 +51,8 @@
 |  문자열  |  <a href="https://www.acmicpc.net/problem/11654">11654번: 아스키 코드</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/3%EC%A3%BC%EC%B0%A8/%EB%AC%B8%EC%9E%90%EC%97%B4/11654%EB%B2%88.py">🔗</a>  |  <a href="https://nightohl.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC3-%ED%83%80%EC%9E%85-%ED%99%95%EC%9D%B8-%EA%B2%80%EC%82%AC-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95">:bookmark:</a> |
 |  문자열  |  <a href="https://www.acmicpc.net/problem/11720">11720번: 숫자의 합</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/3%EC%A3%BC%EC%B0%A8/%EB%AC%B8%EC%9E%90%EC%97%B4/11720%EB%B2%88.py">🔗</a>  |  <a href="https://ooyoung.tistory.com/67">:bookmark:</a> |
 |  문자열  |  <a href="https://www.acmicpc.net/problem/10809">10809번: 알파벳 찾기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/3%EC%A3%BC%EC%B0%A8/%EB%AC%B8%EC%9E%90%EC%97%B4/10809%EB%B2%88.py">🔗</a>  |   |
+|  문자열  |  <a href="https://www.acmicpc.net/problem/2675">2675번: 문자열 반복</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/3%EC%A3%BC%EC%B0%A8/%EB%AC%B8%EC%9E%90%EC%97%B4/10809%EB%B2%88.py">🔗</a>  |   |
+|  :star:문자열  |  <a href="https://www.acmicpc.net/problem/1157">1157번: 단어 공부</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/3%EC%A3%BC%EC%B0%A8/%EB%AC%B8%EC%9E%90%EC%97%B4/10809%EB%B2%88.py">🔗</a>  | <a href="https://goplanit.site/13.%20Algorithm(1157_py)/ ">:bookmark:</a> |
 <br>
 
 
