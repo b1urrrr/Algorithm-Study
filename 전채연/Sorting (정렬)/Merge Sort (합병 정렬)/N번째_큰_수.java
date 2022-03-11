@@ -1,3 +1,9 @@
+/*
+    백준 2693번 : N번째 큰 수
+    - 문제 유형 : 정렬
+    - 풀이 유형 : 합병 정렬 (Merge Sort)
+*/
+
 import java.util.Scanner;
 
 public class N번째_큰_수 {
