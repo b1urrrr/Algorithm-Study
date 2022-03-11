@@ -44,6 +44,7 @@
 | 1 | 01 | 기본 알고리즘 | 22.03.01 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap01">🔗</a> |
 |  | 02 | 기본 자료구조 | 22.03.01 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap02">🔗</a> |
 | 2 | 03 | 검색 | 22.03.08 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap03">🔗</a> |
+| 3 | 04 | 스택과 큐 | 22.03.15 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap04">🔗</a> |
 
 <!--
 |  |  |  | 22. | <a href="">🔗</a> |
