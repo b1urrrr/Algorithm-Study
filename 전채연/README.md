@@ -28,6 +28,8 @@
 | :------: | :---: | :--: |
 | 퀵 정렬 (Quick Sort) | <a href="https://www.acmicpc.net/problem/24092">백준 24092번 : 알고리즘 수업 - 퀵 정렬 3</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Quick%20Sort%20(퀵%20정렬)/알고리즘_수업_퀵_정렬_3.java">🔗</a> |
 | 합병 정렬 (Merge Sort) | <a href="https://www.acmicpc.net/problem/2693">백준 2693번 : N번째 큰 수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Merge%20Sort%20(합병%20정렬)/N번째_큰_수.java">🔗</a> |
+| 합병 정렬 (Merge Sort) | <a href="https://www.acmicpc.net/problem/6799">백준 6799번 : Computer Purchase</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Merge%20Sort%20(합병%20정렬)/Computer_Purchase.java">🔗</a> |
+| 카운팅 정렬 (Counting Sort) | <a href="https://www.acmicpc.net/problem/10989">백준 10989번 : 수 정렬하기 3</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Counting%20Sort%20(카운팅%20정렬)/수_정렬하기_3.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
