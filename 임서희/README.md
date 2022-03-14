@@ -55,6 +55,9 @@
 |  :star:문자열  |  <a href="https://www.acmicpc.net/problem/1157">1157번: 단어 공부</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/3%EC%A3%BC%EC%B0%A8/%EB%AC%B8%EC%9E%90%EC%97%B4/10809%EB%B2%88.py">🔗</a>  | <a href="https://goplanit.site/13.%20Algorithm(1157_py)/ ">:bookmark:</a> |
 |  문자열  |  <a href="https://www.acmicpc.net/problem/1152">1152번: 단어의 개수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/3%EC%A3%BC%EC%B0%A8/%EB%AC%B8%EC%9E%90%EC%97%B4/1152%EB%B2%88.py">🔗</a>  |   |
 |  문자열  |  <a href="https://www.acmicpc.net/problem/2908">2908번: 상수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/3%EC%A3%BC%EC%B0%A8/%EB%AC%B8%EC%9E%90%EC%97%B4/2908%EB%B2%88.py">🔗</a>  |   |
+|  문자열  |  <a href="https://www.acmicpc.net/problem/5622">5622번: 다이얼</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/3%EC%A3%BC%EC%B0%A8/%EB%AC%B8%EC%9E%90%EC%97%B4/5622%EB%B2%88.py">🔗</a>  |   |
+|  :star:문자열  |  <a href="https://www.acmicpc.net/problem/2941">2941번: 크로아티아 알파벳</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/3%EC%A3%BC%EC%B0%A8/%EB%AC%B8%EC%9E%90%EC%97%B4/2941%EB%B2%88.py">🔗</a>  | <a href="https://ooyoung.tistory.com/74">:bookmark:</a>  |
+|  :star:문자열  |  <a href="https://www.acmicpc.net/problem/1316">1316번: 그룹 단어 체커</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/3%EC%A3%BC%EC%B0%A8/%EB%AC%B8%EC%9E%90%EC%97%B4/1316%EB%B2%88.py">🔗</a>  | <a href="https://hyunsun99.tistory.com/142">:bookmark:</a>  |
 <br>
 
 

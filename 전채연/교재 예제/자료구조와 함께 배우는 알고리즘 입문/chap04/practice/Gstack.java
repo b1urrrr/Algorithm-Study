@@ -1,3 +1,5 @@
+// Q2
+
 package chap04.practice;
 
 public class Gstack<E> {
