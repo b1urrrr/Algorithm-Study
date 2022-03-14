@@ -1,36 +1,36 @@
-public class IntQueue {
+public class Gqueue<E> {
     private int max;   // 큐의 용량
     private int front; // 첫 번째 요소 커서
     private int rear;  // 마지막 요소 커서
     private int num;   // 현재 데이터 수
-    private int[] que; // 큐 본체
+    private E[] que; // 큐 본체
 
     // 실행 시 예외 : 큐가 비어 있음
-    public class EmptyIntQueueException extends RuntimeException {
-        public EmptyIntQueueException() { }
+    public static class EmptyGQueueException extends RuntimeException{
+        public EmptyGQueueException() { }
     }
 
     // 실행 시 예외 : 큐가 가득 참
-    public class OverflowIntQueueException extends RuntimeException {
-        public OverflowIntQueueException() { }
+    public static class OverflowGQueueException extends RuntimeException{
+        public OverflowGQueueException() { }
     }
 
     // 생성자
-    public IntQueue(int capacity) {
+    public Gqueue(int capacity) {
         num = front = rear = 0;
         max = capacity;
 
         try {
-            que = new int[max];
+            que = (E[]) new Object[max];
         } catch (OutOfMemoryError e) { // 생성 불가능능
            max = 0;
         }
     }
 
     // 큐에 데이터를 인큐
-    public int enque(int x) throws OverflowIntQueueException {
+    public E enque(E x) throws OverflowGQueueException {
         if (num >= max)
-            throw new OverflowIntQueueException(); // 큐가 가득 참
+            throw new OverflowGQueueException(); // 큐가 가득 참
         que[rear++] = x;
         num++;
         if (rear == max) rear = 0;
@@ -38,24 +38,24 @@ public class IntQueue {
     }
 
     // 디큐
-    public int deque() throws EmptyIntQueueException {
+    public E deque() throws EmptyGQueueException {
         if (num <= 0)
-            throw new EmptyIntQueueException();
-        int x = que[front++];
+            throw new EmptyGQueueException();
+        E x = que[front++];
         num--;
         if (front == max) front = 0;
         return x;
     }
 
     // peek
-    public int peek() throws EmptyIntQueueException {
+    public E peek() throws EmptyGQueueException {
         if (num <= 0)
-            throw new EmptyIntQueueException();
+            throw new EmptyGQueueException();
         return que[front];
     }
 
     // 큐에서 x를 검색하여 인덱스 (찾지 못하면 -1)를 반환
-    public int indexOf(int x) {
+    public int indexOf(E x) {
         for (int i = 0; i < num; i++) {
             int idx = (i + front) % max;
             if (que[idx] == x)
@@ -103,7 +103,7 @@ public class IntQueue {
     // 연습문제 5번 - 임의의 데이터를 검색하는 search 메서드 추가하기
     // 큐 안에서 몇 번째에 있는 가를 양수로 반환 (큐의 프런트에 있는 경우는 1로)
     // 검색 실패할 경우는 0을 반환
-    public int search(int x) {
+    public int search(E x) {
         for (int i = 0; i < num; i++) {
             int idx = (i + front) % max;
             if (que[idx] == x)
