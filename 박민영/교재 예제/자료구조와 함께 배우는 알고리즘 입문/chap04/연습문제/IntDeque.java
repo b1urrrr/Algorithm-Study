@@ -1,22 +1,26 @@
-public class IntQueue {
+public class IntDeque {
     private int max;   // 큐의 용량
     private int front; // 첫 번째 요소 커서
     private int rear;  // 마지막 요소 커서
     private int num;   // 현재 데이터 수
-    private int[] que; // 큐 본체
+    private int[] que; // 덱 본체
 
-    // 실행 시 예외 : 큐가 비어 있음
-    public class EmptyIntQueueException extends RuntimeException {
-        public EmptyIntQueueException() { }
+    enum FrontOrBack { // 앞에서 동작할지 뒤에서 동작할지
+        Front, Back
     }
 
-    // 실행 시 예외 : 큐가 가득 참
-    public class OverflowIntQueueException extends RuntimeException {
-        public OverflowIntQueueException() { }
+    // 실행 시 예외 : 덱이 비어 있음
+    public class EmptyDeckException extends RuntimeException {
+        public EmptyDeckException() { }
+    }
+
+    // 실행 시 예외 : 덱이 가득 참
+    public class OverflowDeckException extends RuntimeException {
+        public OverflowDeckException() { }
     }
 
     // 생성자
-    public IntQueue(int capacity) {
+    public IntDeque(int capacity) {
         num = front = rear = 0;
         max = capacity;
 
@@ -28,30 +32,52 @@ public class IntQueue {
     }
 
     // 큐에 데이터를 인큐
-    public int enque(int x) throws OverflowIntQueueException {
+    public int enque(FrontOrBack fob, int x) throws OverflowDeckException {
         if (num >= max)
-            throw new OverflowIntQueueException(); // 큐가 가득 참
-        que[rear++] = x;
-        num++;
-        if (rear == max) rear = 0;
+            throw new OverflowDeckException(); // 큐가 가득 참
+        if (fob == FrontOrBack.Front) { // 앞에서 인큐
+            num++;
+            if (--front < 0) front = max - 1; // 앞쪽이 가득 차면 뒤쪽에 추가
+            que[front] = x;
+        }
+        else {                        // 뒤에서 인큐
+            que[rear++] = x;
+            num++;
+            if (rear == max) rear = 0;
+        }
         return x;
     }
 
     // 디큐
-    public int deque() throws EmptyIntQueueException {
+    public int deque(FrontOrBack fob) throws EmptyDeckException {
         if (num <= 0)
-            throw new EmptyIntQueueException();
-        int x = que[front++];
-        num--;
-        if (front == max) front = 0;
+            throw new EmptyDeckException();
+        int x = 0;
+        if (fob == FrontOrBack.Front) { // 앞쪽에서 디큐해야 하는 경우
+            x = que[front++];
+            num--;
+            if (front == max) front = 0;
+        }
+        else {                          // 뒤쪽에서 디큐해야 하는 경우
+            x = que[--rear];
+            num--;
+            if (rear < 0) rear = max - 1;
+        }
         return x;
     }
 
     // peek
-    public int peek() throws EmptyIntQueueException {
+    public int peek(FrontOrBack fob) throws EmptyDeckException {
         if (num <= 0)
-            throw new EmptyIntQueueException();
-        return que[front];
+            throw new EmptyDeckException();
+        int x = 0;
+        if (fob == FrontOrBack.Front) {
+            x = que[front];
+        }
+        else {
+            x = que[rear == 0 ? max - 1 : rear - 1];
+        }
+        return x;
     }
 
     // 큐에서 x를 검색하여 인덱스 (찾지 못하면 -1)를 반환
