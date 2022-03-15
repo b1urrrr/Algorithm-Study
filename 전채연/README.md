@@ -37,7 +37,7 @@
 ### Week 04 (22.03.20.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/2869">백준 2869번 : 달팽이는 올라가고 싶다</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/달팽이는_올라가고_싶다.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/2869">백준 2869번 : 달팽이는 올라가고 싶다</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/달팽이는_올라가고_싶다.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
