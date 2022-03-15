@@ -32,6 +32,13 @@
 | 카운팅 정렬 (Counting Sort) | <a href="https://www.acmicpc.net/problem/10989">백준 10989번 : 수 정렬하기 3</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Counting%20Sort%20(카운팅%20정렬)/수_정렬하기_3.java">🔗</a> |
 | 카운팅 정렬 (Counting Sort) | <a href="https://www.acmicpc.net/problem/10867">백준 10867번 : 중복 빼고 정렬하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Counting%20Sort%20(카운팅%20정렬)/중복_빼고_정렬하기.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 04 (22.03.20.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/2869">백준 2869번 : 달팽이는 올라가고 싶다</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/달팽이는_올라가고_싶다.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
@@ -45,9 +52,10 @@
 | Week | Chapter | Title | Date | Link |
 | :--: | :-----: | :---: | :--: | :--: |
 | 1 | 01 | 기본 알고리즘 | 22.03.01 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap01">🔗</a> |
-|  | 02 | 기본 자료구조 | 22.03.01 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap02">🔗</a> |
+|   | 02 | 기본 자료구조 | 22.03.01 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap02">🔗</a> |
 | 2 | 03 | 검색 | 22.03.08 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap03">🔗</a> |
 | 3 | 04 | 스택과 큐 | 22.03.15 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap04">🔗</a> |
+|   | 05 | 재귀 알고리즘 | 22.03.15 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap05">🔗</a> |
 
 <!--
 |  |  |  | 22. | <a href="">🔗</a> |
