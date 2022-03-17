@@ -60,6 +60,15 @@
 |  :star:문자열  |  <a href="https://www.acmicpc.net/problem/1316">1316번: 그룹 단어 체커</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/3%EC%A3%BC%EC%B0%A8/%EB%AC%B8%EC%9E%90%EC%97%B4/1316%EB%B2%88.py">🔗</a>  | <a href="https://hyunsun99.tistory.com/142">:bookmark:</a>  |
 <br>
 
+<br>
+
+### Week 04 (22.03.20.)
+
+|    유형    |                                제목                                 |                                                                                  풀이                                                                                   | Reference Site |
+| :--------: | :-----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: |
+|  기본 수학  |  <a href="https://www.acmicpc.net/problem/1712">1712번: 손익분기점</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/4%EC%A3%BC%EC%B0%A8/1712%EB%B2%88.py">🔗</a>  |   |
+|  기본 수학  |  <a href="https://www.acmicpc.net/problem/2292">2292번: 벌집</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/4%EC%A3%BC%EC%B0%A8/2292%EB%B2%88.py">🔗</a>  |   |
+
 
 ## 📍 Study Book
 
