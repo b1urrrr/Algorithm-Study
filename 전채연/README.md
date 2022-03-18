@@ -40,6 +40,7 @@
 | 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/2869">백준 2869번 : 달팽이는 올라가고 싶다</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/달팽이는_올라가고_싶다.java">🔗</a> |
 | 스택 (Stack) | <a href="https://www.acmicpc.net/problem/10828">백준 10828번 : 스택</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Stack%20(스택)/스택.java">🔗</a> |
 | 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/2775">백준 2775번 : 부녀회장이 될테야</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/부녀회장이_될테야.java">🔗</a> |
+| 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/11047">백준 11047번 : 동전 0</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Greedy%20(그리디)/동전_0.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
