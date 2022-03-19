@@ -70,9 +70,9 @@
 |  기본 수학  |  <a href="https://www.acmicpc.net/problem/2292">2292번: 벌집</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/4%EC%A3%BC%EC%B0%A8/2292%EB%B2%88.py">🔗</a>  |   |
 |  기본 수학  |  <a href="https://www.acmicpc.net/problem/1193">1193번: 분수찾기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/4%EC%A3%BC%EC%B0%A8/1193%EB%B2%88.py">🔗</a>  |   |
 |  :star:기본 수학  |  <a href="https://www.acmicpc.net/problem/2869">2869번: 달팽이는 올라가고 싶다</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/4%EC%A3%BC%EC%B0%A8/2869%EB%B2%88.py">🔗</a>  | <a href="https://deokkk9.tistory.com/12">:bookmark:</a> |
-|  기본 수학  |  <a href="https://www.acmicpc.net/problem/10250">10250번: ACM 호텔</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/4%EC%A3%BC%EC%B0%A8/1193%EB%B2%88.py">🔗</a>  |   |
-|  :star:기본 수학  |  <a href="https://www.acmicpc.net/problem/2839">2839번: 설탕 배달</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/4%EC%A3%BC%EC%B0%A8/1193%EB%B2%88.py">🔗</a>  | <a href="https://ooyoung.tistory.com/81">:bookmark:</a>   |
-|  기본 수학  |  <a href="https://www.acmicpc.net/problem/10757">10757번: 큰 수 A+B</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/4%EC%A3%BC%EC%B0%A8/1193%EB%B2%88.py">🔗</a>  |   |
+|  기본 수학  |  <a href="https://www.acmicpc.net/problem/10250">10250번: ACM 호텔</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/4%EC%A3%BC%EC%B0%A8/10250%EB%B2%88.py">🔗</a>  |   |
+|  :star:기본 수학  |  <a href="https://www.acmicpc.net/problem/2839">2839번: 설탕 배달</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/4%EC%A3%BC%EC%B0%A8/2839%EB%B2%88.py">🔗</a>  | <a href="https://ooyoung.tistory.com/81">:bookmark:</a>   |
+|  기본 수학  |  <a href="https://www.acmicpc.net/problem/10757">10757번: 큰 수 A+B</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/4%EC%A3%BC%EC%B0%A8/10757%EB%B2%88.py">🔗</a>  |   |
 
 
 ## 📍 Study Book
