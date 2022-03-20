@@ -22,11 +22,20 @@
 ### Week 03 (22.03.13.)
 | 유형 | 제목 | 풀이 | 다른 코드 공부 |
 | :---: | :---: | :---: | :---: |
-| 구현/문자열 | <a href="https://www.acmicpc.net/problem/9093">백준 9093번 : 단어 뒤집기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n9093/Main.javaa">🔗</a> |
+| 구현/문자열 | <a href="https://www.acmicpc.net/problem/9093">백준 9093번 : 단어 뒤집기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n9093/Main.java">🔗</a> |
 | 정렬(선택정렬) | <a href="https://www.acmicpc.net/problem/2750">백준 2750번 : 수 정렬하기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/Selection%20Sort%20(%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n2750/Main.java">🔗</a> |
 | 정렬(병합정렬) | <a href="https://www.acmicpc.net/problem/2751">백준 2751번 : 수 정렬하기 2</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/Merge%20Sort%20(%EB%B3%91%ED%95%A9%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n2751/Main.java">🔗</a> |
 | 정렬(카운팅정렬) | <a href="https://www.acmicpc.net/problem/10989">백준 10989번 : 수 정렬하기 3</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/Counting%20Sort%20(%EC%B9%B4%EC%9A%B4%ED%8C%85%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n10989/%EB%82%B4%EA%B0%80%20%ED%91%BC%20%EC%BD%94%EB%93%9C/Main.java">🔗</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/Counting%20Sort%20(%EC%B9%B4%EC%9A%B4%ED%8C%85%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n10989/%EB%8B%A4%EB%A5%B8%20%EC%BD%94%EB%93%9C/Main.java">📝</a> |
 | 정렬(카운팅정렬) | <a href="https://www.acmicpc.net/problem/2108">백준 2108번 : 통계학</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/Counting%20Sort%20(%EC%B9%B4%EC%9A%B4%ED%8C%85%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n2108/Main.java">🔗</a> |
+
+### Week 04 (22.03.20.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 재귀 | <a href="https://www.acmicpc.net/problem/10872">백준 10872번 : 팩토리얼</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EB%B0%B1%EC%A4%80/n10872/Main.java">🔗</a> |
+| 재귀 | <a href="https://www.acmicpc.net/problem/10870">백준 10870번 : 피보나치 수 5</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EB%B0%B1%EC%A4%80/n10870/Main.java">🔗</a> |
+| 재귀 | <a href="https://www.acmicpc.net/problem/2447">백준 2447번 : 별 찍기 - 10</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EB%B0%B1%EC%A4%80/n2447/Main.java">🔗</a> |
+| 재귀 | <a href="https://www.acmicpc.net/problem/17478">백준 17478번 : 재귀함수가 뭔가요?</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EB%B0%B1%EC%A4%80/n17478/Main.java">🔗</a> |
+| 재귀 | <a href="https://www.acmicpc.net/problem/2630">백준 2630번 : 색종이 만들기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EB%B0%B1%EC%A4%80/n2630/Main.java">🔗</a> |
 
 <br>
 
