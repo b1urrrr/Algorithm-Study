@@ -42,6 +42,7 @@
 | 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/2775">백준 2775번 : 부녀회장이 될테야</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/부녀회장이_될테야.java">🔗</a> |
 | 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/11047">백준 11047번 : 동전 0</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Greedy%20(그리디)/동전_0.java">🔗</a> |
 | 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/1931">백준 1931번 : 회의실 배정</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Greedy%20(그리디)/회의실_배정.java">🔗</a> |
+| 큐 (Queue) | <a href="https://www.acmicpc.net/problem/10845">백준 10845번 : 큐</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Queue%20(큐)/큐.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |

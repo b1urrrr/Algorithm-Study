@@ -36,6 +36,7 @@
 | 재귀 | <a href="https://www.acmicpc.net/problem/2447">백준 2447번 : 별 찍기 - 10</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EB%B0%B1%EC%A4%80/n2447/Main.java">🔗</a> |
 | 재귀 | <a href="https://www.acmicpc.net/problem/17478">백준 17478번 : 재귀함수가 뭔가요?</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EB%B0%B1%EC%A4%80/n17478/Main.java">🔗</a> |
 | 재귀 | <a href="https://www.acmicpc.net/problem/2630">백준 2630번 : 색종이 만들기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EB%B0%B1%EC%A4%80/n2630/Main.java">🔗</a> |
+| 재귀 | <a href="https://www.acmicpc.net/problem/1769">백준 1769번 : 3의 배수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EB%B0%B1%EC%A4%80/n1769/Main.java">🔗</a> |
 
 <br>
 
