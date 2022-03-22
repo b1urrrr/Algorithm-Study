@@ -52,6 +52,6 @@
 
 
 ## 📍 Personal Reference Site
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://velog.io/@godqhrals"><img alt="Velog" src ="https://img.shields.io/badge/Velog_Blog-20C997.svg?&style=for-the-badge&logo=Velog_Blog&logoColor=White"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://velog.io/@godqhrals"><img alt="Velog" src ="https://img.shields.io/badge/Velog_Blog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white"/></a>
 
     
