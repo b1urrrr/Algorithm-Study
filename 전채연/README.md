@@ -19,7 +19,7 @@
 | 퀵 정렬 (Quick Sort) | <a href="https://www.acmicpc.net/problem/1427">백준 1427번 : 소트인사이드</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Quick%20Sort%20(퀵%20정렬)/소트인사이드.java">🔗</a> |
 | 퀵 정렬 (Quick Sort) | <a href="https://www.acmicpc.net/problem/24090">백준 24090번 : 알고리즘 수업 - 퀵 정렬 1</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Quick%20Sort%20(퀵%20정렬)/알고리즘_수업_퀵_정렬_1.java">🔗</a> |
 | 퀵 정렬 (Quick Sort) | <a href="https://www.acmicpc.net/problem/24091">백준 24091번 : 알고리즘 수업 - 퀵 정렬 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Quick%20Sort%20(퀵%20정렬)/알고리즘_수업_퀵_정렬_2.java">🔗</a> |
-| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/1929">백준 1929번 : 소수 구하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/소수_구하기.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/1929">백준 1929번 : 소수 구하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/Sieve%20of%20Eratosthenes%20(에라토스테네스의%20체)/소수_구하기.java">🔗</a> |
 
 <h1 dir="auto"></h1>
 
@@ -51,6 +51,8 @@
 | :------: | :---: | :--: |
 | 재귀 (Recursion) | <a href="https://www.acmicpc.net/problem/11729">백준 11729번 : 하노이 탑 이동 순서</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Recursion%20(재귀)/하노이_탑_이동_순서.java">🔗</a> |
 | 이중 피벗 퀵 정렬 (Dual Pivot Quick Sort) | <a href="https://www.acmicpc.net/problem/1181">백준 1181번 : 단어 정렬</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Dual%20Pivot%20Quick%20Sort%20(이중%20피벗%20퀵%20정렬)/단어_정렬.java">🔗</a> |
+| 스택 (Stack) | <a href="https://www.acmicpc.net/problem/10773">백준 10773번 : 제로</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Stack%20(스택)/제로.java">🔗</a> |
+| 스택 (Stack) | <a href="https://www.acmicpc.net/problem/9012">백준 9012번 : 괄호</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Stack%20(스택)/괄호.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
