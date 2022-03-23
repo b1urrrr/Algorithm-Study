@@ -84,6 +84,7 @@
 |  기본 수학 2  |  <a href="https://www.acmicpc.net/problem/2581">2581번: 소수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/5%EC%A3%BC%EC%B0%A8/2581%EB%B2%88.py">🔗</a>  |   |
 |  기본 수학 2  |  <a href="https://www.acmicpc.net/problem/11653">11653번: 소인수분해</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/5%EC%A3%BC%EC%B0%A8/11653%EB%B2%88.py">🔗</a>  |   |
 |  :star:기본 수학 2  |  <a href="https://www.acmicpc.net/problem/1929">1929번: 소수 구하기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/5%EC%A3%BC%EC%B0%A8/1929%EB%B2%88.py">🔗</a>  | <a href="https://gettingtoknowit.tistory.com/89">에라토스테네스의 체</a> |
+|  :star:기본 수학 2  |  <a href="https://www.acmicpc.net/problem/4948">4948번: 베르트랑 공준</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/5%EC%A3%BC%EC%B0%A8/4948%EB%B2%88.py">🔗</a>  | <a href="https://wlstyql.tistory.com/74">에라토스테네스의 체</a> |
 
 ## 📍 Study Book
 
