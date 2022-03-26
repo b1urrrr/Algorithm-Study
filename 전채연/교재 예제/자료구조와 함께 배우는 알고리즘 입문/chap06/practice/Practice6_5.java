@@ -1,30 +1,39 @@
-package chap06;
+package chap06.practice;
 
 import java.util.Scanner;
 
-public class BubbleSort2 {
+public class Practice6_5 {
     static void swap(int[] a, int idx1, int idx2) {
         int t = a[idx1];
         a[idx1] = a[idx2];
         a[idx2] = t;
     }
 
-    static void bubbleSort2(int[] a, int n) {
-        for (int i = 0; i < n - 1; i++) {
-            int exchg = 0;
-            for (int j = n - 1; j > i; j--)
-                if (a[j - 1] > a[j]) {
-                    swap(a, j - 1, j);
-                    exchg++;
+    static void bubbleSort(int[] a, int n) {
+        int start = 0;
+        int end = n - 1;
+        int turn = 1;
+        while (start < end) {
+            if (turn % 2 == 1) {
+                for (int i = end; i > start; i--) {
+                    if (a[i - 1] > a[i])
+                        swap(a, i - 1, i);
                 }
-            if (exchg == 0) break;
+                start++;
+            } else {
+                for (int i = start; i < end; i++) {
+                    if (a[i] > a[i + 1])
+                        swap(a, i, i + 1);
+                }
+                end--;
+            }
         }
     }
 
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
 
-        System.out.println("버블 정렬(버전 2)");
+        System.out.println("양방향 버블 정렬");
         System.out.print("요솟수 : ");
         int nx = stdIn.nextInt();
         int[] x = new int[nx];
@@ -34,7 +43,7 @@ public class BubbleSort2 {
             x[i] = stdIn.nextInt();
         }
 
-        bubbleSort2(x, nx);
+        bubbleSort(x, nx);
 
         System.out.println("오름차순으로 정렬했습니다.");
         for (int i = 0; i < nx; i++)
