@@ -85,6 +85,15 @@
 |  기본 수학 2  |  <a href="https://www.acmicpc.net/problem/11653">11653번: 소인수분해</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/5%EC%A3%BC%EC%B0%A8/11653%EB%B2%88.py">🔗</a>  |   |
 |  :star:기본 수학 2  |  <a href="https://www.acmicpc.net/problem/1929">1929번: 소수 구하기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/5%EC%A3%BC%EC%B0%A8/1929%EB%B2%88.py">🔗</a>  | <a href="https://gettingtoknowit.tistory.com/89">에라토스테네스의 체</a> |
 |  :star:기본 수학 2  |  <a href="https://www.acmicpc.net/problem/4948">4948번: 베르트랑 공준</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/5%EC%A3%BC%EC%B0%A8/4948%EB%B2%88.py">🔗</a>  | <a href="https://wlstyql.tistory.com/74">에라토스테네스의 체</a> |
+|  기본 수학 2  |  <a href="https://www.acmicpc.net/problem/1085">1085번: 직사각형에서 탈출</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/5%EC%A3%BC%EC%B0%A8/1085%EB%B2%88.py">🔗</a>  |  |
+|  기본 수학 2  |  <a href="https://www.acmicpc.net/problem/1085">1085번: 직사각형에서 탈출</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/5%EC%A3%BC%EC%B0%A8/1085%EB%B2%88.py">🔗</a>  |  |
+|  :star:기본 수학 2  |  <a href="https://www.acmicpc.net/problem/3009">3009번: 네 번째 점</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/5%EC%A3%BC%EC%B0%A8/3009%EB%B2%88.py">🔗</a>  |  |
+|  기본 수학 2  |  <a href="https://www.acmicpc.net/problem/4153">4153번: 직각삼각형</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/5%EC%A3%BC%EC%B0%A8/4153%EB%B2%88.py">🔗</a>  |  |
+|  재귀  |  <a href="https://www.acmicpc.net/problem/10872">10872번: 팩토리얼</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/5%EC%A3%BC%EC%B0%A8/10870%EB%B2%88.py">🔗</a>  |  |
+|  재귀  |  <a href="https://www.acmicpc.net/problem/10870">10870번: 피보나치 수 5</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/5%EC%A3%BC%EC%B0%A8/10872%EB%B2%88.py">🔗</a>  |  |
+|  :star:정렬  |  <a href="https://www.acmicpc.net/problem/2750">2750번: 수 정렬하기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/5%EC%A3%BC%EC%B0%A8/2750%EB%B2%88.py">🔗</a>  |  |
+
+<br>
 
 ## 📍 Study Book
 
