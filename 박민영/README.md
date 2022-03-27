@@ -44,6 +44,9 @@
 | 정렬(버블정렬) | <a href="https://www.acmicpc.net/problem/1427">백준 1427번 : 소트인사이드</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/Bubble%20Sort%20(%EB%B2%84%EB%B8%94%EC%A0%95%EB%A0%AC)/n1427/Main.java">🔗</a> |
 | 브루트포스 | <a href="https://www.acmicpc.net/problem/2798">백준 2798번 : 블랙잭</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n2798/Main.java">🔗</a> |
 | 정렬(자바 Arrays.sort) | <a href="https://www.acmicpc.net/problem/11650">백준 11650번 : 좌표 정렬하기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EA%B8%B0%ED%83%80/%EB%B0%B1%EC%A4%80/n11650/Main.java">🔗</a> |
+| 정렬(자바 Arrays.sort) | <a href="https://www.acmicpc.net/problem/11651">백준 11651번 : 좌표 정렬하기 2</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EA%B8%B0%ED%83%80/%EB%B0%B1%EC%A4%80/n11651/Main.java">🔗</a> |
+| 정렬(자바 Arrays.sort) | <a href="https://www.acmicpc.net/problem/10814">백준 10814번 : 나이순 정렬</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EA%B8%B0%ED%83%80/%EB%B0%B1%EC%A4%80/n10814/Main.java">🔗</a> |
+| 정렬(자바 Arrays.sort) | <a href="https://www.acmicpc.net/problem/1181">백준 1181번 : 단어 정렬</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EA%B8%B0%ED%83%80/%EB%B0%B1%EC%A4%80/n1181/Main.java">🔗</a> |
 
 <br>
 
