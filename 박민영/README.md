@@ -38,7 +38,7 @@
 | 재귀 | <a href="https://www.acmicpc.net/problem/2630">백준 2630번 : 색종이 만들기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EB%B0%B1%EC%A4%80/n2630/Main.java">🔗</a> |
 | 재귀 | <a href="https://www.acmicpc.net/problem/1769">백준 1769번 : 3의 배수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EB%B0%B1%EC%A4%80/n1769/Main.java">🔗</a> |
 
-### Week 04 (22.03.20.)
+### Week 05 (22.03.27.)
 | 유형 | 제목 | 풀이 | 다른 코드 공부 |
 | :---: | :---: | :---: | :---: |
 | 정렬(버블정렬) | <a href="https://www.acmicpc.net/problem/1427">백준 1427번 : 소트인사이드</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/Bubble%20Sort%20(%EB%B2%84%EB%B8%94%EC%A0%95%EB%A0%AC)/n1427/Main.java">🔗</a> |
