@@ -95,6 +95,19 @@
 
 <br>
 
+### Week 06 (22.04.04.)
+
+|    유형    |                                제목                                 |                                                                                  풀이                                                                                   | Reference Site |
+| :--------: | :-----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: |
+|  :star:정렬  |  <a href="https://www.acmicpc.net/problem/2798">2798번: 블랙잭</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/6%EC%A3%BC%EC%B0%A8/2798%EB%B2%88.py">🔗</a>  |  다시풀기  |
+|  정렬  |  <a href="https://www.acmicpc.net/problem/2751">2751번: 수 정렬하기2</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/6%EC%A3%BC%EC%B0%A8/2751%EB%B2%88.py">🔗</a>  |   |
+|  :star:정렬  |  <a href="https://www.acmicpc.net/problem/10989">11653번: 수 정렬하기3</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/6%EC%A3%BC%EC%B0%A8/10989%EB%B2%88.py">🔗</a>  | <a href="https://yoonsang-it.tistory.com/49">메모리 고려</a>  |
+|  :star:정렬  |  <a href="https://www.acmicpc.net/problem/2108">2108번: 통계학</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/6%EC%A3%BC%EC%B0%A8/2108%EB%B2%88.py">🔗</a>  | <a href="https://somjang.tistory.com/entry/BaekJoon-2108%EB%B2%88-%ED%86%B5%EA%B3%84%ED%95%99-Python">최빈값 내장함수</a> |
+
+
+
+<br>
+
 ## 📍 Study Book
 
 ### 자료구조와 함깨 배우는 알고리즘 입문 (파이썬 편)
