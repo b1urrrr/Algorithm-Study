@@ -57,7 +57,7 @@
 
 <h1 dir="auto"></h1>
 
-### Week 05 (22.03.27.)
+### Week 06 (22.04.03.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 이중 피벗 퀵 정렬 (Dual Pivot Quick Sort) | <a href="https://www.acmicpc.net/problem/11651">백준 11651번 : 좌표 정렬하기 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Dual%20Pivot%20Quick%20Sort%20(이중%20피벗%20퀵%20정렬)/좌표_정렬하기_2.java">🔗</a> |
