@@ -41,12 +41,19 @@
 ### Week 05 (22.03.27.)
 | 유형 | 제목 | 풀이 | 다른 코드 공부 |
 | :---: | :---: | :---: | :---: |
-| 정렬(버블정렬) | <a href="https://www.acmicpc.net/problem/1427">백준 1427번 : 소트인사이드</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/Bubble%20Sort%20(%EB%B2%84%EB%B8%94%EC%A0%95%EB%A0%AC)/n1427/Main.java">🔗</a> |
+| 정렬(버블정렬) | <a href="https://www.acmicpc.net/problem/1427">백준 1427번 : 소트인사이드</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/Bubble%20Sort%20(%EB%B2%84%EB%B8%94%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n1427/Main.java">🔗</a> |
 | 브루트포스 | <a href="https://www.acmicpc.net/problem/2798">백준 2798번 : 블랙잭</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n2798/Main.java">🔗</a> |
 | 정렬(자바 Arrays.sort) | <a href="https://www.acmicpc.net/problem/11650">백준 11650번 : 좌표 정렬하기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EA%B8%B0%ED%83%80/%EB%B0%B1%EC%A4%80/n11650/Main.java">🔗</a> |
 | 정렬(자바 Arrays.sort) | <a href="https://www.acmicpc.net/problem/11651">백준 11651번 : 좌표 정렬하기 2</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EA%B8%B0%ED%83%80/%EB%B0%B1%EC%A4%80/n11651/Main.java">🔗</a> |
 | 정렬(자바 Arrays.sort) | <a href="https://www.acmicpc.net/problem/10814">백준 10814번 : 나이순 정렬</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EA%B8%B0%ED%83%80/%EB%B0%B1%EC%A4%80/n10814/Main.java">🔗</a> |
 | 정렬(자바 Arrays.sort) | <a href="https://www.acmicpc.net/problem/1181">백준 1181번 : 단어 정렬</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EA%B8%B0%ED%83%80/%EB%B0%B1%EC%A4%80/n1181/Main.java">🔗</a> |
+
+### Week 06 (22.04.03.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 재귀 | <a href="https://www.acmicpc.net/problem/11729">백준 11729번 : 하노이 탑 이동 순서</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EB%B0%B1%EC%A4%80/n11729/Main.java">🔗</a> |
+| 브루트포스 | <a href="https://www.acmicpc.net/problem/2231">백준 2231번 : 분해합</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n2231/%EB%82%B4%EA%B0%80%20%ED%91%BC%20%EA%B2%83/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n2231/%EB%8B%A4%EB%A5%B8%20%EC%BD%94%EB%93%9C%20%EA%B3%B5%EB%B6%80%201/Main.java">1📝</a> <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n2231/%EB%8B%A4%EB%A5%B8%20%EC%BD%94%EB%93%9C%20%EA%B3%B5%EB%B6%80%202/Main.java">2📝</a>
+
 
 <br>
 
@@ -60,6 +67,7 @@
 | 3 | 04 | 스택과 큐 | 22.03.14 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%95%A8%EA%BB%98%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9E%85%EB%AC%B8/chap04">🔗</a>
 |  | 05 | 재귀 알고리즘 | 22.03.15 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%95%A8%EA%BB%98%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9E%85%EB%AC%B8/chap05">🔗</a>
 | 4 | - 복습 - | 재귀 복습 진행 | 22.03.22 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%95%A8%EA%BB%98%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9E%85%EB%AC%B8/chap05">🔗</a>
+| 5 | 06 | 정렬 | 22.03.29 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%95%A8%EA%BB%98%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9E%85%EB%AC%B8/chap06">🔗</a>
 
 
 ## 📍 Personal Reference Site
