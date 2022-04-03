@@ -2,6 +2,7 @@
  * @author Minyeong Park
  * @date 2022.04.03.
  * 소수
+ * 참고한 글 : https://st-lab.tistory.com/80
  * 문제 링크 : https://www.acmicpc.net/problem/2581
  */
 
