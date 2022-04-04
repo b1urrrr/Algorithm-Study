@@ -103,8 +103,12 @@
 |  정렬  |  <a href="https://www.acmicpc.net/problem/2751">2751번: 수 정렬하기2</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/6%EC%A3%BC%EC%B0%A8/2751%EB%B2%88.py">🔗</a>  |   |
 |  :star:정렬  |  <a href="https://www.acmicpc.net/problem/10989">11653번: 수 정렬하기3</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/6%EC%A3%BC%EC%B0%A8/10989%EB%B2%88.py">🔗</a>  | <a href="https://yoonsang-it.tistory.com/49">메모리 고려</a>  |
 |  :star:정렬  |  <a href="https://www.acmicpc.net/problem/2108">2108번: 통계학</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/6%EC%A3%BC%EC%B0%A8/2108%EB%B2%88.py">🔗</a>  | <a href="https://somjang.tistory.com/entry/BaekJoon-2108%EB%B2%88-%ED%86%B5%EA%B3%84%ED%95%99-Python">최빈값 내장함수</a> |
-
-
+|  정렬  |  <a href="https://www.acmicpc.net/problem/1427">1427번: 소트인사이드</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/6%EC%A3%BC%EC%B0%A8/1427%EB%B2%88.py">🔗</a>  |  |
+|  :star:정렬  |  <a href="https://www.acmicpc.net/problem/11650">11650번: 좌표 정렬하기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/6%EC%A3%BC%EC%B0%A8/11650%EB%B2%88.py">🔗</a>  | <a href="https://ooyoung.tistory.com/59">key=lambda</a> |
+|  정렬  |  <a href="https://www.acmicpc.net/problem/11651">11651번: 좌표 정렬하기2</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/6%EC%A3%BC%EC%B0%A8/11651%EB%B2%88.py">🔗</a>  |  |
+|  정렬  |  <a href="https://www.acmicpc.net/problem/11651">11651번: 좌표 정렬하기2</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/6%EC%A3%BC%EC%B0%A8/11651%EB%B2%88.py">🔗</a>  |  |
+|  :star:정렬  |  <a href="https://www.acmicpc.net/problem/1181">1181번: 단어 정렬</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/6%EC%A3%BC%EC%B0%A8/1181%EB%B2%88.py">🔗</a>  | <a href="https://wook-2124.tistory.com/468">중복제거 set()</a> |
+|  정렬  |  <a href="https://www.acmicpc.net/problem/10814">10814번: 나이순 정렬</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/6%EC%A3%BC%EC%B0%A8/10814%EB%B2%88.py">🔗</a>  |  |
 
 <br>
 
