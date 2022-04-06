@@ -1,19 +1,16 @@
 N = int(input())
-a = N
-min_result = a
+min_result = N
 
-while a > 0:
-    b = a
-    sum = a
-    result = a
+for i in range(N, 1, -1):
+    b = i
+    sum = i
     while b > 0:
         sum = sum + (b%10)
-        b = b // 10
-    if sum == N and min_result > result:
-        min_result = result
-    else:
-        a -= 1
-if min_result == a:
-    print(0)
-else:
+        b = b//10
+    if sum == N and min_result >= i:
+        min_result = i
+
+if min_result != N:
     print(min_result)
+else:
+    print(0)
