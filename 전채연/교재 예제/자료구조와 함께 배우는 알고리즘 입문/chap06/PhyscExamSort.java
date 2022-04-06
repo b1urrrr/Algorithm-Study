@@ -29,7 +29,6 @@ public class PhyscExamSort {
     }
 
     public static void main(String[] args) {
-        Scanner stdIn = new Scanner(System.in);
         PhyscData[] x = {
             new PhyscData("이나령", 162, 0.3),
             new PhyscData("전서현", 173, 0.7),
