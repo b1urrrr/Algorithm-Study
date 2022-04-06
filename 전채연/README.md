@@ -66,6 +66,14 @@
 | 스택 (Stack) | <a href="https://www.acmicpc.net/problem/4949">백준 4949번 : 균형잡힌 세상</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Stack%20(스택)/균형잡힌_세상.java">🔗</a> |
 | 덱 (Deque) | <a href="https://www.acmicpc.net/problem/10866">백준 10866번 : 덱</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Deque%20(덱)/덱.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 07 (22.04.10.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 이분 탐색 (Binary Search) | <a href="https://www.acmicpc.net/problem/1920">백준 1920번 : 수 찾기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Search%20(탐색)/Binary%20Search%20(이분%20탐색)/수_찾기.java">🔗</a> |
+| 브루트포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/7568">백준 7568번 : 덩치</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/덩치.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
