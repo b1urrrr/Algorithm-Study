@@ -94,6 +94,7 @@
 | 3 | 04 | 스택과 큐 | 22.03.15 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap04">🔗</a> |
 |   | 05 | 재귀 알고리즘 | 22.03.15 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap05">🔗</a> |
 | 5 | 06 | 정렬 | 22.03.29. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap06">🔗</a> |
+| 6 | 07 | 집합 | 22.04.05. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap07">🔗</a> |
 
 <!--
 |  |  |  | 22. | <a href="">🔗</a> |
