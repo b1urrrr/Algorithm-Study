@@ -57,6 +57,15 @@
 | 수학 | <a href="https://www.acmicpc.net/problem/2581">백준 2581번 : 소수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n2581/Main.java">🔗</a> |
 | 브루트포스 | <a href="https://www.acmicpc.net/problem/7568">백준 7568번 : 덩치</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n7568/Main.java">🔗</a> |
 
+### Week 07 (22.04.10.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 자료구조(배열) | <a href="https://www.acmicpc.net/problem/1546">백준 1546번 : 평균</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/data%20structure%20(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/%EB%B0%B1%EC%A4%80/n1546/Main.java">🔗</a> |
+| 자료구조(배열) | <a href="https://www.acmicpc.net/problem/4344">백준 4344번 : 평균은 넘겠지</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/data%20structure%20(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/%EB%B0%B1%EC%A4%80/n4344/Main.java">🔗</a> |
+| 브루트포스 | <a href="https://www.acmicpc.net/problem/1018">백준 1018번 : 체스판 다시 칠하기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n1018/Main.java">🔗</a> |
+| 브루트포스 | <a href="https://www.acmicpc.net/problem/4673">백준 4673번 : 셀프 넘버</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n4673/Main.java">🔗</a> |
+| 구현(+문자열) | <a href="https://www.acmicpc.net/problem/8958">백준 8958번 : OX퀴즈</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n8958/Main.java">🔗</a> |
+
 <br>
 
 ## 📍 Study Book
