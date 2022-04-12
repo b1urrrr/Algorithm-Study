@@ -2,22 +2,30 @@ package chap08;
 
 import java.util.Scanner;
 
-public class BFmatch {
-    static int bfMatch(String txt, String pat) {
-        int pt = 0;
-        int pp = 0;
+public class BMmatch {
+    static int bmMatch(String txt, String pat) {
+        int pt;
+        int pp;
+        int txtLen = txt.length();
+        int patLen = pat.length();
+        int[] skip = new int[Character.MAX_VALUE + 1];
 
-        while (pt != txt.length() && pp != pat.length()) {
-            if (txt.charAt(pt) == pat.charAt(pp)) {
-                pt++;
-                pp++;
-            } else {
-                pt = pt - pp + 1;
-                pp = 0;
+        for (pt = 0; pt <= Character.MAX_VALUE; pt++)
+            skip[pt] = patLen;
+        for (pt = 0; pt < patLen - 1; pt++)
+            skip[pat.charAt(pt)] = patLen - pt - 1;
+
+        while (pt < txtLen) {
+            pp = patLen - 1;
+
+            while (txt.charAt(pt) == pat.charAt(pp)) {
+                if (pp == 0)
+                    return pt;
+                pp--;
+                pt--;
             }
+            pt += (skip[txt.charAt(pt)] > patLen - pp) ? skip[txt.charAt(pt)] : patLen - pp;
         }
-        if (pp == pat.length())
-            return pt - pp;
         return -1;
     }
 
@@ -30,7 +38,7 @@ public class BFmatch {
         System.out.print("패턴 : ");
         String s2 = stdIn.next();
 
-        int idx = bfMatch(s1, s2);
+        int idx = bmMatch(s1, s2);
 
         if (idx == -1)
             System.out.println("텍스트에 패턴이 없습니다.");
@@ -44,5 +52,5 @@ public class BFmatch {
             System.out.println("텍스트 : " + s1);
             System.out.printf(String.format("패턴 : %%%ds\n", len), s2);
         }
-    }    
+    } 
 }
