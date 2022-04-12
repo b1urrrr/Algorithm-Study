@@ -77,6 +77,13 @@
 | 기하학 (Geometry) | <a href="https://www.acmicpc.net/problem/4153">백준 4153번 : 직각삼각형</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/Geometry%20(기하학)/직각삼각형.java">🔗</a> |
 | 상하한선 (Lower and Upper Bound) | <a href="https://www.acmicpc.net/problem/10816">백준 10816번 : 숫자 카드 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Search%20(탐색)/Lower%20and%20Upper%20Bound%20(상하한선)/숫자_카드_2.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 08 (22.04.17.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/10250">백준 10250번 : ACM 호텔</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/ACM_호텔.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
