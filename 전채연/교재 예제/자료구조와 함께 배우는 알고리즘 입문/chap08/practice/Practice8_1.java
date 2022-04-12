@@ -1,21 +1,42 @@
-package chap08;
+package chap08.practice;
 
 import java.util.Scanner;
 
-public class BFmatch {
+public class Practice8_1 {
     static int bfMatch(String txt, String pat) {
         int pt = 0;
         int pp = 0;
+        int lastPt = -1;
+        int count = 0;
 
         while (pt != txt.length() && pp != pat.length()) {
+            if (lastPt != pt - pp) {
+                System.out.printf("%d %s\n", pt, txt);
+                lastPt = pt - pp;
+            } else System.out.printf("  %s\n", txt);
             if (txt.charAt(pt) == pat.charAt(pp)) {
+                System.out.print("  ");
+                for (int i = 0; i < pt; i++) System.out.print(" ");
+                System.out.println("+");
+                System.out.print("  ");
+                for (int i = 0; i < pt; i++) System.out.print(" ");
+                System.out.println(pat);
                 pt++;
                 pp++;
             } else {
+                System.out.print("  ");
+                for (int i = 0; i < pt; i++) System.out.print(" ");
+                System.out.println("|");
+                System.out.print("  ");
+                for (int i = 0; i < pt - pp; i++) System.out.print(" ");
+                System.out.println(pat);
                 pt = pt - pp + 1;
                 pp = 0;
             }
+            count++;
+            System.out.println();
         }
+        System.out.printf("비교는 %d회였습니다.\n", count);
         if (pp == pat.length())
             return pt - pp;
         return -1;
@@ -44,5 +65,5 @@ public class BFmatch {
             System.out.println("텍스트 : " + s1);
             System.out.printf(String.format("패턴 : %%%ds\n", len), s2);
         }
-    }    
+    }  
 }

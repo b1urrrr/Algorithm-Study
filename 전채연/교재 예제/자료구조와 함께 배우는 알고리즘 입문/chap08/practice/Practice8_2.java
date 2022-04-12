@@ -1,9 +1,9 @@
-package chap08;
+package chap08.practice;
 
 import java.util.Scanner;
 
-public class BFmatch {
-    static int bfMatch(String txt, String pat) {
+public class Practice8_2 {
+    static int bfMatchLast(String txt, String pat) {
         int pt = 0;
         int pp = 0;
 
@@ -17,7 +17,7 @@ public class BFmatch {
             }
         }
         if (pp == pat.length())
-            return pt - pp;
+            return pt - pp + pat.length();
         return -1;
     }
 
@@ -30,17 +30,17 @@ public class BFmatch {
         System.out.print("패턴 : ");
         String s2 = stdIn.next();
 
-        int idx = bfMatch(s1, s2);
+        int idx = bfMatchLast(s1, s2);
 
         if (idx == -1)
             System.out.println("텍스트에 패턴이 없습니다.");
         else {
             int len = 0;
-            for (int i = 0; i < idx; i++)
+            for (int i = 0; i < idx ; i++)
                 len += s1.substring(i, i + 1).getBytes().length;
             len += s2.length();
 
-            System.out.println((idx + 1) + "번째 문자부터 일치합니다.");
+            System.out.println((idx + 1) + "번째 문자까지 일치합니다.");
             System.out.println("텍스트 : " + s1);
             System.out.printf(String.format("패턴 : %%%ds\n", len), s2);
         }
