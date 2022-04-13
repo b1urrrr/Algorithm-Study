@@ -66,6 +66,11 @@
 | 브루트포스 | <a href="https://www.acmicpc.net/problem/4673">백준 4673번 : 셀프 넘버</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n4673/Main.java">🔗</a> |
 | 구현(+문자열) | <a href="https://www.acmicpc.net/problem/8958">백준 8958번 : OX퀴즈</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n8958/Main.java">🔗</a> |
 
+### Week 08 (22.04.17.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 수학 | <a href="https://www.acmicpc.net/problem/11653">백준 11653번 : 소인수분해</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n11653/%EB%82%B4%EA%B0%80%20%ED%91%BC%20%EA%B2%83/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n11653/%EB%8B%A4%EB%A5%B8%20%EC%BD%94%EB%93%9C%20%EA%B3%B5%EB%B6%80/Main.java">📝</a> |
+
 <br>
 
 ## 📍 Study Book
