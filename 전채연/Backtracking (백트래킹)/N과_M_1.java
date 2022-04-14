@@ -14,7 +14,7 @@ public class N과_M_1 {
     static StringBuilder sb = new StringBuilder();
 
     // 깊이 우선 탐색 메서드
-    static void dfs(int depth) throws IOException{
+    static void dfs(int depth){
         // M개의 수로 구성된 수열을 완성한 경우
         if (depth == M) {
             // 수열 출력
