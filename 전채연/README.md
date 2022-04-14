@@ -84,6 +84,7 @@
 | :------: | :---: | :--: |
 | 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/10250">백준 10250번 : ACM 호텔</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/ACM_호텔.java">🔗</a> |
 | 큐 (Queue) | <a href="https://www.acmicpc.net/problem/2164">백준 2164번 : 카드2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Queue%20(큐)/카드2.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15649">백준 15649번 : N과 M (1)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_1.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
