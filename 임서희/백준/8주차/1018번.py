@@ -1,3 +1,4 @@
+# 브루트포스 문제
 # 다른 사람 코드
 N, M = map(int, input().split())
 board = list()
