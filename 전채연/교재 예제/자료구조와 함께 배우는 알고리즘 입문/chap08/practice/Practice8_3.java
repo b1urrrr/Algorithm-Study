@@ -3,6 +3,13 @@ package chap08.practice;
 import java.util.Scanner;
 
 public class Practice8_3 {
+    static void printBlank(String s, int pt) {
+        for (int i = 0; i < pt; i++) {
+            int bytes = s.substring(i, i + 1).getBytes().length;
+            for (int j = 0; j < bytes; j++) System.out.print(" ");
+        }
+    }
+
     static int kmpMatch(String txt, String pat) {
         int pt = 1;
         int pp = 0;
@@ -28,27 +35,27 @@ public class Practice8_3 {
             } else System.out.printf("  %s\n", txt);
             if (txt.charAt(pt) == pat.charAt(pp)) {
                 System.out.print("  ");
-                for (int i = 0; i < pt; i++) System.out.print(" ");
+                printBlank(txt, pt);
                 System.out.println("+");
                 System.out.print("  ");
-                for (int i = 0; i < pt; i++) System.out.print(" ");
+                printBlank(txt, pt - pp);
                 System.out.println(pat);
                 pt++;
                 pp++;
             } else if (pp == 0) {
                 System.out.print("  ");
-                for (int i = 0; i < pt; i++) System.out.print(" ");
+                printBlank(txt, pt);
                 System.out.println("|");
                 System.out.print("  ");
-                for (int i = 0; i < pt - pp; i++) System.out.print(" ");
+                printBlank(txt, pt - pp);
                 System.out.println(pat);
                 pt++;
             } else { 
                 System.out.print("  ");
-                for (int i = 0; i < pt; i++) System.out.print(" ");
+                printBlank(txt, pt);
                 System.out.println("|");
                 System.out.print("  ");
-                for (int i = 0; i < pt - pp; i++) System.out.print(" ");
+                printBlank(txt, pt - pp);
                 System.out.println(pat);
                 pp = skip[pp];
             }
@@ -80,7 +87,7 @@ public class Practice8_3 {
 
             System.out.println((idx + 1) + "번째 문자부터 일치합니다.");
             System.out.println("텍스트 : " + s1);
-            System.out.printf(String.format("패턴 : %%%ds\n", len), s2);
+            System.out.printf(String.format("  패턴 : %%%ds\n", len), s2);
         }
     }
 }

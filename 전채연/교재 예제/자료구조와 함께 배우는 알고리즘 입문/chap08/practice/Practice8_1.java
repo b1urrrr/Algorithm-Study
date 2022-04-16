@@ -16,10 +16,16 @@ public class Practice8_1 {
             } else System.out.printf("  %s\n", txt);
             if (txt.charAt(pt) == pat.charAt(pp)) {
                 System.out.print("  ");
-                for (int i = 0; i < pt; i++) System.out.print(" ");
+                for (int i = 0; i < pt; i++) {
+                    int bytes = txt.substring(i, i + 1).getBytes().length;
+                    for (int j = 0; j < bytes; j++) System.out.print(" ");
+                }
                 System.out.println("+");
                 System.out.print("  ");
-                for (int i = 0; i < pt - pp; i++) System.out.print(" ");
+                for (int i = 0; i < pt - pp; i++) {
+                    int bytes = txt.substring(i, i + 1).getBytes().length;
+                    for (int j = 0; j < bytes; j++) System.out.print(" ");
+                }
                 System.out.println(pat);
                 pt++;
                 pp++;
@@ -28,7 +34,10 @@ public class Practice8_1 {
                 for (int i = 0; i < pt; i++) System.out.print(" ");
                 System.out.println("|");
                 System.out.print("  ");
-                for (int i = 0; i < pt - pp; i++) System.out.print(" ");
+                for (int i = 0; i < pt - pp; i++) {
+                    int bytes = txt.substring(i, i + 1).getBytes().length;
+                    for (int j = 0; j < bytes; j++) System.out.print(" ");
+                }
                 System.out.println(pat);
                 pt = pt - pp + 1;
                 pp = 0;
