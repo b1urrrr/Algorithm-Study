@@ -1,3 +1,8 @@
+/*
+    백준 11866번 : 요세푸스 문제 0
+    - 문제 유형 : 자료 구조, 큐
+*/
+
 import java.util.Scanner;
 import java.lang.StringBuilder;
 import java.util.LinkedList;
