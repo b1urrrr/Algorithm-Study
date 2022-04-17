@@ -70,6 +70,10 @@
 | 유형 | 제목 | 풀이 | 다른 코드 공부 |
 | :---: | :---: | :---: | :---: |
 | 수학 | <a href="https://www.acmicpc.net/problem/11653">백준 11653번 : 소인수분해</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n11653/%EB%82%B4%EA%B0%80%20%ED%91%BC%20%EA%B2%83/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n11653/%EB%8B%A4%EB%A5%B8%20%EC%BD%94%EB%93%9C%20%EA%B3%B5%EB%B6%80/Main.java">📝</a> |
+| 브루트포스 | <a href="https://www.acmicpc.net/problem/1065">백준 1065번 : 한수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/8bd194438807927d6f713b8974ec098a7d384704/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n1065/Main.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/1712">백준 1712번 : 손익분기점</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/2c4830f6ab6c7cb5d027f70e59828b475c7414be/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n1712/Main.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/1436">백준 1436번 : 영화감독 숌</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/dad626bddec23514f20653a0c5a39c03e69b911e/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n1436/Main.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/2292">백준 2292번 : 벌집</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/85c6fa75a21cb2376d98dce7bdd81f64cf1488ee/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n2292/Main.java">🔗</a> |
 
 <br>
 
@@ -88,5 +92,4 @@
 
 ## 📍 Personal Reference Site
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://velog.io/@godqhrals"><img alt="Velog" src ="https://img.shields.io/badge/Velog_Blog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white"/></a>
-
     
