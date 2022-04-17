@@ -36,13 +36,13 @@ public class Practice8_2 {
             System.out.println("텍스트에 패턴이 없습니다.");
         else {
             int len = 0;
-            for (int i = 0; i < idx ; i++)
+            for (int i = 0; i < idx - s2.length(); i++)
                 len += s1.substring(i, i + 1).getBytes().length;
             len += s2.length();
 
-            System.out.println((idx + 1) + "번째 문자까지 일치합니다.");
+            System.out.println(idx + "번째 문자까지 일치합니다.");
             System.out.println("텍스트 : " + s1);
-            System.out.printf(String.format("패턴 : %%%ds\n", len), s2);
+            System.out.printf(String.format("  패턴 : %%%ds\n", len), s2);
         }
     }    
 }
