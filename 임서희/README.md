@@ -130,7 +130,9 @@
 | :--------: | :-----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: |
 |  :star:백트래킹  |  <a href="https://www.acmicpc.net/problem/15649">15649번: N과 M(1)</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/8%EC%A3%BC%EC%B0%A8/15649%EB%B2%88.py">🔗</a>  | 스택 다시 이해하기  |
 |  :star:브루트포스  |  <a href="https://www.acmicpc.net/problem/1018">1018번: 체스판 다시 칠하기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/8%EC%A3%BC%EC%B0%A8/1018%EB%B2%88.py">🔗</a>  |   |
-
+|  백트래킹  |  <a href="https://www.acmicpc.net/problem/15650">15650번: N과 M(2)</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/8%EC%A3%BC%EC%B0%A8/15650%EB%B2%88.py">🔗</a>  |  |
+|  백트래킹  |  <a href="https://www.acmicpc.net/problem/15651">15651번: N과 M(3)</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/8%EC%A3%BC%EC%B0%A8/15651%EB%B2%88.py">🔗</a>  |  |
+|  백트래킹  |  <a href="https://www.acmicpc.net/problem/15652">15652번: N과 M(4)</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/8%EC%A3%BC%EC%B0%A8/15652%EB%B2%88.py">🔗</a>  |   |
 
 
 <br>
