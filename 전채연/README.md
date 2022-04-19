@@ -88,6 +88,14 @@
 | 큐 (Queue) | <a href="https://www.acmicpc.net/problem/11866">백준 11866번 : 요세푸스 문제 0</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Queue%20(큐)/요세푸스_문제_0.java">🔗</a> |
 | 조합론 (Combinatorics) | <a href="https://www.acmicpc.net/problem/11050">백준 11050번 : 이항 계수 1</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/Combinatorics%20(조합론)/이항_계수_1.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 09 (22.04.24.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 브루트 포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/1436">백준 1436번 : 영화감독 숌</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/영화감독_숌.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/1463">백준 1463번 : 1로 만들기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/_1로_만들기.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
