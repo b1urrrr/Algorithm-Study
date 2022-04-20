@@ -95,6 +95,8 @@
 | :------: | :---: | :--: |
 | 브루트 포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/1436">백준 1436번 : 영화감독 숌</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/영화감독_숌.java">🔗</a> |
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/1463">백준 1463번 : 1로 만들기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/_1로_만들기.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/2748">백준 2748번 : 피보나치 수 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/피보나치_수_2.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/17175">백준 17175번 : 피보나치는 지겨웡~</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/피보나치는_지겨웡.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
