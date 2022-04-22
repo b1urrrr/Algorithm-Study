@@ -1,3 +1,12 @@
+/*
+ * @author Minyeong Park
+ * @date 2022.04.20. & 22.
+ * 좌표 압축 (병합 정렬로 푼 것)
+ * 풀이 참고 : https://st-lab.tistory.com/279
+ * 병합정렬 코드 참고 : https://st-lab.tistory.com/233
+ * 문제 링크 : https://www.acmicpc.net/problem/18870
+ */
+
 import java.io.*;
 import java.util.HashMap;
 import java.util.StringTokenizer;
