@@ -75,6 +75,11 @@
 | 수학 | <a href="https://www.acmicpc.net/problem/1436">백준 1436번 : 영화감독 숌</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/dad626bddec23514f20653a0c5a39c03e69b911e/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n1436/Main.java">🔗</a> |
 | 수학 | <a href="https://www.acmicpc.net/problem/2292">백준 2292번 : 벌집</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/85c6fa75a21cb2376d98dce7bdd81f64cf1488ee/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n2292/Main.java">🔗</a> |
 
+### Week 09 (22.04.24.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 정렬(병합정렬, 자바 Arrays.sort) | <a href="https://www.acmicpc.net/problem/18870">백준 18870번 : 좌표 압축</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/Merge%20Sort%20(%EB%B3%91%ED%95%A9%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n18870/%EB%B3%91%ED%95%A9%EC%A0%95%EB%A0%AC/Main.java">🔗(병합정렬)</a> <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/Merge%20Sort%20(%EB%B3%91%ED%95%A9%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n18870/%EA%B8%B0%ED%83%80/Main.java">🔗(Arrays.sort)</a>| 
+
 <br>
 
 ## 📍 Study Book
