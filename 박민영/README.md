@@ -78,7 +78,15 @@
 ### Week 09 (22.04.24.)
 | 유형 | 제목 | 풀이 | 다른 코드 공부 |
 | :---: | :---: | :---: | :---: |
-| 정렬(병합정렬, 자바 Arrays.sort) | <a href="https://www.acmicpc.net/problem/18870">백준 18870번 : 좌표 압축</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/Merge%20Sort%20(%EB%B3%91%ED%95%A9%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n18870/%EB%B3%91%ED%95%A9%EC%A0%95%EB%A0%AC/Main.java">🔗(병합정렬)</a> <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/Merge%20Sort%20(%EB%B3%91%ED%95%A9%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n18870/%EA%B8%B0%ED%83%80/Main.java">🔗(Arrays.sort)</a>| 
+| 정렬(병합정렬, 자바 Arrays.sort) | <a href="https://www.acmicpc.net/problem/18870">백준 18870번 : 좌표 압축</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/Merge%20Sort%20(%EB%B3%91%ED%95%A9%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n18870/%EB%B3%91%ED%95%A9%EC%A0%95%EB%A0%AC/Main.java">🔗(병합정렬)</a> <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/Merge%20Sort%20(%EB%B3%91%ED%95%A9%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n18870/%EA%B8%B0%ED%83%80/Main.java">🔗(Arrays.sort)</a>|
+| 백트래킹 | <a href="https://www.acmicpc.net/problem/15649">백준 15649번 : N과 M (1)</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Backtracking%20(%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)/%EB%B0%B1%EC%A4%80/n15649/Main.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/1929">백준 1929번 : 소수 구하기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n1929/Main.java">🔗</a> |
+| 백트래킹 | <a href="https://www.acmicpc.net/problem/15650">백준 15650번 : N과 M (2)</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Backtracking%20(%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)/%EB%B0%B1%EC%A4%80/n15650/%EB%82%B4%EA%B0%80%20%ED%91%BC%20%EA%B2%83/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Backtracking%20(%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)/%EB%B0%B1%EC%A4%80/n15650/%EB%8B%A4%EB%A5%B8%20%EC%BD%94%EB%93%9C%20%EA%B3%B5%EB%B6%80/Main.java">📝</a> |
+| 백트래킹 | <a href="https://www.acmicpc.net/problem/15651">백준 15651번 : N과 M (3)</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Backtracking%20(%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)/%EB%B0%B1%EC%A4%80/n15651/Main.java">🔗</a> |
+
+<!--
+| 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
+-->
 
 <br>
 
