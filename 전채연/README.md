@@ -99,6 +99,7 @@
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/17175">백준 17175번 : 피보나치는 지겨웡~</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/피보나치는_지겨웡.java">🔗</a> |
 | 브루트 포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/1107">백준 1107번 : 리모컨</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/리모컨.java">🔗</a> |
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/1003">백준 1003번 : 피보나치 함수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/피보나치_함수.java">🔗</a> |
+| 브루트 포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/2231">백준 2231번 : 분해합</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/분해합.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
