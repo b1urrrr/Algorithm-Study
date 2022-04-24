@@ -107,8 +107,15 @@ for _ in range(T):
     a,b= map(int, input().split())
     aa,bb = a, b
 
+    # 1.
     while bb != 0:
         aa,bb=bb,aa%bb
     
     print(a*b//aa) # 입력 값들을 곱하고 GCD로 나누면 최소 공배수 구하기
     # 입력 값 한 쪽에서 최대 공약수를 약분하게 되므로 
+
+    # 혹은
+    # 2.
+    while a%b!=0: 
+        a,b=b,a%b 
+    print(aa*bb//b)
