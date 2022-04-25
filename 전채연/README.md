@@ -121,6 +121,9 @@
 | 5 | 06 | 정렬 | 22.03.29 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap06">🔗</a> |
 | 6 | 07 | 집합 | 22.04.05 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap07">🔗</a> |
 |   | 08 | 문자열 검색 | 22.04.05 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap08">🔗</a> |
+| 7 | 09 | 리스트 | 22.04.12 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap09">🔗</a> |
+| 8 | 10 | 트리 | 22.04.19 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap10">🔗</a> |
+|   | 11 | 해시 | 22.04.26 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap11">🔗</a> |
 
 <!--
 |  |  |  | 22. | <a href="">🔗</a> |
