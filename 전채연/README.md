@@ -101,6 +101,14 @@
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/1003">백준 1003번 : 피보나치 함수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/피보나치_함수.java">🔗</a> |
 | 브루트 포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/2231">백준 2231번 : 분해합</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/분해합.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 10 (22.05.01.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 이중 피벗 퀵 정렬 (Dual Pivot Quick Sort) | <a href="https://www.acmicpc.net/problem/2108">백준 2108 : 통계학</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Dual%20Pivot%20Quick%20Sort%20(이중%20피벗%20퀵%20정렬)/통계학.java">🔗</a> |
+| 백트래킹 (Backtracking), 브루트 포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/14500">백준 14500번 : 테트로미노</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/테트로미노.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
