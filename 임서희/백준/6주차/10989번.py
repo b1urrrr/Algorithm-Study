@@ -12,6 +12,7 @@ for i in range(len(a)):
     print(a[i])
 
 # 다른 사람 코드
+# 카운팅 정렬 이용
 # 메모리 초과 X
 
 N = int(sys.stdin.readline())

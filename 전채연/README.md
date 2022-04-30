@@ -66,6 +66,50 @@
 | 스택 (Stack) | <a href="https://www.acmicpc.net/problem/4949">백준 4949번 : 균형잡힌 세상</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Stack%20(스택)/균형잡힌_세상.java">🔗</a> |
 | 덱 (Deque) | <a href="https://www.acmicpc.net/problem/10866">백준 10866번 : 덱</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Deque%20(덱)/덱.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 07 (22.04.10.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 이분 탐색 (Binary Search) | <a href="https://www.acmicpc.net/problem/1920">백준 1920번 : 수 찾기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Search%20(탐색)/Binary%20Search%20(이분%20탐색)/수_찾기.java">🔗</a> |
+| 브루트포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/7568">백준 7568번 : 덩치</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/덩치.java">🔗</a> |
+| 브루트포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/1018">백준 1018번 : 체스판 다시 칠하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/체스판_다시_칠하기.java">🔗</a> |
+| 기하학 (Geometry) | <a href="https://www.acmicpc.net/problem/4153">백준 4153번 : 직각삼각형</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/Geometry%20(기하학)/직각삼각형.java">🔗</a> |
+| 상하한선 (Lower and Upper Bound) | <a href="https://www.acmicpc.net/problem/10816">백준 10816번 : 숫자 카드 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Search%20(탐색)/Lower%20and%20Upper%20Bound%20(상하한선)/숫자_카드_2.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 08 (22.04.17.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/10250">백준 10250번 : ACM 호텔</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/ACM_호텔.java">🔗</a> |
+| 큐 (Queue) | <a href="https://www.acmicpc.net/problem/2164">백준 2164번 : 카드2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Queue%20(큐)/카드2.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15649">백준 15649번 : N과 M (1)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_1.java">🔗</a> |
+| 큐 (Queue) | <a href="https://www.acmicpc.net/problem/11866">백준 11866번 : 요세푸스 문제 0</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Queue%20(큐)/요세푸스_문제_0.java">🔗</a> |
+| 조합론 (Combinatorics) | <a href="https://www.acmicpc.net/problem/11050">백준 11050번 : 이항 계수 1</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/Combinatorics%20(조합론)/이항_계수_1.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 09 (22.04.24.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 브루트 포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/1436">백준 1436번 : 영화감독 숌</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/영화감독_숌.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/1463">백준 1463번 : 1로 만들기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/_1로_만들기.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/2748">백준 2748번 : 피보나치 수 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/피보나치_수_2.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/17175">백준 17175번 : 피보나치는 지겨웡~</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/피보나치는_지겨웡.java">🔗</a> |
+| 브루트 포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/1107">백준 1107번 : 리모컨</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/리모컨.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/1003">백준 1003번 : 피보나치 함수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/피보나치_함수.java">🔗</a> |
+| 브루트 포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/2231">백준 2231번 : 분해합</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/분해합.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 10 (22.05.01.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 이중 피벗 퀵 정렬 (Dual Pivot Quick Sort) | <a href="https://www.acmicpc.net/problem/2108">백준 2108 : 통계학</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Dual%20Pivot%20Quick%20Sort%20(이중%20피벗%20퀵%20정렬)/통계학.java">🔗</a> |
+| 백트래킹 (Backtracking), 브루트 포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/14500">백준 14500번 : 테트로미노</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/테트로미노.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/17626">백준 17626번 : Four Squares</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/Four_Squares.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
@@ -83,7 +127,12 @@
 | 2 | 03 | 검색 | 22.03.08 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap03">🔗</a> |
 | 3 | 04 | 스택과 큐 | 22.03.15 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap04">🔗</a> |
 |   | 05 | 재귀 알고리즘 | 22.03.15 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap05">🔗</a> |
-| 5 | 06 | 정렬 | 22.03.29. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap06">🔗</a> |
+| 5 | 06 | 정렬 | 22.03.29 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap06">🔗</a> |
+| 6 | 07 | 집합 | 22.04.05 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap07">🔗</a> |
+|   | 08 | 문자열 검색 | 22.04.05 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap08">🔗</a> |
+| 7 | 09 | 리스트 | 22.04.12 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap09">🔗</a> |
+| 8 | 10 | 트리 | 22.04.19 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap10">🔗</a> |
+|   | 11 | 해시 | 22.04.26 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap11">🔗</a> |
 
 <!--
 |  |  |  | 22. | <a href="">🔗</a> |

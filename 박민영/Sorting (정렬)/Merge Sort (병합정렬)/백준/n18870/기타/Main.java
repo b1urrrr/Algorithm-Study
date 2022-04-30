@@ -2,6 +2,7 @@
  * @author Minyeong Park
  * @date 2022.04.20. & 22.
  * 좌표 압축
+ * 풀이 참고 : https://st-lab.tistory.com/279
  * 문제 링크 : https://www.acmicpc.net/problem/18870
  */
 

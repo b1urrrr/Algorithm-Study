@@ -57,6 +57,42 @@
 | 수학 | <a href="https://www.acmicpc.net/problem/2581">백준 2581번 : 소수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n2581/Main.java">🔗</a> |
 | 브루트포스 | <a href="https://www.acmicpc.net/problem/7568">백준 7568번 : 덩치</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n7568/Main.java">🔗</a> |
 
+### Week 07 (22.04.10.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 자료구조(배열) | <a href="https://www.acmicpc.net/problem/1546">백준 1546번 : 평균</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/data%20structure%20(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/%EB%B0%B1%EC%A4%80/n1546/Main.java">🔗</a> |
+| 자료구조(배열) | <a href="https://www.acmicpc.net/problem/4344">백준 4344번 : 평균은 넘겠지</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/data%20structure%20(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/%EB%B0%B1%EC%A4%80/n4344/Main.java">🔗</a> |
+| 브루트포스 | <a href="https://www.acmicpc.net/problem/1018">백준 1018번 : 체스판 다시 칠하기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n1018/Main.java">🔗</a> |
+| 브루트포스 | <a href="https://www.acmicpc.net/problem/4673">백준 4673번 : 셀프 넘버</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n4673/Main.java">🔗</a> |
+| 구현(+문자열) | <a href="https://www.acmicpc.net/problem/8958">백준 8958번 : OX퀴즈</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n8958/Main.java">🔗</a> |
+
+### Week 08 (22.04.17.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 수학 | <a href="https://www.acmicpc.net/problem/11653">백준 11653번 : 소인수분해</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n11653/%EB%82%B4%EA%B0%80%20%ED%91%BC%20%EA%B2%83/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n11653/%EB%8B%A4%EB%A5%B8%20%EC%BD%94%EB%93%9C%20%EA%B3%B5%EB%B6%80/Main.java">📝</a> |
+| 브루트포스 | <a href="https://www.acmicpc.net/problem/1065">백준 1065번 : 한수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/8bd194438807927d6f713b8974ec098a7d384704/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n1065/Main.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/1712">백준 1712번 : 손익분기점</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/2c4830f6ab6c7cb5d027f70e59828b475c7414be/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n1712/Main.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/1436">백준 1436번 : 영화감독 숌</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/dad626bddec23514f20653a0c5a39c03e69b911e/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n1436/Main.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/2292">백준 2292번 : 벌집</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/85c6fa75a21cb2376d98dce7bdd81f64cf1488ee/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n2292/Main.java">🔗</a> |
+
+### Week 09 (22.04.24.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 정렬(병합정렬, 자바 Arrays.sort) | <a href="https://www.acmicpc.net/problem/18870">백준 18870번 : 좌표 압축</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/Merge%20Sort%20(%EB%B3%91%ED%95%A9%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n18870/%EB%B3%91%ED%95%A9%EC%A0%95%EB%A0%AC/Main.java">🔗(병합정렬)</a> <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/Merge%20Sort%20(%EB%B3%91%ED%95%A9%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n18870/%EA%B8%B0%ED%83%80/Main.java">🔗(Arrays.sort)</a>|
+| 백트래킹 | <a href="https://www.acmicpc.net/problem/15649">백준 15649번 : N과 M (1)</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Backtracking%20(%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)/%EB%B0%B1%EC%A4%80/n15649/Main.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/1929">백준 1929번 : 소수 구하기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n1929/Main.java">🔗</a> |
+| 백트래킹 | <a href="https://www.acmicpc.net/problem/15650">백준 15650번 : N과 M (2)</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Backtracking%20(%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)/%EB%B0%B1%EC%A4%80/n15650/%EB%82%B4%EA%B0%80%20%ED%91%BC%20%EA%B2%83/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Backtracking%20(%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)/%EB%B0%B1%EC%A4%80/n15650/%EB%8B%A4%EB%A5%B8%20%EC%BD%94%EB%93%9C%20%EA%B3%B5%EB%B6%80/Main.java">📝</a> |
+| 백트래킹 | <a href="https://www.acmicpc.net/problem/15651">백준 15651번 : N과 M (3)</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Backtracking%20(%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)/%EB%B0%B1%EC%A4%80/n15651/Main.java">🔗</a> |
+
+### Week 10 (22.05.01.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 백트래킹 | <a href="https://www.acmicpc.net/problem/15652">백준 15652번 : N과 M (4)</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Backtracking%20(%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)/%EB%B0%B1%EC%A4%80/n15652/Main.java">🔗</a> | 
+
+<!--
+| 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
+-->
+
 <br>
 
 ## 📍 Study Book
@@ -70,9 +106,15 @@
 |  | 05 | 재귀 알고리즘 | 22.03.15 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%95%A8%EA%BB%98%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9E%85%EB%AC%B8/chap05">🔗</a>
 | 4 | - 복습 - | 재귀 복습 진행 | 22.03.22 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%95%A8%EA%BB%98%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9E%85%EB%AC%B8/chap05">🔗</a>
 | 5 | 06 | 정렬 | 22.03.29 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%95%A8%EA%BB%98%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9E%85%EB%AC%B8/chap06">🔗</a>
+| 6 | 07 | 집합 | 22.04.05 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%95%A8%EA%BB%98%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9E%85%EB%AC%B8/chap07">🔗</a>
+|  | 08 | 문자열 검색 | 22.04.05 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%95%A8%EA%BB%98%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9E%85%EB%AC%B8/chap08">🔗</a>
+| 7 | 09 | 리스트 | 22.04.12 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%95%A8%EA%BB%98%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9E%85%EB%AC%B8/chap09">🔗</a>
+| 8 | 10 | 트리 | 22.04.19 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%95%A8%EA%BB%98%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9E%85%EB%AC%B8/chap10">🔗</a>
+|  | 11 | 해시 | 22.04.19 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%95%A8%EA%BB%98%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9E%85%EB%AC%B8/chap11">🔗</a>
+| 9 | - 복습 - | 6 ~ 11단원 보충 공부 | 22.04.26 |
+
 
 
 ## 📍 Personal Reference Site
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://velog.io/@godqhrals"><img alt="Velog" src ="https://img.shields.io/badge/Velog_Blog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white"/></a>
-
     
