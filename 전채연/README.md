@@ -108,6 +108,7 @@
 | :------: | :---: | :--: |
 | 이중 피벗 퀵 정렬 (Dual Pivot Quick Sort) | <a href="https://www.acmicpc.net/problem/2108">백준 2108 : 통계학</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Dual%20Pivot%20Quick%20Sort%20(이중%20피벗%20퀵%20정렬)/통계학.java">🔗</a> |
 | 백트래킹 (Backtracking), 브루트 포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/14500">백준 14500번 : 테트로미노</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/테트로미노.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/17626">백준 17626번 : Four Squares</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/Four_Squares.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
