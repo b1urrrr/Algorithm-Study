@@ -91,6 +91,7 @@
 | 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/2747">백준 2747번 : 피보나치 수 (4)</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Dynamic%20programming%20(%EB%8F%99%EC%A0%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)/%EB%B0%B1%EC%A4%80/n2747/Main.java">🔗</a> |
 | 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/2748">백준 2748번 : 피보나치 수 2 (4)</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Dynamic%20programming%20(%EB%8F%99%EC%A0%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)/%EB%B0%B1%EC%A4%80/n2748/Main.java">🔗</a> |
 | 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/1003">백준 1003번 : 피보나치 함수</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Dynamic%20programming%20(%EB%8F%99%EC%A0%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)/%EB%B0%B1%EC%A4%80/n1003/Main.java">🔗</a> | <a href = "">📝</a> | 
+| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/9184">백준 9184번 : 신나는 함수 실행</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Dynamic%20programming%20(%EB%8F%99%EC%A0%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)/%EB%B0%B1%EC%A4%80/n9184/Main.java">🔗</a> |
 
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
