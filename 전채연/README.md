@@ -112,6 +112,13 @@
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/9095">백준 9095번 : 1, 2, 3 더하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/_1_2_3_더하기.java">🔗</a> |
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/11726">백준 11726번 : 2×n 타일링</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/_2xn_타일링.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 11 (22.05.08.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/1541">백준 1541번 : 잃어버린 괄호</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Greedy%20(그리디)/잃어버린_괄호.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
@@ -120,7 +127,17 @@
 
 ## 📍 Study Book
 
-### 자료구조와 함께 배우는 알고리즘 입문
+### 이것이 취업을 위한 코딩 테스트다 with 파이썬
+
+| Week | Chapter | Title | Date | Link |
+| :--: | :-----: | :---: | :--: | :--: |
+| 10 | 03 | 그리디 | 22.05.03. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap03">🔗</a> |
+
+<!--
+|  |  |  | 22. | <a href="">🔗</a> |
+-->
+
+### 자료구조와 함께 배우는 알고리즘 입문 (자바 편)
 
 | Week | Chapter | Title | Date | Link |
 | :--: | :-----: | :---: | :--: | :--: |
@@ -135,10 +152,6 @@
 | 7 | 09 | 리스트 | 22.04.12 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap09">🔗</a> |
 | 8 | 10 | 트리 | 22.04.19 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap10">🔗</a> |
 |   | 11 | 해시 | 22.04.26 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap11">🔗</a> |
-
-<!--
-|  |  |  | 22. | <a href="">🔗</a> |
--->
 
 <br>
 
