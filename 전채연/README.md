@@ -118,6 +118,7 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/1541">백준 1541번 : 잃어버린 괄호</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Greedy%20(그리디)/잃어버린_괄호.java">🔗</a> |
+| 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/13305">백준 13305번 : 주유소</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Greedy%20(그리디)/주유소.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
