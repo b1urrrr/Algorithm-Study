@@ -137,6 +137,48 @@
 
 <br>
 
+### Week 09 (22.04.24.)
+
+|    유형    |                                제목                                 |                                                                                  풀이                                                                                   | Reference Site |
+| :--------: | :-----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: |
+|  정수론  |  <a href="https://www.acmicpc.net/problem/5086">5086번: 배수와 약수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/9%EC%A3%BC%EC%B0%A8/5086%EB%B2%88.py">🔗</a>  |  |
+|  정수론  |  <a href="https://www.acmicpc.net/problem/1037">1037번: 약수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/9%EC%A3%BC%EC%B0%A8/1037%EB%B2%88.py">🔗</a>  |   |
+|  정수론  |  <a href="https://www.acmicpc.net/problem/2609">2609번: 최대공약수와 최소공배수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/9%EC%A3%BC%EC%B0%A8/2609%EB%B2%88.py">🔗</a>  |  |
+|  정수론  |  <a href="https://www.acmicpc.net/problem/1934">1934번: 최소공배수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/9%EC%A3%BC%EC%B0%A8/1934%EB%B2%88.py">🔗</a>  | <a href="https://tech.lonpeach.com/2017/11/12/Euclidean-algorithm/">유클리드 호제법</a> |
+|  :star:정수론  |  <a href="https://www.acmicpc.net/problem/2981">2981번: 검문</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/9%EC%A3%BC%EC%B0%A8/2981%EB%B2%88.py">🔗</a>  | 다시 풀기 |
+|  :star:백트래킹  |  <a href="https://www.acmicpc.net/problem/9663">9663번: N-Queen</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/9%EC%A3%BC%EC%B0%A8/9663%EB%B2%88.py">🔗</a>  | 다시 풀기 |
+|  :star:트리  |  <a href="https://www.acmicpc.net/problem/11725">11725번: 트리의 부모 찾기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/9%EC%A3%BC%EC%B0%A8/11725%EB%B2%88.py">🔗</a>  | 다시 풀기(BFS,DFS로 구현) |
+
+
+
+<br>
+
+### Week 10 (22.05.01.)
+
+|    유형    |                                제목                                 |                                                                                  풀이                                                                                   | Reference Site |
+| :--------: | :-----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: |
+|  정수론  |  <a href="https://www.acmicpc.net/problem/3036">3036번: 링</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/10%EC%A3%BC%EC%B0%A8/3036%EB%B2%88.py">🔗</a>  |  |
+|  정수론  |  <a href="https://www.acmicpc.net/problem/11050">11050번: 이항 계수 1</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/10%EC%A3%BC%EC%B0%A8/11050%EB%B2%88.py">🔗</a>  |   |
+|  :star:정수론  |  <a href="https://www.acmicpc.net/problem/1676">1676번: 팩토리얼 0의 개수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/10%EC%A3%BC%EC%B0%A8/1676%EB%B2%88.py">🔗</a>  | 다시 풀기 |
+|  그리디  |  <a href="https://www.acmicpc.net/problem/11047">11047번: 동전 0</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/10%EC%A3%BC%EC%B0%A8/11047%EB%B2%88.py">🔗</a>  |  |
+|  그리디  |  <a href="https://www.acmicpc.net/problem/11399">11399번: ATM</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/10%EC%A3%BC%EC%B0%A8/11399%EB%B2%88.py">🔗</a>  |   |
+|  :star:그리디  |  <a href="https://www.acmicpc.net/problem/1541">1541번: 잃어버린 괄호</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/10%EC%A3%BC%EC%B0%A8/1541%EB%B2%88.py">🔗</a>  | 다시 풀기 |
+
+
+
+<br>
+
+### Week 11 (22.05.08.)
+
+|    유형    |                                제목                                 |                                                                                  풀이                                                                                   | Reference Site |
+| :--------: | :-----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: |
+|  :star:그리디  |  <a href="https://www.acmicpc.net/problem/1541">1541번: 잃어버린 괄호</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/11%EC%A3%BC%EC%B0%A8/1541%EB%B2%88.py">🔗</a>  |  |
+|  :star:정수론  |  <a href="https://www.acmicpc.net/problem/1676">1676번: 팩토리얼 0의 개수</a>  | <a href="">🔗</a>  | 다시 풀기 |
+
+
+
+<br>
+
 ## 📍 Study Book
 
 ### 자료구조와 함깨 배우는 알고리즘 입문 (파이썬 편)
@@ -153,6 +195,14 @@
 |  6   |   07    |    문자열 검색     | 22.04.05 |                                                                                                                                    <a href="">🔗</a> |
 |  7   |   08    |    리스트    | 22.04.12 |                                                                                                                                    <a href="">🔗</a> |
 |  8   |   09    |    트리   | 22.04.19 |                                                                                                                                    <a href="">🔗</a> |
+
+<br>
+
+### 이것이 취업을 위한 코딩 테스트다 (with 파이썬)
+| Week | Chapter |        Title         |   Date   |                                                                                                                                           Link                                                                                                                                           |
+| :--: | :-----: | :------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  10   |   01    |    그리디     | 22.05.02 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EA%B5%90%EC%9E%AC/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%95%A8%EA%BB%98%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9E%85%EB%AC%B8/chap01">🔗</a> |
+|  11   |   02    | 구현 | 22.05.09 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EA%B5%90%EC%9E%AC/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%95%A8%EA%BB%98%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9E%85%EB%AC%B8/chap02">🔗</a> |
 
 <br>
 
