@@ -99,7 +99,7 @@
 | 수학 | <a href="https://www.acmicpc.net/problem/1085">백준 1085번 : 직사각형에서 탈출</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n1085/Main.java">🔗</a> |
 | 수학 | <a href="https://www.acmicpc.net/problem/3009">백준 3009번 : 네 번째 점</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n3009/Main.java">🔗</a> |
 | 수학 | <a href="https://www.acmicpc.net/problem/4153">백준 4153번 : 직각삼각형</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n4153/Main.java">🔗</a> |
-| 그리디 | <a href="https://www.acmicpc.net/problem/11047">백준 11047번 : 동전 0</a> | <a href = "">🔗</a> |
+| 그리디 | <a href="https://www.acmicpc.net/problem/11047">백준 11047번 : 동전 0</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Greedy%20(%EA%B7%B8%EB%A6%AC%EB%94%94)/%EB%B0%B1%EC%A4%80/n11047/Main.java">🔗</a> |
 | 수학 | <a href="https://www.acmicpc.net/problem/1193">백준 1193번 : 분수찾기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n1193/Main.java">🔗</a> |
 
 <!--
