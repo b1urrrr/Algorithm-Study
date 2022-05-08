@@ -121,6 +121,7 @@
 | 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/13305">백준 13305번 : 주유소</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Greedy%20(그리디)/주유소.java">🔗</a> |
 | 분할정복 (Divide and Conquer) | <a href="https://www.acmicpc.net/problem/1074">백준 1074번 : Z</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Divide%20and%20Conquer%20(분할정복)/Z.java">🔗</a> |
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/11727">백준 11727번 : 2×n 타일링 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/_2xn_타일링_2.java">🔗</a> |
+| 문자열 (String) | <a href="https://www.acmicpc.net/problem/5525">백준 5525번 : IOIOI</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/String%20(문자열)/IOIOI.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
