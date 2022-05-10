@@ -3,33 +3,23 @@ import java.io.*;
 public class IOIOI {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int n = Integer.parseInt(br.readLine());
-        int sLen = Integer.parseInt(br.readLine());
-        String s = br.readLine();
+        int n = Integer.parseInt(br.readLine()); // N 입력
+        int m = Integer.parseInt(br.readLine()); // M 입력
+        char[] data = br.readLine().toCharArray(); // S 입력
 
-        String p = "";
-        for (int i = 0; i < n + n + 1; i++) {
-            if (i % 2 == 0) {
-                p = p.concat("I");
-            } else {
-                p = p.concat("O");
+        int[] memo = new int[m];
+        int ans = 0;
+
+        for (int i = 1; i < m - 1; i++) {
+            if (data[i] == 'O' && data[i + 1] == 'I') {
+                memo[i + 1] = memo[i - 1] + 1;
+
+                if (memo[i + 1] >= n && data[i - 2 * n + 1] == 'I')
+                    ans++;
             }
         }
-
-        int count = 0;
-        for (int i = 0; i < sLen; i++) {
-            int sCursor = i;
-            int pCursor = 0;
-            while (sCursor < sLen && pCursor < n + n + 1 && s.charAt(sCursor) == p.charAt(pCursor)) {
-                sCursor++;
-                pCursor++;
-            }
-
-            if (pCursor == n + n + 1) {
-                count++;
-            }
-        }
-
-        System.out.println(count);
+        
+        // 결과 출력
+        System.out.println(ans);
     }
 }
