@@ -123,6 +123,13 @@
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/11727">백준 11727번 : 2×n 타일링 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/_2xn_타일링_2.java">🔗</a> |
 | 문자열 (String) | <a href="https://www.acmicpc.net/problem/5525">백준 5525번 : IOIOI</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/String%20(문자열)/IOIOI.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 12 (22.05.15.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/1676">백준 1676번 : 팩토리얼 0의 </a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/팩토리얼_0의_개수.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
