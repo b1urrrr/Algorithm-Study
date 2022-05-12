@@ -128,7 +128,7 @@
 ### Week 12 (22.05.15.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/1676">백준 1676번 : 팩토리얼 0의 </a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/팩토리얼_0의_개수.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/1676">백준 1676번 : 팩토리얼 0의 개수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/팩토리얼_0의_개수.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
