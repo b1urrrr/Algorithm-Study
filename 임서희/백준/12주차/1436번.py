@@ -13,6 +13,6 @@ while True:
     if '666' in str(six):
         cnt += 1
     if cnt == n: 
-        print(six)
+        print(six) # 같으면 break
         break
     six += 1
