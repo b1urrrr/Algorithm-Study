@@ -109,6 +109,28 @@
 | 이중 피벗 퀵 정렬 (Dual Pivot Quick Sort) | <a href="https://www.acmicpc.net/problem/2108">백준 2108 : 통계학</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Dual%20Pivot%20Quick%20Sort%20(이중%20피벗%20퀵%20정렬)/통계학.java">🔗</a> |
 | 백트래킹 (Backtracking), 브루트 포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/14500">백준 14500번 : 테트로미노</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/테트로미노.java">🔗</a> |
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/17626">백준 17626번 : Four Squares</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/Four_Squares.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/9095">백준 9095번 : 1, 2, 3 더하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/_1_2_3_더하기.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/11726">백준 11726번 : 2×n 타일링</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/_2xn_타일링.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 11 (22.05.08.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/1541">백준 1541번 : 잃어버린 괄호</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Greedy%20(그리디)/잃어버린_괄호.java">🔗</a> |
+| 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/13305">백준 13305번 : 주유소</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Greedy%20(그리디)/주유소.java">🔗</a> |
+| 분할정복 (Divide and Conquer) | <a href="https://www.acmicpc.net/problem/1074">백준 1074번 : Z</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Divide%20and%20Conquer%20(분할정복)/Z.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/11727">백준 11727번 : 2×n 타일링 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/_2xn_타일링_2.java">🔗</a> |
+| 문자열 (String) | <a href="https://www.acmicpc.net/problem/5525">백준 5525번 : IOIOI</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/String%20(문자열)/IOIOI.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 12 (22.05.15.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/1676">백준 1676번 : 팩토리얼 0의 개수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/팩토리얼_0의_개수.java">🔗</a> |
+| 집합 (Set), 비트마스크 (BitMask) | <a href="https://www.acmicpc.net/problem/11723">백준 11723번 : 집합</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Set%20(집합)/집합.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/1010">백준 1010번 : 다리 놓기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/다리_놓기.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
@@ -118,7 +140,17 @@
 
 ## 📍 Study Book
 
-### 자료구조와 함께 배우는 알고리즘 입문
+### 이것이 취업을 위한 코딩 테스트다 with 파이썬
+
+| Week | Chapter | Title | Date | Link |
+| :--: | :-----: | :---: | :--: | :--: |
+| 10 | 03 | 그리디 | 22.05.03. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap03">🔗</a> |
+
+<!--
+|  |  |  | 22. | <a href="">🔗</a> |
+-->
+
+### 자료구조와 함께 배우는 알고리즘 입문 (자바 편)
 
 | Week | Chapter | Title | Date | Link |
 | :--: | :-----: | :---: | :--: | :--: |
@@ -133,10 +165,6 @@
 | 7 | 09 | 리스트 | 22.04.12 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap09">🔗</a> |
 | 8 | 10 | 트리 | 22.04.19 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap10">🔗</a> |
 |   | 11 | 해시 | 22.04.26 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/자료구조와%20함께%20배우는%20알고리즘%20입문/chap11">🔗</a> |
-
-<!--
-|  |  |  | 22. | <a href="">🔗</a> |
--->
 
 <br>
 
