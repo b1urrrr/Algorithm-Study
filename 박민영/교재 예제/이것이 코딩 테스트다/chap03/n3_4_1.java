@@ -1,10 +1,12 @@
+// chap03 (3) 실전문제 : 숫자 카드 게임
+
 // 내가 푼 것
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class n3_3_1 {
+public class n3_4_1 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
