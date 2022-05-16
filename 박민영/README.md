@@ -135,7 +135,16 @@
 |  | 11 | 해시 | 22.04.19 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%95%A8%EA%BB%98%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9E%85%EB%AC%B8/chap11">🔗</a>
 | 9 | - 복습 - | 6 ~ 11단원 보충 공부 | 22.04.26 |
 
+### 이것이 취업을 위한 코딩 테스트다
+| Week | Chapter | Title | Date | Link |
+| :---: | :---: | :---: | :---: | :---: |
+| 10 | 03 | 그리디 | 22.05.03 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/chap03">🔗</a>
+| 11 | 04 | 구현 | 22.05.10 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/chap04">🔗</a>
+| 12 | 05 | DFS/BFS | 22.05.17 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/chap05">🔗</a>
 
+<!--
+| 주차 | 챕터 | 제목 | 22.05.03 |<a href="">🔗</a>
+-->
 
 ## 📍 Personal Reference Site
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://velog.io/@godqhrals"><img alt="Velog" src ="https://img.shields.io/badge/Velog_Blog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white"/></a>
