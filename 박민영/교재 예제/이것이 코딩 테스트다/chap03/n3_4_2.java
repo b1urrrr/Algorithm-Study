@@ -22,7 +22,6 @@ public class n3_4_2 {
             for (int j = 0; j < M; j++) {
                 int x = Integer.parseInt(st.nextToken());
                 min_value = Math.min(min_value, x);
-                System.out.println(i + " " + j + " : " + min_value);
             }
             // '가장 작은 수'들 중에서 가장 큰 수 찾기
             result = Math.max(result, min_value); // 이전 행에서도 진행하고 가장 컸던 result와 현재 줄의 min_value를 비교
