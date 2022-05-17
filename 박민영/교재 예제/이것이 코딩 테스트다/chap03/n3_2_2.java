@@ -1,3 +1,5 @@
+// chap03 (2) 실전문제 : 큰 수의 법칙
+
 // 해설 코드 참고한 코드
 import java.io.BufferedReader;
 import java.io.IOException;

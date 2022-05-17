@@ -1,3 +1,5 @@
+// chap03 (1) 예제3-1 : 거스름돈
+
 public class n3_1 {
     public static void main(String[] args) {
         int n = 1260;

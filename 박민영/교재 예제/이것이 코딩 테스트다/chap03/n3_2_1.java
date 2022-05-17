@@ -1,3 +1,5 @@
+// chap03 (2) 실전문제 : 큰 수의 법칙
+
 // 내가 푼 것(해설 원리 조금 파악하고 풀었음)
 import java.io.BufferedReader;
 import java.io.IOException;
