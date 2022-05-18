@@ -111,6 +111,11 @@
 | 수학 | <a href="https://www.acmicpc.net/problem/2869">백준 2869번 : 달팽이는 올라가고 싶다</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n2869/Main.java">🔗</a> |
 | 수학 | <a href="https://www.acmicpc.net/problem/9020">백준 9020번 : 골드바흐의 추측</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n9020/Main.java">🔗</a> |
 
+### Week 13 (22.05.22.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 그리디 | <a href="https://www.acmicpc.net/problem/1931">백준 1931번 : 회의실 배정</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Greedy%20(%EA%B7%B8%EB%A6%AC%EB%94%94)/%EB%B0%B1%EC%A4%80/n1931/Main.java">🔗</a> |
+
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
 -->

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🌱 전채연 ([b1urrrr](https://github.com/b1urrrr))
 
 ### Week 01 (22.02.27.)
@@ -332,6 +331,7 @@
 | Week | Chapter | Title | Date | Link |
 | :--: | :-----: | :---: | :--: | :--: |
 | 10 | 03 | 그리디 | 22.05.03. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap03">🔗</a> |
+| 11 | 04 | 구현 | 22.05.10. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap04">🔗</a> |
 
 <!--
 |  |  |  | 22. | <a href="">🔗</a> |
@@ -369,4 +369,3 @@
 
 ## 📍 Personal Reference Site
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://blog.naver.com/b1urrr"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a> &nbsp; <a href="https://teal-floss-6e7.notion.site/Java-Syntax-and-Concepts-dc9253f0d556426e855ca129f54f9e61"><img src="https://img.shields.io./badge/Java-000000?style=for-the-badge&logo=notion&logoColor=white"></a> &nbsp; <a href="https://teal-floss-6e7.notion.site/Algorithm-56f55387bbff4430a6ea9df06187d9ab"><img src="https://img.shields.io./badge/Algorithm-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
->>>>>>> ec7842c366ff47f061352d1ad3f62692b5ea0ae4
