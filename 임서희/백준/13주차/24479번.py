@@ -95,3 +95,4 @@ for cnt in nodes_cnt[1:]:
     print(cnt)
 
 # 다시 풀어보기
+# 시작이 1인 경우
