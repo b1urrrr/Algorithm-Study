@@ -168,16 +168,44 @@
 
 <br>
 
-### Week 11 (22.05.08.)
+### Week 11 (22.05.08.) 복습 주간
 
 |    유형    |                                제목                                 |                                                                                  풀이                                                                                   | Reference Site |
 | :--------: | :-----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: |
 |  :star:그리디  |  <a href="https://www.acmicpc.net/problem/1541">1541번: 잃어버린 괄호</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/11%EC%A3%BC%EC%B0%A8/1541%EB%B2%88.py">🔗</a>  |  |
-|  :star:정수론  |  <a href="https://www.acmicpc.net/problem/1676">1676번: 팩토리얼 0의 개수</a>  | <a href="">🔗</a>  | 다시 풀기 |
-
-
+|  :star:정수론  |  <a href="https://www.acmicpc.net/problem/1676">1676번: 팩토리얼 0의 개수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/11%EC%A3%BC%EC%B0%A8/1676%EB%B2%88.py">🔗</a>  | 다시 풀기 |
+|  :star:정수론  |  <a href="https://www.acmicpc.net/problem/2981">2981번: 검문</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/11%EC%A3%BC%EC%B0%A8/2981%EB%B2%88.py">🔗</a>  | 다시 풀기 |
+|  :star:백트래킹  |  <a href="https://www.acmicpc.net/problem/9663">9663번: N-Queen</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/11%EC%A3%BC%EC%B0%A8/9663%EB%B2%88.py">🔗</a>  | 다시 풀기 |
+|  :star:트리  |  <a href="https://www.acmicpc.net/problem/11725">11725번: 트리의 부모 찾기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/11%EC%A3%BC%EC%B0%A8/11725%EB%B2%88.py">🔗</a>  | 복습 |
 
 <br>
+
+### Week 12 (22.05.15.) 복습 주간
+
+|    유형    |                                제목                                 |                                                                                  풀이                                                                                   | Reference Site |
+| :--------: | :-----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: |
+|  :star:동적 계획법  |  <a href="https://www.acmicpc.net/problem/1003">1003번: 피보나치 함수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/12%EC%A3%BC%EC%B0%A8/1003%EB%B2%88.py">🔗</a>  |  |
+|  :star:브루트포스  |  <a href="https://www.acmicpc.net/problem/1676">1676번: 체스판 다시 칠하기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/12%EC%A3%BC%EC%B0%A8/1018%EB%B2%88.py">🔗</a>  | 다시 풀기 |
+|  :star:브루트포스  |  <a href="https://www.acmicpc.net/problem/1436">1436번: 영화감독 숌</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/12%EC%A3%BC%EC%B0%A8/1436%EB%B2%88.py">🔗</a>  | 다시 풀기 |
+|  :star:브루트포스  |  <a href="https://www.acmicpc.net/problem/2798">2798번: 블랙잭</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/12%EC%A3%BC%EC%B0%A8/2798%EB%B2%88.py">🔗</a>  | 다시 풀기 |
+|  :star:백트래킹  |  <a href="https://www.acmicpc.net/problem/15649">15649번: N과 M(1)</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/12%EC%A3%BC%EC%B0%A8/15649%EB%B2%88.py">🔗</a>  | 복습 |
+
+<br>
+
+
+### Week 13 (22.05.15.) 
+
+|    유형    |                                제목                                 |                                                                                  풀이                                                                                   | Reference Site |
+| :--------: | :-----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: |
+|  :star:그래프와 순회  |  <a href="https://www.acmicpc.net/problem/1260">1260번: DFS와 BFS</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/13%EC%A3%BC%EC%B0%A8/1260%EB%B2%88.py">🔗</a>  |  |
+|  :star:그래프와 순회  |  <a href="https://www.acmicpc.net/problem/24479">24479번: 알고리즘 수업-깊이 우선 탐색 1</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/13%EC%A3%BC%EC%B0%A8/24479%EB%B2%88.py">🔗</a>  | DFS를 스택으로 구현하기 |
+|  재귀  |  <a href="https://www.acmicpc.net/problem/17478">17478번: 재귀함수가 뭔가요?</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/13%EC%A3%BC%EC%B0%A8/17478%EB%B2%88.py">🔗</a>  |  |
+|  스택  |  <a href="https://www.acmicpc.net/problem/10773">10773번: 제로</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/13%EC%A3%BC%EC%B0%A8/10773%EB%B2%88.py">🔗</a>  |  |
+|  :star:스택  |  <a href="https://www.acmicpc.net/problem/9012">9012번: 괄호</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/13%EC%A3%BC%EC%B0%A8/9012%EB%B2%88.py">🔗</a>  | 다시 풀기 |
+
+<br>
+
+
 
 ## 📍 Study Book
 
@@ -201,9 +229,10 @@
 ### 이것이 취업을 위한 코딩 테스트다 (with 파이썬)
 | Week | Chapter |        Title         |   Date   |                                                                                                                                           Link                                                                                                                                           |
 | :--: | :-----: | :------------------: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  10   |   01    |    그리디     | 22.05.02 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EA%B5%90%EC%9E%AC/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%95%A8%EA%BB%98%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9E%85%EB%AC%B8/chap01">🔗</a> |
-|  11   |   02    | 구현 | 22.05.09 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EA%B5%90%EC%9E%AC/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%95%A8%EA%BB%98%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9E%85%EB%AC%B8/chap02">🔗</a> |
-
+|  10   |   01    |    그리디     | 22.05.02 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EA%B5%90%EC%9E%AC/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/%EA%B7%B8%EB%A6%AC%EB%94%94">🔗</a> |
+|  11   |   02    | 구현 | 22.05.09 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EA%B5%90%EC%9E%AC/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/%EA%B5%AC%ED%98%84">🔗</a> |
+|  12   |   03    | DFS/BFS | 22.05.16 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EA%B5%90%EC%9E%AC/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/DFSnBFS">🔗</a> |
+|  13   |   04    | 정렬 | 22.05.24 | <a href="">🔗</a> |
 <br>
 
 ## 📍 Personal Reference Site
