@@ -116,6 +116,9 @@
 | :---: | :---: | :---: | :---: |
 | 그리디 | <a href="https://www.acmicpc.net/problem/1931">백준 1931번 : 회의실 배정</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Greedy%20(%EA%B7%B8%EB%A6%AC%EB%94%94)/%EB%B0%B1%EC%A4%80/n1931/Main.java">🔗</a> |
 | 백트래킹 | <a href="https://www.acmicpc.net/problem/2580">백준 2580번 : 스도쿠</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Backtracking%20(%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)/%EB%B0%B1%EC%A4%80/n2580/Main.java">🔗</a> |
+| 이진탐색 | <a href="https://www.acmicpc.net/problem/10815">백준 10815번 : 숫자 카드</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Binary%20Search%20(%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89)/%EB%B0%B1%EC%A4%80/n10815/Main.java">🔗</a> |
+| 집합(Set) | <a href="https://www.acmicpc.net/problem/14425">백준 14425번 : 문자열 집합</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Set%20(%EC%A7%91%ED%95%A9)/%EB%B0%B1%EC%A4%80/n14425/Main.java">🔗</a> |
+| 집합(Map) | <a href="https://www.acmicpc.net/problem/1620">백준 1620번 : 나는야 포켓몬 마스터 이다솜</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Set%20(%EC%A7%91%ED%95%A9)/%EB%B0%B1%EC%A4%80/n1620/Main.java">🔗</a> |
 
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
