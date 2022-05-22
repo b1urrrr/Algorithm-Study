@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class Main {
+public class 베르트랑_공준 {
 	/*
 	n > 123456 이므로 2n 은 최대 246912 이다.
 	0 부터 시작하므로 246912 + 1
