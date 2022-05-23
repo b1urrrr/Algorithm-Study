@@ -130,6 +130,20 @@
 | :------: | :---: | :--: |
 | 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/1676">백준 1676번 : 팩토리얼 0의 개수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/팩토리얼_0의_개수.java">🔗</a> |
 | 집합 (Set), 비트마스크 (BitMask) | <a href="https://www.acmicpc.net/problem/11723">백준 11723번 : 집합</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Set%20(집합)/집합.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/1010">백준 1010번 : 다리 놓기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/다리_놓기.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/4948">백준 4948번 : 베르트랑 공준</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/베르트랑_공준.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/11653">백준 11653번 : 소인수분해</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/소인수분해.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 13 (22.05.22.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 기하학 (Geometry) | <a href="https://www.acmicpc.net/problem/1002">백준 1002번 : 터렛</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/Geometry%20(기하학)/터렛.java">🔗</a> |
+| 에라토스테네스의 체 (Sieve of Eratosthenes) | <a href="https://www.acmicpc.net/problem/9020">백준 9020번 : 골드바흐의 추측</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/Sieve%20of%20Eratosthenes%20(에라토스테네스의%20체)/골드바흐의_추측.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/16204">백준 16204번 : 카드 뽑기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/카드_뽑기.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/11549">백준 11549번 : Identifying tea</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementaion%20(구현)/Identifying_tea.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/15700">백준 15700번 : 타일 채우기 4</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/타일_채우기_4.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
