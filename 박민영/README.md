@@ -124,6 +124,8 @@
 | 유형 | 제목 | 풀이 | 다른 코드 공부 |
 | :---: | :---: | :---: | :---: |
 | 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/2579">백준 2579번 : 계단 오르기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Dynamic%20programming%20(%EB%8F%99%EC%A0%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)/%EB%B0%B1%EC%A4%80/n2579/Main.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/3034">백준 3034번 : 앵그리 창영</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n3034/Main.java">🔗</a> |
+| 집합(Map) | <a href="https://www.acmicpc.net/problem/10816">백준 10816번 : 숫자 카드 2</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Set%20(%EC%A7%91%ED%95%A9)/%EB%B0%B1%EC%A4%80/n10816/Main.java">🔗</a> |
 
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
