@@ -160,6 +160,7 @@
 | 11 | 04 | 구현 | 22.05.10 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/chap04">🔗</a>
 | 12 | 05 | DFS/BFS | 22.05.17 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/chap05">🔗</a>
 | 13 | 06 | 정렬 | 22.05.24 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/chap06">🔗</a>
+| 14 | 07 | 이진 탐색 | 22.05.31 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/chap07">🔗</a>
 
 <!--
 | 주차 | 챕터 | 제목 | 22.05.03 |<a href="">🔗</a>
