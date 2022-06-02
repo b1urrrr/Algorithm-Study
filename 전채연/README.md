@@ -145,6 +145,23 @@
 | 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/11549">백준 11549번 : Identifying tea</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementaion%20(구현)/Identifying_tea.java">🔗</a> |
 | 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/15700">백준 15700번 : 타일 채우기 4</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/타일_채우기_4.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 14 (22.05.29.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/13136">백준 13136번 : Do Not Touch Anything</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/Do_Not_Touch_Anything.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/14935">백준 14935번 : FA</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/FA.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/23825">백준 23825번 : SASA 모형을 만들어보자</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/SASA_모형을_만들어보자.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/16199">백준 16199번 : 나이 계산하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/나이_계산하기.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/25191">백준 25191번 : 치킨댄스를 추는 곰곰이를 본 임스</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/치킨댄스를_추는_곰곰이를_본_임스.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 15 (22.06.05.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
