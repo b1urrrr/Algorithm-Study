@@ -3,7 +3,7 @@ package chap05;
 import java.util.Stack;
 
 public class Example5_1 {
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         Stack<Integer> stack = new Stack<>();
 
         stack.push(5);
@@ -15,6 +15,7 @@ public class Example5_1 {
         stack.push(4);
         stack.pop();
 
+        // 최상단 원소부터 출력
         while (!stack.isEmpty()) {
             System.out.println(stack.peek());
             stack.pop();
