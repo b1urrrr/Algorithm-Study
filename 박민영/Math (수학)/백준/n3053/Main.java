@@ -2,6 +2,7 @@
  * @author Minyeong Park
  * @date 2022.06.04.
  * 택시 기하학
+ * 참고 : https://st-lab.tistory.com/89, https://itholic.github.io/kata-taxicab-circle/
  * 문제 링크 : https://www.acmicpc.net/problem/3053
  */
 
