@@ -18,4 +18,5 @@ public class Do_Not_Touch_Anything {
 		long CCTV = RCCTV * CCCTV;
 		
 		System.out.println(CCTV);
+	}
 }

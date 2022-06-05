@@ -17,7 +17,6 @@ public class ACM_호텔 {
             StringTokenizer st = new StringTokenizer(s);
             
             int floors = Integer.parseInt(st.nextToken()); // 호텔의 층 수
-            int rooms = Integer.parseInt(st.nextToken()); // 각 층의 방 수
             int customer = Integer.parseInt(st.nextToken()); // 손님의 번호 (몇 번째 손님인지)
 
             int Y = customer % floors;      // 방 번호의 앞자리
