@@ -129,7 +129,19 @@
 | 집합(Set) | <a href="https://www.acmicpc.net/problem/1764">백준 1764번 : 듣보잡</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Set%20(%EC%A7%91%ED%95%A9)/%EB%B0%B1%EC%A4%80/n1764/Main.java">🔗</a> |
 | 수학 | <a href="https://www.acmicpc.net/problem/2477">백준 2477번 : 참외밭</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n2477/Main.java">🔗</a> |
 
+### Week 15 (22.06.05.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 집합(Set) | <a href="https://www.acmicpc.net/problem/1269">백준 1269번 : 대칭 차집합</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Set%20(%EC%A7%91%ED%95%A9)/%EB%B0%B1%EC%A4%80/n1269/%EB%82%B4%EA%B0%80%20%ED%91%BC%20%EA%B2%83/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Set%20(%EC%A7%91%ED%95%A9)/%EB%B0%B1%EC%A4%80/n1269/%EB%8B%A4%EB%A5%B8%20%EC%BD%94%EB%93%9C%20%EA%B3%B5%EB%B6%80/Main.java">📝</a> | 
+| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/24416">백준 24416번 : 알고리즘 수업 - 피보나치 수 1</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Dynamic%20programming%20(%EB%8F%99%EC%A0%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)/%EB%B0%B1%EC%A4%80/n24416/Main.java">🔗</a> |
+| 집합(Set) | <a href="https://www.acmicpc.net/problem/11478">백준 11478번 : 서로 다른 부분 문자열의 개수</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Set%20(%EC%A7%91%ED%95%A9)/%EB%B0%B1%EC%A4%80/n11478/Main.java">🔗(풀이 1)</a> <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Set%20(%EC%A7%91%ED%95%A9)/%EB%B0%B1%EC%A4%80/n11478/Main2.java">🔗(풀이 2)</a>|
+| 수학 | <a href="https://www.acmicpc.net/problem/3053">백준 3053번 : 택시 기하학</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n3053/Main.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/1002">백준 1002번 : 터렛</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n1002/Main.java">🔗</a> |
+
+
+
 <!--
+| 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
 -->
 
