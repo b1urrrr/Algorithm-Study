@@ -120,7 +120,28 @@
 | 집합(Set) | <a href="https://www.acmicpc.net/problem/14425">백준 14425번 : 문자열 집합</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Set%20(%EC%A7%91%ED%95%A9)/%EB%B0%B1%EC%A4%80/n14425/Main.java">🔗</a> |
 | 집합(Map) | <a href="https://www.acmicpc.net/problem/1620">백준 1620번 : 나는야 포켓몬 마스터 이다솜</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Set%20(%EC%A7%91%ED%95%A9)/%EB%B0%B1%EC%A4%80/n1620/Main.java">🔗</a> |
 
+### Week 14 (22.05.29.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/2579">백준 2579번 : 계단 오르기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Dynamic%20programming%20(%EB%8F%99%EC%A0%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)/%EB%B0%B1%EC%A4%80/n2579/Main.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/3034">백준 3034번 : 앵그리 창영</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n3034/Main.java">🔗</a> |
+| 집합(Map) | <a href="https://www.acmicpc.net/problem/10816">백준 10816번 : 숫자 카드 2</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Set%20(%EC%A7%91%ED%95%A9)/%EB%B0%B1%EC%A4%80/n10816/Main.java">🔗</a> |
+| 집합(Set) | <a href="https://www.acmicpc.net/problem/1764">백준 1764번 : 듣보잡</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Set%20(%EC%A7%91%ED%95%A9)/%EB%B0%B1%EC%A4%80/n1764/Main.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/2477">백준 2477번 : 참외밭</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n2477/Main.java">🔗</a> |
+
+### Week 15 (22.06.05.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 집합(Set) | <a href="https://www.acmicpc.net/problem/1269">백준 1269번 : 대칭 차집합</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Set%20(%EC%A7%91%ED%95%A9)/%EB%B0%B1%EC%A4%80/n1269/%EB%82%B4%EA%B0%80%20%ED%91%BC%20%EA%B2%83/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Set%20(%EC%A7%91%ED%95%A9)/%EB%B0%B1%EC%A4%80/n1269/%EB%8B%A4%EB%A5%B8%20%EC%BD%94%EB%93%9C%20%EA%B3%B5%EB%B6%80/Main.java">📝</a> | 
+| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/24416">백준 24416번 : 알고리즘 수업 - 피보나치 수 1</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Dynamic%20programming%20(%EB%8F%99%EC%A0%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)/%EB%B0%B1%EC%A4%80/n24416/Main.java">🔗</a> |
+| 집합(Set) | <a href="https://www.acmicpc.net/problem/11478">백준 11478번 : 서로 다른 부분 문자열의 개수</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Set%20(%EC%A7%91%ED%95%A9)/%EB%B0%B1%EC%A4%80/n11478/Main.java">🔗(풀이 1)</a> <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Set%20(%EC%A7%91%ED%95%A9)/%EB%B0%B1%EC%A4%80/n11478/Main2.java">🔗(풀이 2)</a>|
+| 수학 | <a href="https://www.acmicpc.net/problem/3053">백준 3053번 : 택시 기하학</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n3053/Main.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/1002">백준 1002번 : 터렛</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n1002/Main.java">🔗</a> |
+
+
+
 <!--
+| 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
 -->
 
@@ -151,6 +172,7 @@
 | 11 | 04 | 구현 | 22.05.10 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/chap04">🔗</a>
 | 12 | 05 | DFS/BFS | 22.05.17 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/chap05">🔗</a>
 | 13 | 06 | 정렬 | 22.05.24 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/chap06">🔗</a>
+| 14 | 07 | 이진 탐색 | 22.05.31 |<a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EB%B0%95%EB%AF%BC%EC%98%81/%EA%B5%90%EC%9E%AC%20%EC%98%88%EC%A0%9C/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/chap07">🔗</a>
 
 <!--
 | 주차 | 챕터 | 제목 | 22.05.03 |<a href="">🔗</a>
