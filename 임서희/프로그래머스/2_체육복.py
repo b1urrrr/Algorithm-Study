@@ -52,6 +52,7 @@ def solution(n, lost, reserve):
     return num
 
 # 수정된 맞는 코드
+# 걸린 시간: 52분
 # 참고: https://devpouch.tistory.com/110 ([python] list로 for문 돌면서 remove할때 주의할점)
 def solution(n, lost, reserve):
     lost.sort()
