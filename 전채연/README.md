@@ -141,7 +141,7 @@
 | :------: | :---: | :--: |
 | 기하학 (Geometry) | <a href="https://www.acmicpc.net/problem/1002">백준 1002번 : 터렛</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/Geometry%20(기하학)/터렛.java">🔗</a> |
 | 에라토스테네스의 체 (Sieve of Eratosthenes) | <a href="https://www.acmicpc.net/problem/9020">백준 9020번 : 골드바흐의 추측</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/Sieve%20of%20Eratosthenes%20(에라토스테네스의%20체)/골드바흐의_추측.java">🔗</a> |
-| Implementation%20(구현) | <a href="https://www.acmicpc.net/problem/16204">백준 16204번 : 카드 뽑기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/카드_뽑기.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/16204">백준 16204번 : 카드 뽑기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/카드_뽑기.java">🔗</a> |
 | 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/11549">백준 11549번 : Identifying Tea</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/Identifying_Tea.java">🔗</a> |
 | 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/15700">백준 15700번 : 타일 채우기 4</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/타일_채우기_4.java">🔗</a> |
 
