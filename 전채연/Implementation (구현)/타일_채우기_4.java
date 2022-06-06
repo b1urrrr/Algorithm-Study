@@ -1,15 +1,20 @@
+/*
+    백준 15700번 : 타일 채우기 4
+    - 문제 유형 : 구현
+*/
+
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class 이칙연산 {
+public class 타일_채우기_4 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String s = br.readLine();
         StringTokenizer st = new StringTokenizer(s);
-        double num1 = Double.parseDouble(st.nextToken());
-        double num2 = Double.parseDouble(st.nextToken());
-        double num3 = Double.parseDouble(st.nextToken());
 
-        System.out.println((int) Math.max(num1 * num2 / num3, num1 / num2 * num3));
+        Long n = Long.parseLong(st.nextToken());
+        Long m = Long.parseLong(st.nextToken());
+
+        System.out.println(n * m / 2);
     }
 }

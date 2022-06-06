@@ -1,3 +1,8 @@
+/*
+    백준 16431번 : 베시와 데이지
+    - 문제 유형 : 구현
+*/
+
 import java.io.*;
 import java.util.StringTokenizer;
 
