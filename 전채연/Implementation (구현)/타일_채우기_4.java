@@ -1,3 +1,8 @@
+/*
+    백준 15700번 : 타일 채우기 4
+    - 문제 유형 : 구현
+*/
+
 import java.io.*;
 import java.util.StringTokenizer;
 

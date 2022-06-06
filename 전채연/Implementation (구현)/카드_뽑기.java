@@ -1,3 +1,8 @@
+/*
+    백준 16204번 : 카드 뽑기
+    - 문제 유형 : 구현
+*/
+
 import java.io.*;
 import java.util.StringTokenizer;
 

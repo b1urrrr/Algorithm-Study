@@ -1,3 +1,8 @@
+/*
+    백준 13136번 : Do Not Touch Anything
+    - 문제 유형 : 구현
+*/
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -18,4 +23,5 @@ public class Do_Not_Touch_Anything {
 		long CCTV = RCCTV * CCCTV;
 		
 		System.out.println(CCTV);
+	}
 }
