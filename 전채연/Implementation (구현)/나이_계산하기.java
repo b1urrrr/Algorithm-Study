@@ -1,3 +1,8 @@
+/*
+    백준 16199번 : 나이 계산하기
+    - 문제 유형 : 구현
+*/
+
 import java.io.*;
 import java.util.StringTokenizer;
 

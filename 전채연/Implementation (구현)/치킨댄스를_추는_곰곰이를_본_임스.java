@@ -1,3 +1,8 @@
+/*
+    백준 25191번 : 치킨댄스를 추는 곰곰이를 본 임스
+    - 문제 유형 : 구현
+*/
+
 import java.io.*;
 import java.util.StringTokenizer;
 
