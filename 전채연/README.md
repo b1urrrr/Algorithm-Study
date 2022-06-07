@@ -141,20 +141,20 @@
 | :------: | :---: | :--: |
 | 기하학 (Geometry) | <a href="https://www.acmicpc.net/problem/1002">백준 1002번 : 터렛</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/Geometry%20(기하학)/터렛.java">🔗</a> |
 | 에라토스테네스의 체 (Sieve of Eratosthenes) | <a href="https://www.acmicpc.net/problem/9020">백준 9020번 : 골드바흐의 추측</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/Sieve%20of%20Eratosthenes%20(에라토스테네스의%20체)/골드바흐의_추측.java">🔗</a> |
-| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/16204">백준 16204번 : 카드 뽑기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/카드_뽑기.java">🔗</a> |
-| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/11549">백준 11549번 : Identifying tea</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/Identifying_tea.java">🔗</a> |
-| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/15700">백준 15700번 : 타일 채우기 4</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/타일_채우기_4.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/16204">백준 16204번 : 카드 뽑기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/카드_뽑기.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/11549">백준 11549번 : Identifying Tea</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/Identifying_Tea.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/15700">백준 15700번 : 타일 채우기 4</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/타일_채우기_4.java">🔗</a> |
 
 <h1 dir="auto"></h1>
 
 ### Week 14 (22.05.29.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/13136">백준 13136번 : Do Not Touch Anything</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/Do_Not_Touch_Anything.java">🔗</a> |
-| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/14935">백준 14935번 : FA</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/FA.java">🔗</a> |
-| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/23825">백준 23825번 : SASA 모형을 만들어보자</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/SASA_모형을_만들어보자.java">🔗</a> |
-| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/16199">백준 16199번 : 나이 계산하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/나이_계산하기.java">🔗</a> |
-| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/25191">백준 25191번 : 치킨댄스를 추는 곰곰이를 본 임스</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/치킨댄스를_추는_곰곰이를_본_임스.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/13136">백준 13136번 : Do Not Touch Anything</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/Do_Not_Touch_Anything.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/14935">백준 14935번 : FA</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/FA.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/23825">백준 23825번 : SASA 모형을 만들어보자</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/SASA_모형을_만들어보자.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/16199">백준 16199번 : 나이 계산하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/나이_계산하기.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/25191">백준 25191번 : 치킨댄스를 추는 곰곰이를 본 임스</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/치킨댄스를_추는_곰곰이를_본_임스.java">🔗</a> |
 
 <h1 dir="auto"></h1>
 
@@ -163,9 +163,9 @@
 | :------: | :---: | :--: |
 | 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/1012">백준 1012번 : 유기농 배추</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/유기농_배추.java">🔗</a> |
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/1697">백준 1697번 : 숨바꼭질</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/숨바꼭질.java">🔗</a> |
-| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/17478">백준 17478번 : 재귀함수가 뭔가요?</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/재귀함수가_뭔가요.java">🔗</a> |
-| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/15726">백준 15726번 : 이칙연산</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/이칙연산.java">🔗</a> |
-| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/16431">백준 16431번 : 베시와 데이지</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/베시와_데이지.java">🔗</a> |
+| 재귀 (Recursion) | <a href="https://www.acmicpc.net/problem/17478">백준 17478번 : 재귀함수가 뭔가요?</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/재귀함수가_뭔가요.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/15726">백준 15726번 : 이칙연산</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/이칙연산.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/16431">백준 16431번 : 베시와 데이지</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현))/베시와_데이지.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
