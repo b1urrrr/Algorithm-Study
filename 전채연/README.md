@@ -163,7 +163,7 @@
 | :------: | :---: | :--: |
 | 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/1012">백준 1012번 : 유기농 배추</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/유기농_배추.java">🔗</a> |
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/1697">백준 1697번 : 숨바꼭질</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/숨바꼭질.java">🔗</a> |
-| 재귀 (Recursion) | <a href="https://www.acmicpc.net/problem/17478">백준 17478번 : 재귀함수가 뭔가요?</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/재귀함수가_뭔가요.java">🔗</a> |
+| 재귀 (Recursion) | <a href="https://www.acmicpc.net/problem/17478">백준 17478번 : 재귀함수가 뭔가요?</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Recursion%20(재귀)/재귀함수가_뭔가요.java">🔗</a> |
 | 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/15726">백준 15726번 : 이칙연산</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/이칙연산.java">🔗</a> |
 | 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/16431">백준 16431번 : 베시와 데이지</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/베시와_데이지.java">🔗</a> |
 
