@@ -99,7 +99,7 @@
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/17175">백준 17175번 : 피보나치는 지겨웡~</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/피보나치는_지겨웡.java">🔗</a> |
 | 브루트 포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/1107">백준 1107번 : 리모컨</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/리모컨.java">🔗</a> |
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/1003">백준 1003번 : 피보나치 함수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/피보나치_함수.java">🔗</a> |
-| 브루트 포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/2231">백준 2231번 : 분해합</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/분해합.java">🔗</a> |
+| 브루트 포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/2231">백준 2231번 : 분해합</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/분해합.java">🔗</a> |
 
 <h1 dir="auto"></h1>
 
@@ -110,7 +110,7 @@
 | 백트래킹 (Backtracking), 브루트 포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/14500">백준 14500번 : 테트로미노</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/테트로미노.java">🔗</a> |
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/17626">백준 17626번 : Four Squares</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/Four_Squares.java">🔗</a> |
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/9095">백준 9095번 : 1, 2, 3 더하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/_1_2_3_더하기.java">🔗</a> |
-| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/11726">백준 11726번 : 2×n 타일링</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/_2xn_타일링.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/11726">백준 11726번 : 2×n 타일링</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/_2xn_타일링.java">🔗</a> |
 
 <h1 dir="auto"></h1>
 
@@ -154,7 +154,7 @@
 | 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/14935">백준 14935번 : FA</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/FA.java">🔗</a> |
 | 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/23825">백준 23825번 : SASA 모형을 만들어보자</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/SASA_모형을_만들어보자.java">🔗</a> |
 | 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/16199">백준 16199번 : 나이 계산하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/나이_계산하기.java">🔗</a> |
-| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/25191">백준 25191번 : 치킨댄스를 추는 곰곰이를 본 임스</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/치킨댄스를_추는_곰곰이를_본_임스.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/25191">백준 25191번 : 치킨댄스를 추는 곰곰이를 본 임스</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/치킨댄스를_추는_곰곰이를_본_임스.java">🔗</a> |
 
 <h1 dir="auto"></h1>
 
@@ -163,9 +163,17 @@
 | :------: | :---: | :--: |
 | 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/1012">백준 1012번 : 유기농 배추</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/유기농_배추.java">🔗</a> |
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/1697">백준 1697번 : 숨바꼭질</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/숨바꼭질.java">🔗</a> |
-| 재귀 (Recursion) | <a href="https://www.acmicpc.net/problem/17478">백준 17478번 : 재귀함수가 뭔가요?</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/재귀함수가_뭔가요.java">🔗</a> |
+| 재귀 (Recursion) | <a href="https://www.acmicpc.net/problem/17478">백준 17478번 : 재귀함수가 뭔가요?</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Recursion%20(재귀)/재귀함수가_뭔가요.java">🔗</a> |
 | 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/15726">백준 15726번 : 이칙연산</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/이칙연산.java">🔗</a> |
-| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/16431">백준 16431번 : 베시와 데이지</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현))/베시와_데이지.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/16431">백준 16431번 : 베시와 데이지</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/베시와_데이지.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 15 (22.06.05.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/7576">백준 7576번 : 토마토</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/토마토.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/7569">백준 7569번 : 토마토</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/토마토_2.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
