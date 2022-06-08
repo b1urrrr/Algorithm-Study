@@ -1,3 +1,9 @@
+/*
+    백준 7569번 : 토마토
+    - 문제 유형 : 그래프 탐색
+    - 풀이 유형 : BFS (너비 우선 탐색)
+*/
+
 import java.io.*;
 import java.util.StringTokenizer;
 import java.util.Queue;
