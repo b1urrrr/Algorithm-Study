@@ -26,6 +26,7 @@ public class 아기_상어 {
         } 
     }
 
+    // 아기 상어가 먹을 수 있는 물고기가 남았는지 확인하는 메서드
     static boolean check() {
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
@@ -35,14 +36,12 @@ public class 아기_상어 {
         return false;
     }
 
-    static int min() {
-        return 1;
-    }
-
+    // 너비 우선 탐색 메서드
     static int bfs() {
         int resultX = -1, resultY = -1;
         int visit[][] = new int[n][n];
         boolean isStart = true;
+
         while (!que.isEmpty()) {
             Node node = que.remove();
             if (isStart) {
@@ -76,10 +75,12 @@ public class 아기_상어 {
                 }
             }
         }
+        // 상어의 크기가 커지는 경우
         if (++eat == shark) {
             shark++;
             eat = 0;
         }
+        // 먹을 수 있는 물고기가 없는 경우
         if (resultX == -1) return -1;
         graph[resultX][resultY] = 0;
         que.clear();
@@ -110,6 +111,7 @@ public class 아기_상어 {
             sec += result;
         }
 
+        // 아기 상어가 엄마 상어에게 도움을 요청하지 않고 물고기를 잡아먹을 수 있는 시간 출력
         System.out.println(sec);
     }
 }
