@@ -1,6 +1,6 @@
 /*
  * @author Minyeong Park
- * @date 2022.06.09.
+ * @date 2022.06.11.
  * 알고리즘 수업 - 깊이 우선 탐색 2
  * 참고 : https://hianna.tistory.com/569, 24479번 해결했던 풀이
  * 문제 링크 : https://www.acmicpc.net/problem/24480
