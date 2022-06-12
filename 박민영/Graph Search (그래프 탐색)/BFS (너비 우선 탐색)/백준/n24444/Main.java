@@ -1,18 +1,18 @@
 /*
  * @author Minyeong Park
- * @date 2022.06.11.
- * 알고리즘 수업 - 깊이 우선 탐색 2
- * 참고 : https://hianna.tistory.com/569, 24479번 해결했던 풀이
- * 문제 링크 : https://www.acmicpc.net/problem/24480
+ * @date 2022.06.10.
+ * 알고리즘 수업 - 너비 우선 탐색 1
+ * 문제 링크 : https://www.acmicpc.net/problem/24444
  */
 
 import java.io.*;
 import java.util.*;
 
 public class Main {
-    static ArrayList<Integer>[] list;
-    static int[] answer;
     static boolean[] visited;
+    static ArrayList<Integer>[] list;
+    static Queue<Integer> queue = new LinkedList<>();
+    static int[] answer;
     static int index = 0;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -22,11 +22,11 @@ public class Main {
         int r = Integer.parseInt(st.nextToken());
 
         list = new ArrayList[n+1];
-        for (int i = 0; i < list.length; i++) {
+        visited = new boolean[n+1];
+        answer = new int[n+1];
+        for (int i = 1; i <= n; i++) {
             list[i] = new ArrayList<>();
         }
-        answer = new int[n+1];
-        visited = new boolean[n+1];
         for (int i = 0; i < m; i++) {
             st = new StringTokenizer(br.readLine());
             int a = Integer.parseInt(st.nextToken());
@@ -36,24 +36,33 @@ public class Main {
         }
 
         for (int i = 1; i <= n; i++) {
-            Collections.sort(list[i], Collections.reverseOrder());
+            Collections.sort(list[i]);
         }
 
-        visited[r] = true;
-        dfs(r);
+        bfs(r);
         StringBuilder sb = new StringBuilder();
-        for (int i = 1; i < answer.length; i++) {
+        for (int i = 1; i <= n; i++) {
             sb.append(answer[i]).append('\n');
         }
         System.out.println(sb);
     }
 
-    static void dfs(int r) {
+    static void bfs(int r) {
+        for (int i = 1; i <= list.length - 1; i++) {
+            if (i != r)
+                visited[i] = false;
+        }
+        visited[r] = true;
+        queue.offer(r);
         answer[r] = ++index;
-        for (int node : list[r]) {
-            if (!visited[node]) {
-                visited[node] = true;
-                dfs(node);
+        while (!queue.isEmpty()) {
+            int u = queue.poll();
+            for (int i : list[u]) {
+                if (visited[i] == false) {
+                    visited[i] = true;
+                    queue.offer(i);
+                    answer[i] = ++index;
+                }
             }
         }
     }
