@@ -90,13 +90,14 @@ public class 아기_상어 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        n = Integer.parseInt(br.readLine());
+        n = Integer.parseInt(br.readLine()); // 공간의 크기
         graph = new int[n][n];
 
         for (int i = 0; i < n; i++) {
             StringTokenizer st = new StringTokenizer(br.readLine());
             for (int j = 0; j < n; j++) {
-                graph[i][j] = Integer.parseInt(st.nextToken());
+                graph[i][j] = Integer.parseInt(st.nextToken()); // 공간의 상태 입력
+                // 상어가 있는 칸은 시작 노드로 큐에 추가
                 if (graph[i][j] == 9) {
                     graph[i][j] = 0;
                     que.add(new Node(i, j));
