@@ -1,3 +1,9 @@
+/*
+    백준 2667번 : 단지번호붙이기
+    - 문제 유형 : 그래프 탐색
+    - 풀이 유형 : DFS (깊이 우선 탐색)
+*/
+
 import java.io.*;
 import java.util.List;
 import java.util.ArrayList;
