@@ -200,6 +200,7 @@
 | 10 | 03 | 그리디 | 22.05.03. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap03">🔗</a> |
 | 11 | 04 | 구현 | 22.05.10. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap04">🔗</a> |
 | 12 | 05 | DFS/BFS | 22.05.17. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap05">🔗</a> |
+| 13 | 06 | 정렬 | 22.05.24. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap06">🔗</a> |
 
 <!--
 |  |  |  | 22. | <a href="">🔗</a> |
