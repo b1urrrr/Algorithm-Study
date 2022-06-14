@@ -183,7 +183,8 @@
 ### Week 17 (22.06.19.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/9019">백준 9019 : DSLR</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/DSLR.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/9019">백준 9019번 : DSLR</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/DSLR.java">🔗</a> |
+| 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/2667">백준 2667번 : 단지번호붙이기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/단지번호붙이기.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
