@@ -23,6 +23,7 @@ public class 나이트의_이동 {
         }
     }
 
+    // 너비 우선 탐색 메서드
     static int bfs(int size, Node start, Node end) {
         int[][] board = new int[size][size];
         Queue<Node> que = new LinkedList<>();
@@ -50,15 +51,16 @@ public class 나이트의_이동 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int testCase = Integer.parseInt(br.readLine());
+        int testCase = Integer.parseInt(br.readLine()); // 테스트 케이스의 개수 입력
 
         for (int i = 0; i < testCase; i++) {
-            int I = Integer.parseInt(br.readLine());
+            int I = Integer.parseInt(br.readLine()); // 체스판 한 변의 길이 입력
             StringTokenizer st = new StringTokenizer(br.readLine());
-            Node start = new Node(Integer.parseInt(st.nextToken()), Integer.parseInt(st.nextToken()));
+            Node start = new Node(Integer.parseInt(st.nextToken()), Integer.parseInt(st.nextToken())); // 나이트가 현재 있는 칸 입력
             st = new StringTokenizer(br.readLine());
-            Node end = new Node(Integer.parseInt(st.nextToken()), Integer.parseInt(st.nextToken()));
+            Node end = new Node(Integer.parseInt(st.nextToken()), Integer.parseInt(st.nextToken())); // 나이트가 이동하려는 칸 입력
 
+            // 나이트가 최소 몇 번만에 이동할 수 있는지 출력
             System.out.println(bfs(I, start, end));
         }
     }
