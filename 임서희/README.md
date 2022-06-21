@@ -224,15 +224,69 @@
 |    유형    |                                제목                                 |                                                                                  풀이                                                                                   | Reference |
 | :--------: | :-----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: |
 |  이진 탐색  |  <a href="https://www.acmicpc.net/problem/1920">1920번: 수 찾기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/15%EC%A3%BC%EC%B0%A8/1920%EB%B2%88.py">🔗</a>  |  |
+|  집합과 맵  |  <a href="https://www.acmicpc.net/problem/10816">10816번: 숫자 카드 2</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/15%EC%A3%BC%EC%B0%A8/10816%EB%B2%88.py">🔗</a>  | 다시풀기 |
+|  누적 합  |  <a href="https://www.acmicpc.net/problem/11659">11659번: 구간 합 구하기 4</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/15%EC%A3%BC%EC%B0%A8/11659%EB%B2%88.py">🔗</a>  | 다시풀기 |
+|  그리디 알고리즘  |  <a href="https://www.acmicpc.net/problem/11305">11305번: 주유소</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/15%EC%A3%BC%EC%B0%A8/13305%EB%B2%88.py">🔗</a>  | 서브태스트 다시 시도 |
+|  집합과 맵  |  <a href="https://www.acmicpc.net/problem/14425">14425번: 문자열 집합</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/15%EC%A3%BC%EC%B0%A8/14425%EB%B2%88.py">🔗</a>  |  |
 
 
 <br>
 
+
+### Week 16 (22.06.12.) 
+
+|    유형    |                                제목                                 |                                                                                  풀이                                                                                   | Reference |
+| :--------: | :-----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: |
+|  동적 계획법  |  <a href="https://www.acmicpc.net/problem/24416">24416번: 알고리즘 수업 - 피보나치 수 1</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/16%EC%A3%BC%EC%B0%A8/24416%EB%B2%88.py">🔗</a>  |  |
+|  큐  |  <a href="https://www.acmicpc.net/problem/1966">1966번: 프린터 큐</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/16%EC%A3%BC%EC%B0%A8/1966%EB%B2%88.py">🔗</a>  | 큐-다시풀기 |
+|  그래프와 순회  |  <a href="https://www.acmicpc.net/problem/24444">24444번: 알고리즘 수업 - 너비 우선 탐색1</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/16%EC%A3%BC%EC%B0%A8/24444%EB%B2%88.py">🔗</a>  | 교재코드 비교 |
+|  그래프와 순회  |  <a href="https://www.acmicpc.net/problem/9184">9184번: 신나는 함수 실행</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/16%EC%A3%BC%EC%B0%A8/9184%EB%B2%88.py">🔗</a>  | 메모이제이션-다시풀기 |
+|  집합과 맵  |  <a href="https://www.acmicpc.net/problem/1620">1620번: 나는야 포켓몬 마스터 이다솜</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/16%EC%A3%BC%EC%B0%A8/1620%EB%B2%88.py">🔗</a>  |  |
+
+
+<br>
+
+
+
+### Week 17 (22.06.19.) 
+
+|    유형    |                                제목                                 |                                                                                  풀이                                                                                   | Reference |
+| :--------: | :-----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: |
+|  그래프와 순회  |  <a href="https://www.acmicpc.net/problem/24444">24444번: 알고리즘 수업 - 너비 우선 탐색 1</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/17%EC%A3%BC%EC%B0%A8/24444%EB%B2%88.py">🔗</a>  | 16주차 다른코드 |
+|  집합과 맵  |  <a href="https://www.acmicpc.net/problem/10815">10815번: 숫자 카드</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/17%EC%A3%BC%EC%B0%A8/10815%EB%B2%88.py">🔗</a>  | 다시풀기 |
+|  집합과 맵  |  <a href="https://www.acmicpc.net/problem/11478">11478번: 서로 다른 부분 문자열의 개수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/17%EC%A3%BC%EC%B0%A8/11478%EB%B2%88.py">🔗</a>  | 다시풀기 |
+|  집합과 맵  |  <a href="https://www.acmicpc.net/problem/1269">1269번: 대칭 차집합</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/17%EC%A3%BC%EC%B0%A8/1269%EB%B2%88.py">🔗</a>  | 서브태스트 다시 시도 |
+|  집합과 맵  |  <a href="https://www.acmicpc.net/problem/1764">1764번: 듣보잡</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EB%B0%B1%EC%A4%80/17%EC%A3%BC%EC%B0%A8/1764%EB%B2%88.py">🔗</a>  | 실패: 다시풀기 |
+ 
+
+<br>
+
+
 ## 📍 프로그래머스 문제
 |    유형    |                                제목                                 |                                                                                  풀이                                                                                   | Reference |
 | :--------: | :-----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: |
-|  완전 탐색  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/42840">레벨1: 모의고사</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py">🔗</a>  |  |
-
+|  1) 완전 탐색  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/42840">레벨1: 모의고사</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py">🔗</a>  |  |
+|  2) 탐욕법(Greedy)  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/42862">레벨1: 체육복</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/2_%EC%B2%B4%EC%9C%A1%EB%B3%B5.py">🔗</a>  |  |
+|  3) 정렬  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/42748">레벨1: K번째 수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/3_K%EB%B2%88%EC%A7%B8%EC%88%98.py">🔗</a>  |  |
+|  4) 연습 문제  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/12919">레벨1: 서울에서 김서방 찾기 </a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/4_%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.py">🔗</a>  |  |
+|  5) 연습 문제  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/12917">레벨1: 문자열 내림차순으로 배치하기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/5_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.py">🔗</a>  |  |
+|  6) 2021 카카오 블라인드 채용  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/72410">레벨1: 신규 아이디 추천</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/6_%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C.py">🔗</a>  | 정규표현식 공부, 다시풀기 |
+|  7) 연습 문제  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/12901">레벨1: 2016년</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/7_2016%EB%85%84.py">🔗</a>  |  |
+|  8) 연습 문제  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/12925">레벨1: 문자열을 정수로 바꾸기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/8_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.py">🔗</a>  |  |
+|  9) 연습 문제  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/12922">레벨1: 수박수박수박수박수박수?</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/9_%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.py">🔗</a>  |  |
+|  10) 연습 문제  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/12912">레벨1: 두 정수 사이의 합</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/10_%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.py">🔗</a>  |  |
+|  11) 연습 문제  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/12935">레벨1: 제일 작은 수 제거하기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/11_%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.py">🔗</a>  |  |
+|  12) 연습 문제  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/12915">레벨1: 문자열 내 마음대로 정렬하기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/12_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py">🔗</a>  |  |
+|  13) 연습 문제  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/12903">레벨1: 가운데 글자 가져오기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/13_%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.py">🔗</a>  |  |
+|  14) 연습 문제  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/12948">레벨1: 핸드폰 번호 가리기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/14_%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.py">🔗</a>  | replace 함수 |
+|  15) 2021 카카오 채용연계형 인턴십  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/81301">레벨1: 숫자 문자열과 영단어</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/15_%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.py">🔗</a>  | replace 함수 |
+|  16) 연습 문제  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/12954">레벨1: x만큼 간격이 있는 n개의 숫자</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/16_x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90.py">🔗</a>  |  |
+|  17) 연습 문제  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/12944">레벨1: 평균 구하기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/17_%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.py">🔗</a>  |  |
+|  18) 연습 문제  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/12950">레벨1: 행렬의 덧셈</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/18_%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.py">🔗</a>  | zip() 내장함수 |
+|  19) 연습 문제  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/12937">레벨1: 짝수와 홀수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/19_%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.py">🔗</a>  | &비트 연산자 |
+|  20) 연습 문제  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/12947">레벨1: 하샤드 수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/20_%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.py">🔗</a>  |  |
+|  21) 연습 문제  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/12940">레벨1: 최대공약수와 최소공배수</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/21_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py">🔗</a>  | 유클리드 호제법 |
+|  22) 연습 문제  |  <a href="https://programmers.co.kr/learn/courses/30/lessons/12933">레벨1: 정렬 내림차순으로 배치하기</a>  | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A8%201/18_%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.py">🔗</a>  | join() 함수 |
 <br>
 
 
@@ -263,7 +317,9 @@
 |  12   |   03    | DFS/BFS | 22.05.16 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EA%B5%90%EC%9E%AC/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/DFSnBFS">🔗</a> |
 |  13   |   04    | 정렬 | 22.05.24 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EA%B5%90%EC%9E%AC/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/4_%EC%A0%95%EB%A0%AC">🔗</a> |
 |  14   |   05    | 이진 탐색 | 22.05.31 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EA%B5%90%EC%9E%AC/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/5_%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89">🔗</a> |
-|  15   |   06    | 다이나믹 프로그래밍 | 22.06.07 | <a href="">🔗</a> |
+|  15   |   06    | 다이나믹 프로그래밍 | 22.06.07 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EA%B5%90%EC%9E%AC/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/6_%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D">🔗</a> |
+|  16   |   07    | 최단 경로 | 22.06.14 | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/%EC%9E%84%EC%84%9C%ED%9D%AC/%EA%B5%90%EC%9E%AC/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%B7%A8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/6_%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D">🔗</a> |
+|  17   |   08    | 그래프 이론 | 22.06.14 | <a href="">🔗</a> |
 
 <br>
 

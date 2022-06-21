@@ -189,6 +189,13 @@
 | 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/2468">백준 2468번 : 안전 영역</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/안전_영역.java">🔗</a> |
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/2468">백준 2468번 : 숨바꼭질2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/숨바꼭질2.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 18 (22.06.26.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/2638">백준 2638번 : 치즈</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/치즈.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
