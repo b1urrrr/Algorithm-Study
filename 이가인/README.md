@@ -12,6 +12,7 @@
 
 ### Week 05 (22.03.27.)
 | 유형 | 제목 | 풀이 |
+| :--: | :--: | :--: |
 | 브루트포스 알고리즘 | <a href="https://www.acmicpc.net/problem/11170">백준 11170번 : 0의 개수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/이가인/WEEK05/11170_0의%20개수.ipynb">🔗</a> |
 | 정렬 | <a href="https://www.acmicpc.net/problem/5635">백준 5635번 : 생일</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/이가인/WEEK05/5635%20생일.ipynb">🔗</a> |
 
@@ -19,6 +20,7 @@
 
 ### Week 09 (22.04.24.)
 | 유형 | 제목 | 풀이 |
+| :--: | :--: | :--: |
 |  | <a href=""></a> | <a href="">🔗</a> |
 |  | <a href=""></a> | <a href="">🔗</a> |
 |  | <a href=""></a> | <a href="">🔗</a> |
