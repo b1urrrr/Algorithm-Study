@@ -18,7 +18,6 @@ public class Practice7_8 {
             length[i] = Integer.parseInt(st.nextToken()); // 떡의 길이 입력
             end = Math.max(end, length[i]);
         }
-        Arrays.sort(length);
 
         // 0 ~ 떡 길이의 최대값에 대해 이진탐색 진행
         int result = 0;
