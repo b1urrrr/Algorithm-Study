@@ -199,6 +199,7 @@
 | 매개 변수 탐색 (Parametric Search) | <a href="https://www.acmicpc.net/problem/1654">백준 1654번 : 랜선 자르기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Search%20(탐색)/Parametric%20Search%20(매개%20변수%20탐색)/랜선_자르기.java">🔗</a> |
 | 매개 변수 탐색 (Parametric Search) | <a href="https://www.acmicpc.net/problem/2512">백준 2512번 : 예산</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Search%20(탐색)/Parametric%20Search%20(매개%20변수%20탐색)/예산.java">🔗</a> |
 | 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/2636">백준 2636번 : 치즈</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/치즈_2.java">🔗</a> |
+| 매개 변수 탐색 (Parametric Search) | <a href="https://programmers.co.kr/learn/courses/30/lessons/43238">프로그래머스 > 이분탐색 : 입국심사</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Search%20(탐색)/Parametric%20Search%20(매개%20변수%20탐색)/입국심사.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
