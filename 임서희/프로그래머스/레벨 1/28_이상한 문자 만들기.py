@@ -34,3 +34,21 @@ def solution(s):
                 result += a[i]
         result += ' '
     return result.strip()
+
+# 다시 푼 내 코드: 100점
+def solution(s):
+    even = 0
+    s = list(s)
+    
+    result = ""
+    for i in s:
+        if i.isalpha():
+            if even % 2 ==0:
+                result += i.upper()
+            else:
+                result += i.lower()
+            even = (even+1)%2
+        else:
+            result += i
+            even = 0
+    return result
