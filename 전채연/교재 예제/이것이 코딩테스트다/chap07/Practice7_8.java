@@ -2,7 +2,6 @@ package chap07;
 
 import java.io.*;
 import java.util.StringTokenizer;
-import java.util.Arrays;
 
 public class Practice7_8 {
     public static void main(String[] args) throws IOException {
