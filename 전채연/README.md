@@ -202,6 +202,14 @@
 | 매개 변수 탐색 (Parametric Search) | <a href="https://programmers.co.kr/learn/courses/30/lessons/43238">프로그래머스 > 이분탐색 : 입국심사</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Search%20(탐색)/Parametric%20Search%20(매개%20변수%20탐색)/입국심사.java">🔗</a> |
 | 매개 변수 탐색 (Parametric Search) | <a href="https://www.acmicpc.net/problem/3079">백준 3079번 : 입국심사</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Search%20(탐색)/Parametric%20Search%20(매개%20변수%20탐색)/입국심사_2.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 19 (22.07.03.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 구현 (Implementation) | <a href="https://codeforces.com/contest/1698/problem/A">Codeforces Round #803 (Div. 2) : A. XOR Mixup</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/A_XORMixup.java">🔗</a> |
+| 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/1987">백준 1987번 : 알파벳</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/알파벳.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
@@ -219,6 +227,7 @@
 | 12 | 05 | DFS/BFS | 22.05.17. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap05">🔗</a> |
 | 13 | 06 | 정렬 | 22.05.24. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap06">🔗</a> |
 | 14 | 07 | 이진 탐색 | 22.05.31. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap07">🔗</a> |
+| 15 | 08 | 다이나믹 프로그래밍 | 22.06.07. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap08">🔗</a> |
 
 <!--
 |  |  |  | 22. | <a href="">🔗</a> |
