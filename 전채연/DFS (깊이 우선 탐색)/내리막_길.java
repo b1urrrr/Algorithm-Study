@@ -20,7 +20,6 @@ public class 내리막_길 {
             // 내리막이 아닌 경우
             if (map[x][y] <= map[nx][ny]) continue;
 
-            System.out.println(nx + ", " + ny);
             dp[x][y] += dfs(nx, ny);
         }
 
