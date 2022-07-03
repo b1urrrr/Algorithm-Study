@@ -1,7 +1,7 @@
 /*
  * @author Minyeong Park
  * @date 2022.07.03.
- * 수열 (검색해서 나오는 반례들은 다 맞게 출력되는데 백준에서 틀렸다고 떠서... 마저 다시 봐야겠음..)
+ * 수열
  * 문제 링크 : https://www.acmicpc.net/problem/2559
  */
 
@@ -32,9 +32,9 @@ public class Main {
             sum_arr[i] = sum_arr[i-1] - arr[i-1] + arr[i-1+k];
         }
 
-        int max = -101;
+        int max = -999999999; // 매우 작은 수로 초기화
         for (int i = 0; i < sum_arr.length; i++) {
-            if (sum_arr[i] > max)
+            if (sum_arr[i] >= max)
                 max = sum_arr[i];
         }
 
