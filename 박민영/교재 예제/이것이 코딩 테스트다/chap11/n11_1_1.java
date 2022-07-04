@@ -17,7 +17,7 @@ public class n11_1_1 {
 
         int count = 0;
 
-        count += people[1]; // 1명인 경우에는 혼자 그룹하면 되므로 그대로 더함
+        count += people[1]; // 공포도가 1인 경우에는 혼자 그룹하면 되므로 그대로 더함
         people[1] = 0;
 
         for (int i = 2; i <= n; i++) {
