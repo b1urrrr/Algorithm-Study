@@ -1,4 +1,4 @@
-// chap11 Q1. 모험가 길드 (해설 코드)
+// chap11 Q1. 모험가 길드 (내가 푼 게 완전 틀렸길래 삭제..) (해설 코드)
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
