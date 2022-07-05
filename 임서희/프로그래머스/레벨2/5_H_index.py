@@ -10,3 +10,11 @@ def solution(citations):
             h_index.append(citations[i])
     return max(h_index)
 # 다시 풀기
+
+# 다른 사람 코드
+def solution(citations):
+    citations.sort(reverse=True)
+    for idx , citation in enumerate(citations):
+        if idx >= citation:
+            return idx
+    return len(citations)
