@@ -165,6 +165,14 @@
 | 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/11054">백준 11054번 : 가장 긴 바이토닉 부분 수열</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Dynamic%20programming%20(%EB%8F%99%EC%A0%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)/%EB%B0%B1%EC%A4%80/n11054/Main.java">🔗(Bottom-Up)</a><a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Dynamic%20programming%20(%EB%8F%99%EC%A0%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)/%EB%B0%B1%EC%A4%80/n11054/Main2.java">🔗(Top-Down)</a> |
 | 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/2565">백준 2565번 : 전깃줄</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Dynamic%20programming%20(%EB%8F%99%EC%A0%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)/%EB%B0%B1%EC%A4%80/n2565/Main.java">🔗(Top-Down)</a><a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Dynamic%20programming%20(%EB%8F%99%EC%A0%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)/%EB%B0%B1%EC%A4%80/n2565/Main2.java">🔗(Bottom-Up)</a> |
 
+### Week 19 (22.07.03.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+
+### Week 20 (22.07.10.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
