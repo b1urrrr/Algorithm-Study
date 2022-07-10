@@ -11,7 +11,7 @@ public class _1_2_3_더하기 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         int testCase = Integer.parseInt(br.readLine()); // 테이스케이스 개수 입력
-        int[] sum = new int[SIZE]; // 메모이제이션 배열
+        int[] sum = new int[SIZE]; // DP 테이블
         
         sum[1] = 1;
         sum[2] = 2;

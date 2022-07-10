@@ -9,7 +9,7 @@ public class _1로_만들기 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int num = Integer.parseInt(br.readLine());
-        int[] numbers = new int[num + 1]; // 메모이제이션(memoization) 배열
+        int[] numbers = new int[num + 1]; // DP 테이블
 
         // 2부터 num까지 연산 횟수 계산
         for (int i = 2; i <= num; i++) {

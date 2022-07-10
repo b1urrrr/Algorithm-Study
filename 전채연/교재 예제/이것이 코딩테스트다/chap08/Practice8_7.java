@@ -6,7 +6,7 @@ public class Practice8_7 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());
-        int[] tiles = new int[N + 1]; // 메모이제이션 배열
+        int[] tiles = new int[N + 1]; // DP 테이블
 
         tiles[1] = 1;
         tiles[2] = 3;
