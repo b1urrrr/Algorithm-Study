@@ -6,19 +6,19 @@ public class Practice8_5 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int x = Integer.parseInt(br.readLine());
-        int[] memo = new int[x + 1]; // 메모이제이션 배열
+        int[] dp = new int[x + 1]; // DP 테이블
 
         for (int i = 2; i <= x; i++) {
             // 1을 빼는 경우
-            memo[i] = memo[i - 1] + 1;
+            dp[i] = dp[i - 1] + 1;
             // 5로 나누는 경우
-            if (i % 5 == 0) memo[i] = Math.min(memo[i], memo[i / 5] + 1);
+            if (i % 5 == 0) dp[i] = Math.min(dp[i], dp[i / 5] + 1);
             // 3으로 나누는 경우
-            if (i % 3 == 0) memo[i] = Math.min(memo[i], memo[i / 3] + 1);
+            if (i % 3 == 0) dp[i] = Math.min(dp[i], dp[i / 3] + 1);
             // 2로 나누는 경우
-            if (i % 2 == 0) memo[i] = Math.min(memo[i], memo[i / 2] + 1);
+            if (i % 2 == 0) dp[i] = Math.min(dp[i], dp[i / 2] + 1);
         }
 
-        System.out.println(memo[x]);
+        System.out.println(dp[x]);
     }
 }
