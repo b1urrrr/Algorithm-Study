@@ -210,6 +210,19 @@
 | 구현 (Implementation) | <a href="https://codeforces.com/contest/1698/problem/A">Codeforces Round #803 (Div. 2) : A. XOR Mixup</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/A_XORMixup.java">🔗</a> |
 | 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/1987">백준 1987번 : 알파벳</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/알파벳.java">🔗</a> |
 | 깊이 우선 탐색 (DFS) | <a href="https://programmers.co.kr/learn/courses/30/lessons/43162#">프로그래머스 > 깊이/너비 우선 탐색(DFS/BFS) : 네트워크</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/네트워크.java">🔗</a> |
+| 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/1520">백준 1520 : 내리막 길</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/내리막_길.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/2206">백준 2206 : 벽 부수고 이동하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/벽_부수고_이동하기.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 20 (22.07.10.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/1439">백준 1439 : 뒤집기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/교재%20예제/이것이%20코딩테스트다/chap11/Question11_3.java">🔗</a> |
+| 0-1 배낭 문제 (0-1 Knapsack Problem) | <a href="https://www.acmicpc.net/problem/12865">백준 12865번 : 평범한 배낭</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/Knapsack%20Problem%20(배낭%20문제)/0-1%20Knapsack%20Problem%20(0-1%20배낭%20문제)/평범한_배낭.java">🔗</a> |
+| 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/16953">백준 16953번 : A → B</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Greedy%20(그리디)/A_B.java">🔗</a> |
+| 큐 (Queue) | <a href="https://www.acmicpc.net/problem/1966">백준 1966번 : 프린터 큐</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Queue%20(큐)/프린터_큐.java">🔗</a> |
+| 브루트포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/18111">백준 18111번 : 마인크래프트</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/마인크래프트.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
@@ -229,6 +242,7 @@
 | 13 | 06 | 정렬 | 22.05.24. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap06">🔗</a> |
 | 14 | 07 | 이진 탐색 | 22.05.31. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap07">🔗</a> |
 | 15 | 08 | 다이나믹 프로그래밍 | 22.06.07. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap08">🔗</a> |
+| 19 | 11 | 그리디 문제 | 22.07.05. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap11">🔗</a> |
 
 <!--
 |  |  |  | 22. | <a href="">🔗</a> |
