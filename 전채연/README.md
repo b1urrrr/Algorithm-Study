@@ -224,6 +224,14 @@
 | 큐 (Queue) | <a href="https://www.acmicpc.net/problem/1966">백준 1966번 : 프린터 큐</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Queue%20(큐)/프린터_큐.java">🔗</a> |
 | 브루트포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/18111">백준 18111번 : 마인크래프트</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/마인크래프트.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 21 (22.07.17.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 구현 (Implementation) | <a href="https://codeforces.com/contest/1702/problem/A">Codeforces Round #805 (Div. 3) : A. Round Down the Price</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/A_RoundDownThePrice.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://codeforces.com/contest/1702/problem/B">Codeforces Round #805 (Div. 3) : B. Polycarp Writes a String from Memory</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/B_PolycarpWritesAStringFromMemory.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
