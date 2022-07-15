@@ -231,6 +231,9 @@
 | :------: | :---: | :--: |
 | 구현 (Implementation) | <a href="https://codeforces.com/contest/1702/problem/A">Codeforces Round #805 (Div. 3) : A. Round Down the Price</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/A_RoundDownThePrice.java">🔗</a> |
 | 구현 (Implementation) | <a href="https://codeforces.com/contest/1702/problem/B">Codeforces Round #805 (Div. 3) : B. Polycarp Writes a String from Memory</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/B_PolycarpWritesAStringFromMemory.java">🔗</a> |
+| 구현 (Implementation) | <a href="">Codeforces Round #806 (Div. 4) : A. YES or YES?</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/A_YESorYES.java">🔗</a> |
+| 구현 (Implementation) | <a href="">Codeforces Round #806 (Div. 4) : B. ICPC Balloons</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/B_ICPCBalloons.java">🔗</a> |
+| 구현 (Implementation) | <a href="">Codeforces Round #806 (Div. 4) : C. Cypher</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/C_Cypher.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
