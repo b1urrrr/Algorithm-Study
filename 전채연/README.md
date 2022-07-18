@@ -235,6 +235,13 @@
 | 구현 (Implementation) | <a href="">Codeforces Round #806 (Div. 4) : B. ICPC Balloons</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/B_ICPCBalloons.java">🔗</a> |
 | 구현 (Implementation) | <a href="">Codeforces Round #806 (Div. 4) : C. Cypher</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/C_Cypher.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 22 (22.07.24.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 구현 (Implementation) | <a href="https://codeforces.com/contest/1706/problem/A">Codeforces Round #809 (Div. 2) : A. Another String Minimization Problem</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/A_AnotherStringMinimizationProblem.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
