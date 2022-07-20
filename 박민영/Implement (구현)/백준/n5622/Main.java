@@ -2,7 +2,7 @@
  * @author Minyeong Park
  * @date 2022.07.20.
  * 다이얼
- * 문제 링크 : https://www.acmicpc.net/problem/2941
+ * 문제 링크 : https://www.acmicpc.net/problem/5622
  */
 
 
