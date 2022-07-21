@@ -11,7 +11,7 @@ public class Four_Squares {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int num = Integer.parseInt(br.readLine()); // 자연수 n 입력
-        int[] data = new int[SIZE]; // 메모이제이션 배열
+        int[] data = new int[SIZE]; // DP 테이블
 
         data[1] = 1;
 

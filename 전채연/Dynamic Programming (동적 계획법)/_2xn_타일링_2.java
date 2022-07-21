@@ -9,7 +9,7 @@ public class _2xn_타일링_2 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine()); // n 입력
-        int[] data = new int[n + 3]; // 메모이제이션 배열
+        int[] data = new int[n + 3]; // DP 테이블
 
         data[1] = 1;
         data[2] = 3;
