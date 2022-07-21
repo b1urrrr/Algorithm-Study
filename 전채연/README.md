@@ -241,6 +241,8 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 구현 (Implementation) | <a href="https://codeforces.com/contest/1706/problem/A">Codeforces Round #809 (Div. 2) : A. Another String Minimization Problem</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/A_AnotherStringMinimizationProblem.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://codeforces.com/contest/1709/problem/A">Educational Codeforces Round 132 (Rated for Div. 2) : A. Three Doors</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/A_ThreeDoors.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://codeforces.com/contest/1709/problem/B">Educational Codeforces Round 132 (Rated for Div. 2) : B. Also Try Minecraft</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/B_AlsoTryMinecraft.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
