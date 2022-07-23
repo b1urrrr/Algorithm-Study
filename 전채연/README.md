@@ -243,6 +243,8 @@
 | 구현 (Implementation) | <a href="https://codeforces.com/contest/1706/problem/A">Codeforces Round #809 (Div. 2) : A. Another String Minimization Problem</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/A_AnotherStringMinimizationProblem.java">🔗</a> |
 | 구현 (Implementation) | <a href="https://codeforces.com/contest/1709/problem/A">Educational Codeforces Round 132 (Rated for Div. 2) : A. Three Doors</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/A_ThreeDoors.java">🔗</a> |
 | 구현 (Implementation) | <a href="https://codeforces.com/contest/1709/problem/B">Educational Codeforces Round 132 (Rated for Div. 2) : B. Also Try Minecraft</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/B_AlsoTryMinecraft.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/9663">백준 9663번 : N-Queen</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N_Queen.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/2133">백준 2133번 : 타일 채우기</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/타일_채우기.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
