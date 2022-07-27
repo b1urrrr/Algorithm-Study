@@ -246,6 +246,13 @@
 | 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/9663">백준 9663번 : N-Queen</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N_Queen.java">🔗</a> |
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/2133">백준 2133번 : 타일 채우기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/타일_채우기.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 23 (22.07.31.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/1937">백준 1937번 : 욕심쟁이 판다</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/욕심쟁이_판다.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
