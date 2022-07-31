@@ -252,6 +252,10 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/1937">백준 1937번 : 욕심쟁이 판다</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/욕심쟁이_판다.java">🔗</a> |
+| 스택 (Stack) | <a href="https://www.acmicpc.net/problem/1874">백준 1874번 : 스택 수열</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Stack%20(스택)/스택_수열.java">🔗</a> |
+| 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/11724">백준 11724번 : 연결 요소의 개수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/연결_요소의_개수.java">🔗</a> |
+| 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/4963">백준 4963번 : 섬의 개수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/섬의_개수.java">🔗</a> |
+| 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/2644">백준 2644번 : 촌수계산</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/촌수계산.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
