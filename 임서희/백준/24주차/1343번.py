@@ -31,3 +31,17 @@ for i in s_list:
     else:
         res += len(i)*"."
 print(res)
+
+
+# 짧은 다른 코드
+board = input()
+
+# replace 함수를 이용
+board = board.replace("XXXX", "AAAA")
+board = board.replace("XX", "BB")
+
+if 'X' in board:
+    print(-1)
+    
+else:
+    print(board)
