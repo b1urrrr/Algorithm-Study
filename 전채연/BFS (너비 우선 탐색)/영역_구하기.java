@@ -1,3 +1,9 @@
+/*
+    백준 2583번 : 영역 구하기
+    - 문제 유형 : 그래프 탐색
+    - 풀이 유형 : BFS (너비 우선 탐색)
+*/
+
 import java.io.*;
 import java.util.StringTokenizer;
 import java.util.Queue;
@@ -22,11 +28,11 @@ public class 영역_구하기 {
         }
     }
 
+    // 너비 우선 탐색 메서드
     static int bfs(Node n) {
         Queue<Node> que = new LinkedList<>();
         que.add(n);
-        // 시작 노드 방문 처리
-        paper[n.x][n.y] = -1;
+        paper[n.x][n.y] = -1; // 시작 노드 방문 처리
 
         int area = 1;
         while (!que.isEmpty()) {
@@ -53,19 +59,19 @@ public class 영역_구하기 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
-        M = Integer.parseInt(st.nextToken());
-        N = Integer.parseInt(st.nextToken());
-        int K = Integer.parseInt(st.nextToken());
-
+        M = Integer.parseInt(st.nextToken()); // 모눈종이의 높이 입력
+        N = Integer.parseInt(st.nextToken()); // 모눈종이의 너비 입력
+        int K = Integer.parseInt(st.nextToken()); // 직사각형의 개수 입력
         paper = new int[M][N];
 
         for (int i = 0; i < K; i++) {
             st = new StringTokenizer(br.readLine());
-            int x1 = Integer.parseInt(st.nextToken());
-            int y1 = Integer.parseInt(st.nextToken());
-            int x2 = Integer.parseInt(st.nextToken());
-            int y2 = Integer.parseInt(st.nextToken());
+            int x1 = Integer.parseInt(st.nextToken()); // 직사각형의 왼쪽 아래 꼭짓점의 x 좌표
+            int y1 = Integer.parseInt(st.nextToken()); // 직사각형의 왼쪽 아래 꼭짓점의 y 좌표
+            int x2 = Integer.parseInt(st.nextToken()); // 직사각형의 오른쪽 위 꼭짓점의 x 좌표
+            int y2 = Integer.parseInt(st.nextToken()); // 직사각형의 오른쪽 위 꼭짓점의 y 좌표
 
+            // 직사각형의 영역은 1로 표시
             for (int x = Math.min(x1, x2); x < Math.max(x1, x2); x++) {
                 for (int y = Math.min(y1, y2); y < Math.max(y1, y2); y++) {
                     paper[y][x] = 1;
@@ -77,15 +83,18 @@ public class 영역_구하기 {
         List<Integer> area = new ArrayList<>();
         for (int i = 0; i < M; i++) {
             for (int j = 0; j < N; j++) {
+                // 아직 방문하지 않은 빈 영역을 발견하면 너비 우선 탐색 실행
                 if (paper[i][j] == 0) {
-                    count++;
-                    area.add(bfs(new Node(i, j)));
+                    count++; // 영역 개수 증가
+                    area.add(bfs(new Node(i, j))); // 영역 넓이 추가
                 }
             }
         }
 
+        // 영역의 넓이 오름차순으로 정렬
         Collections.sort(area);
-        System.out.println(count);
+        System.out.println(count); // 영역의 개수 출력
+        // 영역의 너비 출력
         for (int i = 0; i < area.size(); i++) {
             System.out.print(area.get(i) + " ");
         }
