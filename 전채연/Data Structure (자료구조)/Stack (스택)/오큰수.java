@@ -1,3 +1,8 @@
+/*
+    백준 17298번 : 오큰수
+    - 문제 유형 : 자료 구조, 스택
+*/
+
 import java.io.*;
 import java.util.StringTokenizer;
 import java.util.Stack;
