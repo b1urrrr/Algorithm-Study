@@ -257,6 +257,17 @@
 | 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/4963">백준 4963번 : 섬의 개수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/섬의_개수.java">🔗</a> |
 | 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/2644">백준 2644번 : 촌수계산</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/촌수계산.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 24 (22.08.07.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 스택 (Stack) | <a href="https://www.acmicpc.net/problem/17298">백준 17298번 : 오큰수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Stack%20(스택)/오큰수.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/2583">백준 2583번 : 영역 구하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/영역_구하기.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/1926">백준 1926번 : 그림</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/그림.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15650">백준 15650번 : N과 M (2)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_2.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15651">백준 15651번 : N과 M (3)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_3.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
