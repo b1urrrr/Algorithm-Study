@@ -219,6 +219,8 @@
 | 자료구조 | <a href="https://www.acmicpc.net/problem/4949">백준 4949번 : 균형잡힌 세상</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Data%20structure%20(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/%EB%B0%B1%EC%A4%80/n4949/Main.java">🔗</a> |
 | 자료구조 | <a href="https://www.acmicpc.net/problem/1966">백준 1966번 : 프린터 큐</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Data%20structure%20(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/%EB%B0%B1%EC%A4%80/n1966/Main.java">🔗</a> |
 | 이진탐색 | <a href="https://www.acmicpc.net/problem/1654">백준 1654번 : 랜선 자르기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Binary%20Search%20(%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89)/%EB%B0%B1%EC%A4%80/n1654/Main.java">🔗</a> |
+| 구현 | <a href="https://www.acmicpc.net/problem/1924">백준 1924번 : 2007년</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n1924/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n1924/Main2.java">📝</a> | 
+| 구현 | <a href="https://www.acmicpc.net/problem/1475">백준 1475번 : 방 번호</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n1475/Main.java">🔗</a> |
 
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
