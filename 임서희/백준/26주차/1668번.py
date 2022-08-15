@@ -20,3 +20,19 @@ for i in range(n-1,0,-1):
         right_sum += 1
 print(left_sum)
 print(right_sum)
+
+# 브루트포스 알고리즘으로 최댓값이 몇 번 갱신되즌지 확인하면 됨!
+N = int(input())
+li = [int(input()) for _ in range(N)]
+left_cnt = right_cnt = 0
+left_max = right_max = 0
+for n in li:
+    if n > left_max:
+        left_max = n
+        left_cnt += 1
+for n in li[::-1]:
+    if n > right_max:
+        right_max = n
+        right_cnt += 1
+print(left_cnt)
+print(right_cnt)
