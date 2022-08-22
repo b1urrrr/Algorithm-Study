@@ -268,6 +268,28 @@
 | 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15650">백준 15650번 : N과 M (2)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_2.java">🔗</a> |
 | 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15651">백준 15651번 : N과 M (3)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_3.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 25 (22.08.14.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15652">백준 15652번 : N과 M (4)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_4.java">🔗</a> |
+| 브루트포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/1065">백준 1065번 : 한수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/한수.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/1316">백준 1316번 : 그룹 단어 체커</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/그룹_단어_체커.java">🔗</a> |
+| 에라토스테네스의 체 (Sieve of Eratosthenes) | <a href="https://www.acmicpc.net/problem/1978">백준 1978번 : 소수 찾기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/Sieve%20of%20Eratosthenes%20(에라토스테네스의%20체)/소수_찾기.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/2941">백준 2941번 : 크로아티아 알파벳</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/크로아티아_알파벳.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 26 (22.08.21.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15654">백준 15654번 : N과 M (5)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_5.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15655">백준 15655번 : N과 M (6)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_6.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15656">백준 15656번 : N과 M (7)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_7.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15657">백준 15657번 : N과 M (8)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_8.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15663">백준 15663번 : N과 M (9)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_9.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
