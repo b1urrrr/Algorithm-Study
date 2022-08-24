@@ -241,6 +241,54 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 구현 (Implementation) | <a href="https://codeforces.com/contest/1706/problem/A">Codeforces Round #809 (Div. 2) : A. Another String Minimization Problem</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/A_AnotherStringMinimizationProblem.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://codeforces.com/contest/1709/problem/A">Educational Codeforces Round 132 (Rated for Div. 2) : A. Three Doors</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/A_ThreeDoors.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://codeforces.com/contest/1709/problem/B">Educational Codeforces Round 132 (Rated for Div. 2) : B. Also Try Minecraft</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/B_AlsoTryMinecraft.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/9663">백준 9663번 : N-Queen</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N_Queen.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/2133">백준 2133번 : 타일 채우기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/타일_채우기.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 23 (22.07.31.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/1937">백준 1937번 : 욕심쟁이 판다</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/욕심쟁이_판다.java">🔗</a> |
+| 스택 (Stack) | <a href="https://www.acmicpc.net/problem/1874">백준 1874번 : 스택 수열</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Stack%20(스택)/스택_수열.java">🔗</a> |
+| 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/11724">백준 11724번 : 연결 요소의 개수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/연결_요소의_개수.java">🔗</a> |
+| 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/4963">백준 4963번 : 섬의 개수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/섬의_개수.java">🔗</a> |
+| 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/2644">백준 2644번 : 촌수계산</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/촌수계산.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 24 (22.08.07.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 스택 (Stack) | <a href="https://www.acmicpc.net/problem/17298">백준 17298번 : 오큰수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Stack%20(스택)/오큰수.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/2583">백준 2583번 : 영역 구하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/영역_구하기.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/1926">백준 1926번 : 그림</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/그림.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15650">백준 15650번 : N과 M (2)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_2.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15651">백준 15651번 : N과 M (3)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_3.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 25 (22.08.14.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15652">백준 15652번 : N과 M (4)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_4.java">🔗</a> |
+| 브루트포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/1065">백준 1065번 : 한수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/한수.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/1316">백준 1316번 : 그룹 단어 체커</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/그룹_단어_체커.java">🔗</a> |
+| 에라토스테네스의 체 (Sieve of Eratosthenes) | <a href="https://www.acmicpc.net/problem/1978">백준 1978번 : 소수 찾기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/Sieve%20of%20Eratosthenes%20(에라토스테네스의%20체)/소수_찾기.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/2941">백준 2941번 : 크로아티아 알파벳</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/크로아티아_알파벳.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 26 (22.08.21.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15654">백준 15654번 : N과 M (5)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_5.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15655">백준 15655번 : N과 M (6)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_6.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15656">백준 15656번 : N과 M (7)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_7.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15657">백준 15657번 : N과 M (8)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_8.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15663">백준 15663번 : N과 M (9)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_9.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |

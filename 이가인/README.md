@@ -34,6 +34,18 @@
 | <a href="https://www.acmicpc.net/problem/11047"> 백준 11047번 : 동전 0 </a> |
 
 
+
+<br>
+
+| Week 18 (22.07.31) |
+| :-- |
+| <a href="https://www.acmicpc.net/problem/2355"> 백준 2355번 : 시그마 </a> |
+| <a href="https://www.acmicpc.net/problem/10828"> 백준 10828번 :  </a> |
+| <a href="https://www.acmicpc.net/problem/11659"> 백준 11659번 :  </a> |
+
+
+
+
 <br>
 
 ## 📍 Book
