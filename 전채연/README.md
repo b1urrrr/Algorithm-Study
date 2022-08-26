@@ -290,6 +290,17 @@
 | 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15657">백준 15657번 : N과 M (8)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_8.java">🔗</a> |
 | 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15663">백준 15663번 : N과 M (9)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_9.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 27 (22.08.28.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15664">백준 15664번 : N과 M (10)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_10.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15665">백준 15665번 : N과 M (11)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_11.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15666">백준 15666번 : N과 M (12)</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/N과_M_12.java">🔗</a> |
+| 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/11404">백준 11404번 : 플로이드</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/플로이드.java">🔗</a> |
+| 다익스트라 (Dijkstra) | <a href="https://www.acmicpc.net/problem/1916">백준 1916번 : 최소비용 구하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dijkstra%20(다익스트라)/최소비용_구하기.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
