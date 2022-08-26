@@ -1,3 +1,8 @@
+/*
+    백준 1916번 : 최소비용 구하기
+    - 문제 유형 : 다익스트라
+*/
+
 import java.io.*;
 import java.util.*;
 
