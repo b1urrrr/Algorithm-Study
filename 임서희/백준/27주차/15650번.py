@@ -9,7 +9,7 @@ def dfs(start):
     for i in range(start,n+1):
         if i not in su:
             su.append(i)
-            dfs(i+1)
+            dfs(i+1) # 자기 자신의 다음꺼가 들어가야 함
             su.pop()
 dfs(1)
 
