@@ -308,6 +308,9 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 다익스트라 (Dijkstra) | <a href="https://www.acmicpc.net/problem/1753">백준 1753번 : 최단 경로</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dijkstra%20(다익스트라)/최단경로.java">🔗</a> |
+| 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/1504">백준 1504번 : 특정한 최단 경로</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/특정한_최단_경로.java">🔗</a> |
+| 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/1647">백준 1647번 : 도시 분할 계획</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Kruskal%20(크루스칼)/도시_분할_계획.java">🔗</a> |
+| 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/1717">백준 1717번 : 집합의 표현</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/집합의_표현.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
