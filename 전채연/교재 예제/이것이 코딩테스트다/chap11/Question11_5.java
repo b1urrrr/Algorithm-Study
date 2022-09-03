@@ -1,5 +1,3 @@
-package chap11;
-
 import java.io.*;
 import java.util.StringTokenizer;
 import java.util.Arrays;
@@ -47,6 +45,7 @@ public class Question11_5 {
             }
         }
 
+        // 두 사람이 볼링공을 고르는 경우의 수 출력
         System.out.println(count);
     }
 }
