@@ -1,5 +1,3 @@
-package chap11;
-
 import java.io.*;
 import java.util.StringTokenizer;
 import java.util.Arrays;
@@ -23,6 +21,7 @@ public class Question11_4 {
             target += coins[i]; // target부터 지금까지 합한 금액까지는 만들 수 있음
         }
 
+        // 동빈이가 가진 동전들로 만들 수 없는 양의 정수 금액 중 최솟값 출력
         System.out.println(target);
     }    
 }

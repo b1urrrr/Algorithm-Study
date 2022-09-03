@@ -1,6 +1,11 @@
+/*
+    프로그래머스 > 2019 KAKAO BLIND RECRUITMENT : 잃어버린 괄호
+    - 문제 유형 : 그리디
+*/
+
 import java.util.*;
 
-class Solution {
+public class 무지의_먹방_라이브 {
     class Food implements Comparable<Food> {
         int time;
         int index;
@@ -30,7 +35,7 @@ class Solution {
         if (count <= k) return -1;
         
         long time = k; // 방송 중단까지 남은 시간
-        long eaten = 0; // 직전에 다 먹은 음식의 개수
+        int eaten = 0; // 직전에 다 먹은 음식의 개수
         long food = food_times.length; // 남은 음식의 개수
         
         // 섭취 시간이 적은 음식부터 큐에서 반환
