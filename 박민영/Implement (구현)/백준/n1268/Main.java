@@ -5,8 +5,6 @@
  * 문제 링크 : https://www.acmicpc.net/problem/1268
  */
 
-// (일부는 맞았지만 최종적으로 틀려서 다시 진행해야 함)
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -35,8 +33,9 @@ public class Main {
                 for (int k = 0; k < n; k++) { // 나머지 학생들과 반을 비교
                     if (k == i) {
                         continue;
-                    } else if (table[k][j] == table[i][j]) {
+                    } else if (table[k][j] == table[i][j] && !flag[k]) {
                         count[i]++;
+                        flag[k] = true;
                     }
                 }
             }
