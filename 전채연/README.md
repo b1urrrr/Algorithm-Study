@@ -312,6 +312,7 @@
 | 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/1647">백준 1647번 : 도시 분할 계획</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Kruskal%20(크루스칼)/도시_분할_계획.java">🔗</a> |
 | 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/1717">백준 1717번 : 집합의 표현</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/집합의_표현.java">🔗</a> |
 | 위상 정렬 (Topology Sort) | <a href="https://www.acmicpc.net/problem/1005">백준 1005번 : ACM Craft</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Topology%20Sort%20(위상%20정렬)/ACM_Craft.java">🔗</a> |
+| 그리디 (Greedy) | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42891">프로그래머스 > 2019 KAKAO BLIND RECRUITMENT : 무지의 먹방 라이브</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Greedy%20(그리디)/무지의_먹방_라이브.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
