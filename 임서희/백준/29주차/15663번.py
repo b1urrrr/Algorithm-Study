@@ -7,10 +7,12 @@ n, m = map(int, input().split())
 n_list = sorted(list(map(int, input().split())))
 n_list.append(0)
 su = []
+output= []
 
 def dfs():
     if len(su) == m:
         #if 
+        output.append(su)
         print(' '.join(map(str,su)))
         return
     for i in range(len(n_list)-1):
@@ -20,3 +22,16 @@ def dfs():
         dfs()
         su.pop()
 dfs()
+
+
+# itertools.permutations(list,n) : list에서 n개를 뽑는 순열
+from itertools import permutations
+
+N, M = map(int, input().split())
+numlist = list(map(int, input().split()))
+case = sorted(set(permutations(numlist, M))) # 중복되는 순열을 set으로 제거
+
+for i in case:
+    for j in i:
+        print(j, end=" ")
+    print()
