@@ -314,6 +314,13 @@
 | 위상 정렬 (Topology Sort) | <a href="https://www.acmicpc.net/problem/1005">백준 1005번 : ACM Craft</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Topology%20Sort%20(위상%20정렬)/ACM_Craft.java">🔗</a> |
 | 그리디 (Greedy) | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42891">프로그래머스 > 2019 KAKAO BLIND RECRUITMENT : 무지의 먹방 라이브</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Greedy%20(그리디)/무지의_먹방_라이브.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 28 (22.09.04.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 다익스트라 (Dijkstra) | <a href="https://www.acmicpc.net/problem/11779">백준 11779번 : 최소비용 구하기 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dijkstra%20(다익스트라)/최소비용_구하기_2.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
