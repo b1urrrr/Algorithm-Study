@@ -320,6 +320,8 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 다익스트라 (Dijkstra) | <a href="https://www.acmicpc.net/problem/11779">백준 11779번 : 최소비용 구하기 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dijkstra%20(다익스트라)/최소비용_구하기_2.java">🔗</a> |
+| 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/1238">백준 1238번 : 파티</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/파티.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://codeforces.com/contest/1726/problem/A">Codeforces Round #819 (Div. 1 + Div. 2) : A. Mainak and Array</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/A_MainakAndArray.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
