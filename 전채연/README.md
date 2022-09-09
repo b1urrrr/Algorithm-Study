@@ -323,6 +323,7 @@
 | 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/1238">백준 1238번 : 파티</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/파티.java">🔗</a> |
 | 구현 (Implementation) | <a href="https://codeforces.com/contest/1726/problem/A">Codeforces Round #819 (Div. 1 + Div. 2) : A. Mainak and Array</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/A_MainakAndArray.java">🔗</a> |
 | 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/11780">백준 11780번 : 플로이드 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/플로이드_2.java">🔗</a> |
+| 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/2458">백준 2458번 : 키 순서</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/키_순서.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
