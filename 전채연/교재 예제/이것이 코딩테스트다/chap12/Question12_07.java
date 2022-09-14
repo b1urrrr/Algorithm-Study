@@ -2,7 +2,7 @@ package chap12;
 
 import java.io.*;
 
-public class Question12_7 {
+public class Question12_07 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String N = br.readLine(); // 현재 점수
