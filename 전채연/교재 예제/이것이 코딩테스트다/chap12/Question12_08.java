@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.ArrayList;
 
-public class Question12_8 {
+public class Question12_08 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String S = br.readLine(); // 문자열 S 입력
