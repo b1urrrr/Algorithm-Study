@@ -268,7 +268,7 @@
 | 자료구조 | <a href="https://www.acmicpc.net/problem/2504">백준 2504번 : 괄호의 값</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Data%20structure%20(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/%EB%B0%B1%EC%A4%80/n2504/Main.java">🔗</a> |
 | 정렬 | <a href="https://www.acmicpc.net/problem/1026">백준 1026번 : 보물</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EA%B8%B0%ED%83%80/%EB%B0%B1%EC%A4%80/n1026/Main.java">🔗</a> |
 
-### Week 30 (22.09.11.)
+### Week 30 (22.09.18.)
 | 유형 | 제목 | 풀이 | 다른 코드 공부 |
 | :---: | :---: | :---: | :---: |
 
