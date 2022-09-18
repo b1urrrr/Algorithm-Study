@@ -332,8 +332,9 @@
 | :------: | :---: | :--: |
 | 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/1719">백준 1719번 : 택배</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/택배.java">🔗</a> |
 | 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/13424">백준 13424번 : 비밀 모임</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/비밀_모임.java">🔗</a> |
-| 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/1976">백준 1976번 : 여행 가자</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/여행_가자.java">🔗</a> |
-|  | <a href="">네트워크 연결</a> | <a href="">🔗</a> |
+| 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/1976">백준 1976번 : 여행 가자</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/여행_가자.java">🔗</a> |
+| 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/3780">백준 3780번 : 네트워크 연결</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/네트워크_연결.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://programmers.co.kr/learn/courses/30/lessons/60057">프로그래머스 > 2020 KAKAO BLIND RECRUITMENT : 문자열 압축</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/문자열_압축.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
