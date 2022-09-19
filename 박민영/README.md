@@ -271,6 +271,11 @@
 ### Week 30 (22.09.18.)
 | 유형 | 제목 | 풀이 | 다른 코드 공부 |
 | :---: | :---: | :---: | :---: |
+| 재귀 | <a href="https://www.acmicpc.net/problem/25501">백준 25501번 : 재귀의 귀재</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EB%B0%B1%EC%A4%80/n25501/Main.java">🔗</a> |
+| 브루트포스 | <a href="https://www.acmicpc.net/problem/18111">백준 18111번 : 마인크래프트</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n18111/Main.java">🔗</a> |
+| 그리디 | <a href="https://www.acmicpc.net/problem/2217">백준 2217번 : 로프</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Greedy%20(%EA%B7%B8%EB%A6%AC%EB%94%94)/%EB%B0%B1%EC%A4%80/n2217/Main.java">🔗</a> |
+| 자료구조 | <a href="https://www.acmicpc.net/problem/1158">백준 1158번 : 요세푸스 문제</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Data%20structure%20(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/%EB%B0%B1%EC%A4%80/n1158/Main.java">🔗</a> |
+| 그리디 | <a href="https://www.acmicpc.net/problem/10610">백준 10610번 : 30</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Greedy%20(%EA%B7%B8%EB%A6%AC%EB%94%94)/%EB%B0%B1%EC%A4%80/n10610/Main.java">🔗</a> |
 
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
