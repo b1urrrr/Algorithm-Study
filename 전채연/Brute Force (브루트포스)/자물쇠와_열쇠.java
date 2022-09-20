@@ -1,4 +1,7 @@
-package chap12;
+/*
+    프로그래머스 > 2020 KAKAO BLIND RECRUITMENT : 자물쇠와 열쇠
+    - 문제 유형 : 구현, 브루트 포스
+*/
 
 class Solution {
     // 열쇠 시계방향 90도 회전 메서드
