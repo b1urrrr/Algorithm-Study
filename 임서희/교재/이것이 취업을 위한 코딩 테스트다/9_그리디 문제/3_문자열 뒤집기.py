@@ -5,7 +5,7 @@ list_1 = []
 s = ''
 
 for i in range(len(n)-1):
-	s += i
+	s += n[i]
 	if n[i] != n[i+1]:
 		if s[0] == '0':
 			list_0.append(s)
