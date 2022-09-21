@@ -7,7 +7,7 @@ for i in n:
 	if int(i) == 0:
 		continue
 	else:
-		res *= i
+		res *= int(i)
 
 print(res)
 
