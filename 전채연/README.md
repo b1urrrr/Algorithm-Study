@@ -336,6 +336,16 @@
 | 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/3780">백준 3780번 : 네트워크 연결</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/네트워크_연결.java">🔗</a> |
 | 구현 (Implementation) | <a href="https://programmers.co.kr/learn/courses/30/lessons/60057">프로그래머스 > 2020 KAKAO BLIND RECRUITMENT : 문자열 압축</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/문자열_압축.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 31 (22.09.25.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 브루트 포스 (Brute Force) | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60059">프로그래머스 > 2020 KAKAO BLIND RECRUITMENT : 자물쇠와 열쇠</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/자물쇠와_열쇠.java">🔗</a> |
+| BFS (너비 우선 탐색) | <a href="https://www.acmicpc.net/problem/14502">백준 14502번 : 연구소</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/연구소.java">🔗</a> |
+| BFS (너비 우선 탐색) | <a href="https://www.acmicpc.net/problem/18405">백준 18405번 : 경쟁적 전염</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/경쟁적_전염.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/3190">백준 3190번 : 뱀</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/뱀.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
@@ -363,6 +373,8 @@
 <!--
 |  |  |  | 22. | <a href="">🔗</a> |
 -->
+
+<br>
 
 ### 자료구조와 함께 배우는 알고리즘 입문 (자바 편)
 

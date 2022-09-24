@@ -1,9 +1,12 @@
-package chap12;
+/*
+    백준 3190번 : 뱀
+    - 문제 유형 : 구현, 시뮬레이션, 큐, 덱
+*/
 
 import java.io.*;
 import java.util.*;
 
-public class Question12_11 {
+public class 뱀 {
     static int[][] board;
     static int[] dx = {-1, 0, 1, 0};
     static int[] dy = {0, 1, 0, -1};
