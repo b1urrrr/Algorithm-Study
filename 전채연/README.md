@@ -345,6 +345,7 @@
 | BFS (너비 우선 탐색) | <a href="https://www.acmicpc.net/problem/14502">백준 14502번 : 연구소</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/연구소.java">🔗</a> |
 | BFS (너비 우선 탐색) | <a href="https://www.acmicpc.net/problem/18405">백준 18405번 : 경쟁적 전염</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/경쟁적_전염.java">🔗</a> |
 | 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/3190">백준 3190번 : 뱀</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/뱀.java">🔗</a> |
+| BFS (너비 우선 탐색) | <a href="https://www.acmicpc.net/problem/18352">백준 18352번 : 특정 거리의 도시 찾기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/특정_거리의_도시_찾기.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
