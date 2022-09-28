@@ -280,6 +280,12 @@
 ### Week 31 (22.09.25.)
 | 유형 | 제목 | 풀이 | 다른 코드 공부 |
 | :---: | :---: | :---: | :---: |
+| 자료구조 | <a href="https://www.acmicpc.net/problem/10799">백준 10799번 : 쇠막대기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Data%20structure%20(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/%EB%B0%B1%EC%A4%80/n10799/Main.java">🔗</a> |
+| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/12865">백준 12865번 : 평범한 배낭</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Dynamic%20programming%20(%EB%8F%99%EC%A0%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)/%EB%B0%B1%EC%A4%80/n12865/Main.java">🔗</a> |
+| 구현 | <a href="https://www.acmicpc.net/problem/2578">백준 2578번 : 빙고</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n2578/Main.java">🔗</a> |
+| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/14606">백준 14606번 : 피자</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Dynamic%20programming%20(%EB%8F%99%EC%A0%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)/%EB%B0%B1%EC%A4%80/n14606/Main.java">🔗</a> |
+| 정렬 | <a href="https://www.acmicpc.net/problem/11728">백준 11728번 : 배열 합치기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EA%B8%B0%ED%83%80/%EB%B0%B1%EC%A4%80/n11728/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EA%B8%B0%ED%83%80/%EB%B0%B1%EC%A4%80/n11728/Main2.java">📝</a> | 
+
 
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |

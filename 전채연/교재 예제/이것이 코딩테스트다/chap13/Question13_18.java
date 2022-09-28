@@ -1,7 +1,5 @@
 package chap13;
 
-import java.util.*;
-
 class Solution {
     // 올바른 괄호 문자열 여부 반환 메서드
     public boolean correct(String p) {
