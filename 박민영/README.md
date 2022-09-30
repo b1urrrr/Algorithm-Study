@@ -287,10 +287,15 @@
 | 정렬 | <a href="https://www.acmicpc.net/problem/11728">백준 11728번 : 배열 합치기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EA%B8%B0%ED%83%80/%EB%B0%B1%EC%A4%80/n11728/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EA%B8%B0%ED%83%80/%EB%B0%B1%EC%A4%80/n11728/Main2.java">📝</a> | 
 
 
-<!--
+### Week 32 (22.10.02.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
-| 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
--->
+
+
+<!--
+| 유형 | <a href="https://www.acmicpc.net/problem/16395">백준 16395번 : 파스칼의 삼각형</a> 
 
 <br>
 
