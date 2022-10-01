@@ -290,12 +290,13 @@
 ### Week 32 (22.10.02.)
 | 유형 | 제목 | 풀이 | 다른 코드 공부 |
 | :---: | :---: | :---: | :---: |
-| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
-| 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
+| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/16395">백준 16395번 : 파스칼의 삼각형</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Dynamic%20programming%20(%EB%8F%99%EC%A0%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)/%EB%B0%B1%EC%A4%80/n16395/Main.java">🔗</a> |
+| 자료구조 | <a href="https://www.acmicpc.net/problem/17413">백준 17413번 : 단어 뒤집기 2</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Data%20structure%20(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/%EB%B0%B1%EC%A4%80/n17413/Main.java">🔗</a> |
 
 
 <!--
-| 유형 | <a href="https://www.acmicpc.net/problem/16395">백준 16395번 : 파스칼의 삼각형</a> 
+| 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
+| 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
 
 <br>
 
