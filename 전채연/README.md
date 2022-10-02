@@ -342,10 +342,10 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 브루트 포스 (Brute Force) | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60059">프로그래머스 > 2020 KAKAO BLIND RECRUITMENT : 자물쇠와 열쇠</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/자물쇠와_열쇠.java">🔗</a> |
-| BFS (너비 우선 탐색) | <a href="https://www.acmicpc.net/problem/14502">백준 14502번 : 연구소</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/연구소.java">🔗</a> |
-| BFS (너비 우선 탐색) | <a href="https://www.acmicpc.net/problem/18405">백준 18405번 : 경쟁적 전염</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/경쟁적_전염.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/14502">백준 14502번 : 연구소</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/연구소.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/18405">백준 18405번 : 경쟁적 전염</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/경쟁적_전염.java">🔗</a> |
 | 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/3190">백준 3190번 : 뱀</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/뱀.java">🔗</a> |
-| BFS (너비 우선 탐색) | <a href="https://www.acmicpc.net/problem/18352">백준 18352번 : 특정 거리의 도시 찾기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/특정_거리의_도시_찾기.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/18352">백준 18352번 : 특정 거리의 도시 찾기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/특정_거리의_도시_찾기.java">🔗</a> |
 
 <h1 dir="auto"></h1>
 
@@ -353,6 +353,10 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/14888">백준 14888번 : 연산자 끼워넣기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/연산자_끼워넣기.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/18428">백준 18428번 : 감시 피하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/감시_피하기.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/16234">백준 16234번 : 인구 이동</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/인구_이동.java">🔗</a> |
+| 이중 피벗 퀵 정렬 (Dual Pivot Quick Sort) | <a href="https://www.acmicpc.net/problem/10825">백준 10825번 : 국영수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Dual%20Pivot%20Quick%20Sort%20(이중%20피벗%20퀵%20정렬)/국영수.java">🔗</a> |
+| 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/18310">백준 18310번 : 안테나</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Greedy%20(그리디)/안테나.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
