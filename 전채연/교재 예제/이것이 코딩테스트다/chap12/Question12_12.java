@@ -39,7 +39,7 @@ class Node implements Comparable<Node> {
     }
 }
 
-class Solution {
+public class Question12_12 {
     
     // 현재 설치된 구조물이 '가능한' 구조물인지 확인하는 함수
     public boolean possible(ArrayList<ArrayList<Integer>> answer) {
