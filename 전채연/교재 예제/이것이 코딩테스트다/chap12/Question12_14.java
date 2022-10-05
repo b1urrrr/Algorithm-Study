@@ -44,7 +44,7 @@ class Permutation {
     }
 }
 
-class Solution {
+public class Question12_14 {
     public int solution(int n, int[] weak, int[] dist) {
         // 길이를 2배로 늘려서 '원형'을 일자 형태로 변경
         ArrayList<Integer> weakList = new ArrayList<Integer>();
