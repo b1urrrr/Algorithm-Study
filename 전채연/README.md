@@ -349,7 +349,7 @@
 
 <h1 dir="auto"></h1>
 
-### Week 32 (22.10.01.)
+### Week 32 (22.10.02.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/14888">백준 14888번 : 연산자 끼워넣기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/연산자_끼워넣기.java">🔗</a> |
@@ -357,6 +357,17 @@
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/16234">백준 16234번 : 인구 이동</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/인구_이동.java">🔗</a> |
 | 이중 피벗 퀵 정렬 (Dual Pivot Quick Sort) | <a href="https://www.acmicpc.net/problem/10825">백준 10825번 : 국영수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Dual%20Pivot%20Quick%20Sort%20(이중%20피벗%20퀵%20정렬)/국영수.java">🔗</a> |
 | 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/18310">백준 18310번 : 안테나</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Greedy%20(그리디)/안테나.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 33 (22.10.09.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/6763">백준 6763번 : Speed Fines Are Not Fine!</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/Speed_fines_are_not_fine.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/24723">백준 24723번 : 녹색거탑</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/녹색거탑.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/14173">백준 14173번 : Square Pasture</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/Square_Pasture.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/7891">백준 7891번 : Can you add this?</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/Can_you_add_this.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/17863">백준 17863번 : FYI</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/FYI.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
