@@ -3,7 +3,7 @@
     - 문제 유형 : 구현, 브루트 포스
 */
 
-class Solution {
+public class 자물쇠와_열쇠 {
     // 열쇠 시계방향 90도 회전 메서드
     public int[][] spin(int[][] key, int M) {
         int[][] result = new int[M][M];
