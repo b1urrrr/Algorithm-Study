@@ -1,8 +1,11 @@
-package chap12;
+/*
+    프로그래머스 > 2020 KAKAO BLIND RECRUITMENT : 기둥과 보 설치
+    - 문제 유형 : 구현, 시뮬레이션
+*/
 
 import java.util.*;
 
-public class Question12_12 {
+public class 기둥과_보_설치 {
     ArrayList<Structure> structures = new ArrayList<>();
     
     class Structure implements Comparable<Structure> {

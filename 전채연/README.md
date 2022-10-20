@@ -369,6 +369,17 @@
 | 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/7891">백준 7891번 : Can you add this?</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/Can_you_add_this.java">🔗</a> |
 | 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/17863">백준 17863번 : FYI</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/FYI.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 34 (22.10.16.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/5928">백준 5928번 : Contest Timing</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/Contest_Timing.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/13985">백준 13985번 : Equality</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/Equality.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/6778">백준 6778번 : Which Alien?</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/Which_Alien.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/17009">백준 17009번 : Winning Score</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/Winning_Score.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/2083">백준 2083번 : 럭비 클럽</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/럭비_클럽.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->

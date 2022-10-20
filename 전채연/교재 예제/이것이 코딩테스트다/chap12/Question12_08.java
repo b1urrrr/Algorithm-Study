@@ -24,6 +24,6 @@ public class Question12_08 {
         for (int i = 0; i < list.size(); i++) {
             System.out.print(list.get(i));
         }
-        System.out.println(sum);
+        if (sum > 0) System.out.println(sum);
     }    
 }
