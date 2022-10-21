@@ -380,6 +380,13 @@
 | 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/17009">백준 17009번 : Winning Score</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/Winning_Score.java">🔗</a> |
 | 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/2083">백준 2083번 : 럭비 클럽</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/럭비_클럽.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 35 (22.10.23.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 구현 (Implementation) | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60061">프로그래머스 > 2020 KAKAO BLIND RECRUITMENT : 기둥과 보 설치</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/기둥과_보_설치.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
