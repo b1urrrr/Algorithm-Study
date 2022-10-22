@@ -1,109 +1,80 @@
 package chap12;
 
+import java.io.*;
 import java.util.*;
 
-class Combination {
-    private int n;
-    private int r;
-    private int[] now; // 현재 조합
-    private ArrayList<ArrayList<Position>> result; // 모든 조합
+public class Question12_13 {
+    static int N, M, result = Integer.MAX_VALUE;
+    static int[][] city;
+    static ArrayList<Location> houses = new ArrayList<>();
+    static ArrayList<Location> stores = new ArrayList<>();
 
-    public ArrayList<ArrayList<Position>> getResult() {
-        return result;
+    static class Location {
+        int x;
+        int y;
+        boolean isOpen;
+
+        public Location(int x, int y) {
+            this.x = x;
+            this.y = y;
+            this.isOpen = true;
+        }
     }
 
-    public Combination(int n, int r) {
-        this.n = n;
-        this.r = r;
-        this.now = new int[r];
-        this.result = new ArrayList<ArrayList<Position>>();
-    }
-
-    public void combination(ArrayList<Position> arr, int depth, int index, int target) {
-        if (depth == r) {
-            ArrayList<Position> temp = new ArrayList<>();
-            for (int i = 0; i < now.length; i++) {
-                temp.add(arr.get(now[i]));
+    static void calculateDistance() {
+        int sum = 0;
+        for (int i = 0; i < houses.size(); i++) {
+            int min = Integer.MAX_VALUE;
+            for (int j = 0; j < stores.size(); j++) {
+                if (!stores.get(j).isOpen) continue;
+                int distance = Math.abs(houses.get(i).x - stores.get(j).x) + Math.abs(houses.get(i).y - stores.get(j).y);
+                min = Math.min(min, distance);
             }
-            result.add(temp);
+            sum += min;
+        }
+        result = Math.min(result, sum);
+    }
+
+    // 치킨집 폐업 함수
+    static void close(int depth, int index) {
+        // M개를 제외한 치킨집을 폐업시킨 경우
+        if (depth == stores.size() - M) {
+            calculateDistance();
             return;
         }
-        if (target == n) return;
-        now[index] = target;
-        combination(arr, depth + 1, index + 1, target + 1);
-        combination(arr, depth, index, target + 1);
-    }
-}
 
-class Position {
-    private int x;
-    private int y;
+        for (int i = index; i < stores.size(); i++) {
+            // 이미 닫혀있는 경우 무시
+            if (!stores.get(i).isOpen) continue;
 
-    public Position(int x, int y) {
-        this.x = x;
-        this.y = y;
+            stores.get(i).isOpen = false;
+            close(depth + 1, i + 1);
+            stores.get(i).isOpen = true;
+        }
     }
 
-    public int getX() {
-        return this.x;
-    }
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        N = Integer.parseInt(st.nextToken()); // 도시의 크기 N 입력
+        M = Integer.parseInt(st.nextToken()); // 남을 치킨집의 개수 M 입력
+        city = new int[N + 1][N + 1];
 
-    public int getY() {
-        return this.y;
-    }
-}
-
-public class Question12_13 {
-
-    public static int n, m;
-    public static int[][] arr = new int[50][50];
-    public static ArrayList<Position> chicken = new ArrayList<>();
-    public static ArrayList<Position> house = new ArrayList<>();
-
-    public static int getSum(ArrayList<Position> candidates) {
-        int result = 0;
-          // 모든 집에 대하여
-          for (int i = 0; i < house.size(); i++) {
-              int hx = house.get(i).getX();
-              int hy = house.get(i).getY();
-              // 가장 가까운 치킨 집을 찾기
-              int temp = (int) 1e9;
-              for (int j = 0; j < candidates.size(); j++) {
-                  int cx = candidates.get(j).getX();
-                  int cy = candidates.get(j).getY();
-                  temp = Math.min(temp, Math.abs(hx - cx) + Math.abs(hy - cy));
-              }
-              // 가장 가까운 치킨 집까지의 거리를 더하기
-              result += temp;
-          }
-          // 치킨 거리의 합 반환
-          return result;
-    }
-
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-
-        n = sc.nextInt();
-        m = sc.nextInt();
-
-        for (int r = 0; r < n; r++) {
-            for (int c = 0; c < n; c++) {
-                arr[r][c] = sc.nextInt();
-                if (arr[r][c] == 1) house.add(new Position(r, c)); // 일반 집
-                else if (arr[r][c] == 2) chicken.add(new Position(r, c)); // 치킨집
+        // 도시의 정보 입력
+        for (int i = 1; i <= N; i++) {
+            st = new StringTokenizer(br.readLine());
+            for (int j = 1; j <= N; j++) {
+                city[i][j] = Integer.parseInt(st.nextToken()); // 도시의 정보 입력
+                // 집인 경우
+                if (city[i][j] == 1) houses.add(new Location(i, j));
+                // 치킨집인 경우
+                else if (city[i][j] == 2) stores.add(new Location(i, j));
             }
         }
 
-        // 모든 치킨 집 중에서 m개의 치킨 집을 뽑는 조합 계산
-        Combination comb = new Combination(chicken.size(), m);
-        comb.combination(chicken, 0, 0, 0);
-        ArrayList<ArrayList<Position>> chickenList = comb.getResult();
+        close(0, 0);
 
-        // 치킨 거리의 합의 최소를 찾아 출력
-        int result = (int) 1e9;
-        for (int i = 0; i < chickenList.size(); i++) {
-            result = Math.min(result, getSum(chickenList.get(i)));
-        }
+        // 도시의 치킨 거리의 최솟값 출력
         System.out.println(result);
     }
 }
