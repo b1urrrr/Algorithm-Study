@@ -1,9 +1,12 @@
-package chap12;
+/*
+    백준 15686번 : 치킨 배달
+    - 문제 유형 : 백트래킹, 브루트 포스
+*/
 
 import java.io.*;
 import java.util.*;
 
-public class Question12_13 {
+public class 치킨_배달 {
     static int N, M, result = Integer.MAX_VALUE;
     static int[][] city;
     static ArrayList<Location> houses = new ArrayList<>();
