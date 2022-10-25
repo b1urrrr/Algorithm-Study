@@ -1,9 +1,7 @@
-package chap14;
-
 import java.io.*;
 import java.util.*;
 
-public class Question14_26 {
+public class 카드_정렬하기 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

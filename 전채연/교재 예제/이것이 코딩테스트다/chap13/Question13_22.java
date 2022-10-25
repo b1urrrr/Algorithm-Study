@@ -1,6 +1,6 @@
 package chap13;
 
-class Solution {
+public class Question13_22 {
     class Move {
         Node A;
         Node B;
