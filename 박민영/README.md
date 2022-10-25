@@ -314,6 +314,15 @@
 | DFS | <a href="https://www.acmicpc.net/problem/14502">백준 14502번 : 연구소</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Graph%20Search%20(%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89)/DFS%20(%EA%B9%8A%EC%9D%B4%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89)/%EB%B0%B1%EC%A4%80/n14502/Main.java">🔗</a> |
 | 정렬 | <a href="https://www.acmicpc.net/problem/2822">백준 2822번 : 점수 계산</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n2822/Main.java">🔗</a> |
 
+### Week 35 (22.10.23.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 재귀 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60058">프로그래머스 : 괄호 변환</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98/Main.java">🔗</a> |
+| 자료구조 | <a href="https://www.acmicpc.net/problem/7785">백준 7785번 : 회사에 있는 사람</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Data%20structure%20(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/%EB%B0%B1%EC%A4%80/n7785/Main.java">🔗</a> |
+| 정렬 | <a href="https://www.acmicpc.net/problem/11004">백준 11004번 : K번째 수</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n11004/Main.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/2407">백준 2407번 : 조합</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n2407/Main.java">🔗</a> |
+| DFS | <a href="https://www.acmicpc.net/problem/14888">백준 14888번 : 연산자 끼워넣기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Graph%20Search%20(%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89)/DFS%20(%EA%B9%8A%EC%9D%B4%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89)/%EB%B0%B1%EC%A4%80/n14888/Main.java">🔗</a> |
+
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
