@@ -386,6 +386,10 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 구현 (Implementation) | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60061">프로그래머스 > 2020 KAKAO BLIND RECRUITMENT : 기둥과 보 설치</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/기둥과_보_설치.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/15686">백준 15686번 : 치킨 배달</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/치킨_배달.java">🔗</a> |
+| 이중 피벗 퀵 정렬 (Dual Pivot Quick Sort) | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42889">프로그래머스 > 2019 KAKAO BLIND RECRUITMENT : 실패율</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Dual%20Pivot%20Quick%20Sort%20(이중%20피벗%20퀵%20정렬)/실패율.java">🔗</a> |
+| 이중 피벗 퀵 정렬 (Dual Pivot Quick Sort) | <a href="https://www.acmicpc.net/problem/1431">백준 1431번 : 시리얼 번호</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Dual%20Pivot%20Quick%20Sort%20(이중%20피벗%20퀵%20정렬)/시리얼_번호.java">🔗</a> |
+| 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/1715">백준 1715번 : 카드 정렬하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Greedy%20(그리디)/카드_정렬하기.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
@@ -409,7 +413,8 @@
 | 17 | 10 | 그래프 이론 | 22.06.21. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap10">🔗</a> |
 | 19 | 11 | 그리디 문제 | 22.07.05. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap11">🔗</a> |
 | 20 | 12 | 구현 문제 | 22.07.12. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap12">🔗</a> |
-| 30 & 31 | 13 | DFS/BFS | 22.09.14. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap13">🔗</a> |
+| 30 & 31 | 13 | DFS/BFS | 22.09.13. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap13">🔗</a> |
+| 32 | 14 | 정렬 | 22.9.27. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap14">🔗</a> |
 
 <!--
 |  |  |  | 22. | <a href="">🔗</a> |
