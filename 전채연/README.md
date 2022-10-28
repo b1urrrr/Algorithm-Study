@@ -391,6 +391,13 @@
 | 이중 피벗 퀵 정렬 (Dual Pivot Quick Sort) | <a href="https://www.acmicpc.net/problem/1431">백준 1431번 : 시리얼 번호</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Sorting%20(정렬)/Dual%20Pivot%20Quick%20Sort%20(이중%20피벗%20퀵%20정렬)/시리얼_번호.java">🔗</a> |
 | 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/1715">백준 1715번 : 카드 정렬하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Greedy%20(그리디)/카드_정렬하기.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 35 (22.10.23.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/1932">백준 1932번 : 정수 삼각형</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/정수_삼각형.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
