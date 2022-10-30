@@ -397,6 +397,7 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/1932">백준 1932번 : 정수 삼각형</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/정수_삼각형.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/14501">백준 14501번 : 퇴사</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/퇴사.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
