@@ -18,6 +18,8 @@ for _ in range(N):
             print(queue[0])
             queue.popleft()
     elif i[0] == 'size':
+        print(len(queue))
+    elif i[0] == 'empty':
         if len(queue) == 0:
             print(1)
         else:
