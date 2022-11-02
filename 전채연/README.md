@@ -398,6 +398,9 @@
 | :------: | :---: | :--: |
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/1932">백준 1932번 : 정수 삼각형</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/정수_삼각형.java">🔗</a> |
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/14501">백준 14501번 : 퇴사</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/퇴사.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/15894">백준 15894번 : 수학은 체육과목 입니다</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/수학은_체육과목_입니다.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/2914">백준 2914번 : 저작권</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/저작권.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/23037">백준 23037번 : 5의 수난</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/_5의_수난.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
