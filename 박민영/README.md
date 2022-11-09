@@ -332,6 +332,16 @@
 | 구현 | <a href="https://www.acmicpc.net/problem/1235">백준 1235번 : 학생 번호</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n1235/Main.java">🔗</a> |
 | 정렬 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42889">프로그래머스 : 실패율</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%8B%A4%ED%8C%A8%EC%9C%A8/Solution.java">🔗</a> |
 
+### Week 37 (22.11.06.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 구현 | <a href="https://www.acmicpc.net/problem/5597">백준 5597번 : 과제 안 내신 분..?</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n5597/Main.java">🔗</a> |
+| 자료구조 | <a href="https://www.acmicpc.net/problem/1715">백준 1715번 : 카드 정렬하기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Data%20structure%20(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/%EB%B0%B1%EC%A4%80/n1715/Main.java">🔗</a> |
+| 정렬 | <a href="https://www.acmicpc.net/problem/5635">백준 5635번 : 생일</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n5635/Main.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/1373">백준 1373번 : 2진수 8진수</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n1373/Main.java">🔗</a> |
+| 구현 | <a href="https://www.acmicpc.net/problem/2566">백준 2566번 : 최댓값</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n2566/Main.java">🔗</a> |
+
+
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
