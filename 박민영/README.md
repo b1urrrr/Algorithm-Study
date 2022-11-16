@@ -341,6 +341,14 @@
 | 수학 | <a href="https://www.acmicpc.net/problem/1373">백준 1373번 : 2진수 8진수</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n1373/Main.java">🔗</a> |
 | 구현 | <a href="https://www.acmicpc.net/problem/2566">백준 2566번 : 최댓값</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n2566/Main.java">🔗</a> |
 
+### Week 38 (22.11.13.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 이진탐색 | <a href="https://www.acmicpc.net/problem/2110">백준 2110번 : 공유기 설치</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Binary%20Search%20(%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89)/%EB%B0%B1%EC%A4%80/n2110/Main.java">🔗</a> |
+| 자료구조 | <a href="https://www.acmicpc.net/problem/1021">백준 1021번 : 회전하는 큐</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Data%20structure%20(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/%EB%B0%B1%EC%A4%80/n1021/Main.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/2738">백준 2738번 : 행렬 덧셈</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n2738/Main.java">🔗</a> |
+| 브루트포스 | <a href="https://www.acmicpc.net/problem/1251">백준 1251번 : 단어 나누기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n1251/Main.java">🔗</a> |
+| 정렬 | <a href="https://www.acmicpc.net/problem/10867">백준 10867번 : 중복 빼고 정렬하기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n10867/Main.java">🔗</a> |
 
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
