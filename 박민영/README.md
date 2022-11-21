@@ -350,6 +350,15 @@
 | 브루트포스 | <a href="https://www.acmicpc.net/problem/1251">백준 1251번 : 단어 나누기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n1251/Main.java">🔗</a> |
 | 정렬 | <a href="https://www.acmicpc.net/problem/10867">백준 10867번 : 중복 빼고 정렬하기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n10867/Main.java">🔗</a> |
 
+### Week 39 (22.11.20.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 재귀 | <a href="https://www.acmicpc.net/problem/18511">백준 18511번 : 큰 수 구성하기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EB%B0%B1%EC%A4%80/n18511/Main.java">🔗</a> |
+| 재귀 | <a href="https://codeup.kr/problem.php?id=1901">코드업 1901번 : (재귀 함수) 1부터 n까지 출력하기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EC%BD%94%EB%93%9C%EC%97%85/n1901/Main.java">🔗</a> |
+| 재귀 | <a href="https://codeup.kr/problem.php?id=1915">코드업 1915번 : (재귀함수) 피보나치 수열</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EC%BD%94%EB%93%9C%EC%97%85/n1915/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EC%BD%94%EB%93%9C%EC%97%85/n1915/Main2.java">📝</a> | 
+| 재귀 | <a href="https://codeup.kr/problem.php?id=1916">코드업 1916번 : (재귀함수) 피보나치 수열 (Large)</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EC%BD%94%EB%93%9C%EC%97%85/n1916/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EC%BD%94%EB%93%9C%EC%97%85/n1916/Main2.java">📝</a> | 
+| 재귀 | <a href="https://codeup.kr/problem.php?id=1920">코드업 1920번 : (재귀함수) 2진수 변환</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EC%BD%94%EB%93%9C%EC%97%85/n1920/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EC%BD%94%EB%93%9C%EC%97%85/n1920/Main2.java">📝</a> | 
+
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
