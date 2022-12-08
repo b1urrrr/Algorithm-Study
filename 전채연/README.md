@@ -418,11 +418,11 @@
 ### Week 38 (22.11.13.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-|  | <a href="">16진수</a> | <a href="">🔗</a> |
-|  | <a href="">피보나치 수 5</a> | <a href="">🔗</a> |
-|  | <a href="">다이얼</a> | <a href="">🔗</a> |
-|  | <a href="">손익분기점</a> | <a href="">🔗</a> |
-|  | <a href="">정수 N개의 합</a> | <a href="">🔗</a> |
+| 구현 (Implementation) | <a href="">16진수</a> | <a href="">🔗</a> |
+| 구현 (Implementation) | <a href="">피보나치 수 5</a> | <a href="">🔗</a> |
+| 구현 (Implementation) | <a href="">다이얼</a> | <a href="">🔗</a> |
+| 수학 (Mathematics) | <a href="">손익분기점</a> | <a href="">🔗</a> |
+| 수학 (Mathematics) | <a href="">정수 N개의 합</a> | <a href="">🔗</a> |
 
 <h1 dir="auto"></h1>
 
