@@ -402,6 +402,68 @@
 | 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/2914">백준 2914번 : 저작권</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/저작권.java">🔗</a> |
 | 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/23037">백준 23037번 : 5의 수난</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/_5의_수난.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 37 (22.11.06.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 구현 (Implementation) | <a href="">문자열 반복</a> | <a href="">🔗</a> |
+| 구현 (Implementation) | <a href="">단어의 개수</a> | <a href="">🔗</a> |
+| 수학 (Mathematics) | <a href="">최대공약수와 최소공배수</a> | <a href="">🔗</a> |
+| 수학 (Mathematics) | <a href="">분수찾기</a> | <a href="">🔗</a> |
+| 구현 (Implementation) | <a href="">단어 공부</a> | <a href="">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 38 (22.11.13.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 구현 (Implementation) | <a href="">16진수</a> | <a href="">🔗</a> |
+| 구현 (Implementation) | <a href="">피보나치 수 5</a> | <a href="">🔗</a> |
+| 구현 (Implementation) | <a href="">다이얼</a> | <a href="">🔗</a> |
+| 수학 (Mathematics) | <a href="">손익분기점</a> | <a href="">🔗</a> |
+| 수학 (Mathematics) | <a href="">정수 N개의 합</a> | <a href="">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 39 (22.11.20.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+|  | <a href="">주사위 세개</a> | <a href="">🔗</a> |
+|  | <a href="">심준의 병역판정검사</a> | <a href="">🔗</a> |
+|  | <a href="">스타후르츠</a> | <a href="">🔗</a> |
+|  | <a href="">수도요금</a> | <a href="">🔗</a> |
+|  | <a href="">전자레인지</a> | <a href="">🔗</a> |
+|  | <a href="">오븐 시계</a> | <a href="">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 40 (22.11.27.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+|  | <a href="">세수정렬</a> | <a href="">🔗</a> |
+|  | <a href="">10부제</a> | <a href="">🔗</a> |
+|  | <a href="">알파벳 개수</a> | <a href="">🔗</a> |
+|  | <a href="">R2</a> | <a href="">🔗</a> |
+|  | <a href="">상근날드</a> | <a href="">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 41 (22.12.04.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+|  | <a href="">방학 숙제</a> | <a href="">🔗</a> |
+|  | <a href="">심부름 가는 길</a> | <a href="">🔗</a> |
+|  | <a href="">파티가 끝나고 난 뒤</a> | <a href="">🔗</a> |
+|  | <a href="">과자</a> | <a href="">🔗</a> |
+|  | <a href="">인공지능 시계</a> | <a href="">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 42 (22.12.11.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->

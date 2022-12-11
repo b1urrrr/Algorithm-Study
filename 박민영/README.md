@@ -368,6 +368,18 @@
 | 재귀 | <a href="https://codeup.kr/problem.php?id=1930">코드업 1930번 : SuperSum</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EC%BD%94%EB%93%9C%EC%97%85/n1930/Main.java">🔗</a> |
 | 정렬 | <a href="https://www.acmicpc.net/problem/2587">백준 2587번 : 대표값2</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n2587/Main.java">🔗</a> |
 | 재귀 | <a href="https://codeup.kr/problem.php?id=1953">코드업 1953번 : (재귀함수) 삼각형 출력하기 1</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EC%BD%94%EB%93%9C%EC%97%85/n1953/Main.java">🔗</a> |
+
+### Week 41 (22.12.04.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 백트래킹 | <a href="https://www.acmicpc.net/problem/6987">백준 6987번 : 월드컵</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Backtracking%20(%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)/%EB%B0%B1%EC%A4%80/n6987/Main.java">🔗</a> |
+| 재귀 | <a href="https://codeup.kr/problem.php?id=3702">코드업 3702 번 : 파스칼의 삼각형 2</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EC%BD%94%EB%93%9C%EC%97%85/n3702/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EC%BD%94%EB%93%9C%EC%97%85/n3702/Main2.java">📝</a> | 
+| 수학 | <a href="https://www.acmicpc.net/problem/25304">백준 25304번 : 영수증</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n25304/Main.java">🔗</a> |
+| 구현 | <a href="https://www.acmicpc.net/problem/1357">백준 1357번 : 뒤집힌 덧셈</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n1357/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n1357/Main2.java">📝</a> | 
+| 구현 | <a href="https://www.acmicpc.net/problem/2669">백준 2669번 : 직사각형 네개의 합집합의 면적 구하기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n2669/Main.java">🔗</a> |
+| 브루트포스 | <a href="https://www.acmicpc.net/problem/10448">백준 10448번 : 유레카 이론</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n10448/Main.java">🔗</a> |
+
+
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
