@@ -379,6 +379,17 @@
 | 구현 | <a href="https://www.acmicpc.net/problem/2669">백준 2669번 : 직사각형 네개의 합집합의 면적 구하기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n2669/Main.java">🔗</a> |
 | 브루트포스 | <a href="https://www.acmicpc.net/problem/10448">백준 10448번 : 유레카 이론</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n10448/Main.java">🔗</a> |
 
+### Week 42 (22.12.11.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/11051">백준 11051번 : 이항계수 2</a> | <a href = "">🔗</a> |
+| 재귀 | <a href="https://www.acmicpc.net/problem/24060">백준 24060번 : 알고리즘 수업 - 병합 정렬 1
+</a> | <a href = "">🔗</a> |
+| 집합 | <a href="https://www.acmicpc.net/problem/1302">백준 1302번 : 베스트셀러</a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
+| 수학 | <a href="https://www.acmicpc.net/problem/3003">백준 3003번 : 킹, 퀸, 룩, 비숍, 나이트, 폰
+</a> | <a href = "">🔗</a> |
+| 구현 | <a href="https://www.acmicpc.net/problem/6996">백준 6996번 : 애너그램</a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
+
 
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
