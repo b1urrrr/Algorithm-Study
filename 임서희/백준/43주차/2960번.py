@@ -22,6 +22,17 @@ for i in range(2, n+1):
                 break
         print(b)
 
+# 코드 참조
+n, k = map(int, input().split())
+cnt = 0
+s = [True] * (n+1)
+for i in range(2, n+1):
+    for j in range(i, n+i,i):
+        if s[j] != False:
+            s[j] = False
+            cnt += 1
+            if cnt == k:
+                print(j)
 
 # 에라토스테네스의 체 코드
 N = int(input())
