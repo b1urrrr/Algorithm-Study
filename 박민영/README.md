@@ -391,6 +391,15 @@
 | 구현 | <a href="https://www.acmicpc.net/problem/6996">백준 6996번 : 애너그램</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n6996/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n6996/Main2.java">📝</a> | 
 
 
+### Week 43 (22.12.18.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 그리디 | <a href="https://www.acmicpc.net/problem/1343">백준 1343번 : 폴리오미노</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Greedy%20(%EA%B7%B8%EB%A6%AC%EB%94%94)/%EB%B0%B1%EC%A4%80/n1343/Main.java">🔗</a> |
+| 그리디 | <a href="https://www.acmicpc.net/problem/5585">백준 5585번 : 거스름돈</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Greedy%20(%EA%B7%B8%EB%A6%AC%EB%94%94)/%EB%B0%B1%EC%A4%80/n5585/Main.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/13458">백준 13458번 : 시험 감독</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n13458/Main.java">🔗</a> |
+| 구현 | <a href="https://www.acmicpc.net/problem/1100">백준 1100번 : 하얀 칸</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n1100/Main.java">🔗</a> |
+| 브루트포스 | <a href="https://www.acmicpc.net/problem/1977">백준 1977번 : 완전제곱수</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n1977/Main.java">🔗</a> |
+
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
