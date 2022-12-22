@@ -445,7 +445,7 @@
 |  | <a href="">10부제</a> | <a href="">🔗</a> |
 |  | <a href="">알파벳 개수</a> | <a href="">🔗</a> |
 |  | <a href="">R2</a> | <a href="">🔗</a> |
-|  | <a href="">상근날드</a> | <a href="">🔗</a> |
+| 수학 (Mathematics) | <a href="">상근날드</a> | <a href="">🔗</a> |
 
 <h1 dir="auto"></h1>
 
