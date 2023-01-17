@@ -441,9 +441,9 @@
 ### Week 40 (22.11.27.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-|  | <a href="">세수정렬</a> | <a href="">🔗</a> |
-|  | <a href="">10부제</a> | <a href="">🔗</a> |
-|  | <a href="">알파벳 개수</a> | <a href="">🔗</a> |
+| 구현 (Implementation) | <a href="">세수정렬</a> | <a href="">🔗</a> |
+| 구현 (Implementation) | <a href="">10부제</a> | <a href="">🔗</a> |
+| 구현 (Implementation) | <a href="">알파벳 개수</a> | <a href="">🔗</a> |
 | 수학 (Mathematics) | <a href="">R2</a> | <a href="">🔗</a> |
 | 수학 (Mathematics) | <a href="">상근날드</a> | <a href="">🔗</a> |
 
