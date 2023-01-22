@@ -429,23 +429,23 @@
 ### Week 39 (22.11.20.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-|  | <a href="">주사위 세개</a> | <a href="">🔗</a> |
-|  | <a href="">심준의 병역판정검사</a> | <a href="">🔗</a> |
-|  | <a href="">스타후르츠</a> | <a href="">🔗</a> |
-|  | <a href="">수도요금</a> | <a href="">🔗</a> |
-|  | <a href="">전자레인지</a> | <a href="">🔗</a> |
-|  | <a href="">오븐 시계</a> | <a href="">🔗</a> |
+| 수학 (Mathematics) | <a href="">주사위 세개</a> | <a href="">🔗</a> |
+| 구현 (Implementation) | <a href="">심준의 병역판정검사</a> | <a href="">🔗</a> |
+| 수학 (Mathematics) | <a href="">스타후르츠</a> | <a href="">🔗</a> |
+| 수학 (Mathematics) | <a href="">수도요금</a> | <a href="">🔗</a> |
+| 그리디 (Greedy) | <a href="">전자레인지</a> | <a href="">🔗</a> |
+| 수학 (Mathematics) | <a href="">오븐 시계</a> | <a href="">🔗</a> |
 
 <h1 dir="auto"></h1>
 
 ### Week 40 (22.11.27.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-|  | <a href="">세수정렬</a> | <a href="">🔗</a> |
-|  | <a href="">10부제</a> | <a href="">🔗</a> |
-|  | <a href="">알파벳 개수</a> | <a href="">🔗</a> |
-|  | <a href="">R2</a> | <a href="">🔗</a> |
-|  | <a href="">상근날드</a> | <a href="">🔗</a> |
+| 구현 (Implementation) | <a href="">세수정렬</a> | <a href="">🔗</a> |
+| 구현 (Implementation) | <a href="">10부제</a> | <a href="">🔗</a> |
+| 구현 (Implementation) | <a href="">알파벳 개수</a> | <a href="">🔗</a> |
+| 수학 (Mathematics) | <a href="">R2</a> | <a href="">🔗</a> |
+| 수학 (Mathematics) | <a href="">상근날드</a> | <a href="">🔗</a> |
 
 <h1 dir="auto"></h1>
 
