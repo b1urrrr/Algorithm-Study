@@ -1,3 +1,9 @@
+/*
+    백준 24479번 : 알고리즘 수업 - 깊이 우선 탐색 1
+    - 문제 유형 : 그래프 이론, 그래프 탐색, 정렬, 깊이 우선 탐색
+    - 풀이 유형 : DFS (깊이 우선 탐색)
+*/
+
 import java.io.*;
 import java.util.*;
 
@@ -9,7 +15,6 @@ public class 알고리즘_수업_깊이_우선_탐색_1 {
     // 깊이 우선 탐색 함수
     public static void dfs(int start) {
         visited[start] = count++; // 시작 정점 방문 표시
-        System.out.println(start + " 방문!");
         
         // 시작 정점의 인접 정점 집합 오름차순 방문
         for (int i = 0; i < graph.get(start).size(); i++) {
