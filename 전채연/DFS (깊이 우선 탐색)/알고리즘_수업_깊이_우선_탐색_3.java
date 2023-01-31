@@ -48,7 +48,7 @@ public class 알고리즘_수업_깊이_우선_탐색_3 {
         // 깊이 우선 탐색 실행
         dfs(r, 1);
 
-        // 정점 i의 방문 순서 출력
+        // 정점 i의 깊이 출력
         for (int i = 1; i <= n; i++) System.out.println(visited[i] - 1);
     }
 }

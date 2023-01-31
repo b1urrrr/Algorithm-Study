@@ -43,7 +43,7 @@ public class 알고리즘_수업_깊이_우선_탐색_2 {
             graph.get(v).add(u);
         }
 
-        // 간선 오름차순 정렬
+        // 간선 내림차순 정렬
         for (int i = 1; i <= n; i++) Collections.sort(graph.get(i), Collections.reverseOrder());
 
         // 깊이 우선 탐색 실행
