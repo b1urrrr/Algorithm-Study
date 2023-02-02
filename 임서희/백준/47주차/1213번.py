@@ -2,6 +2,7 @@
 # 1213번: 팰린드롬 만들기
 
 # 스파이더에선 돌아가는데 런타임에러 나서 아직 다시 구현 중
+# 해결 완료!
 s = list(input())
 s_set = sorted(list(set(s)))
 dic = dict()
@@ -24,6 +25,7 @@ for i,j in dic.items():
     r+=1
 if res_num > 1:
     print("I'm Sorry Hansoo")
+elif res_num == 0:
+    print(res+res[::-1])
 else:
-    #print(li[res_num_i[0]])
     print(res+li[res_num_i[0]]+res[::-1])
