@@ -54,7 +54,7 @@ public class 알고리즘_수업_너비_우선_탐색_1 {
         // 너비 우선 탐색 실행
         bfs(R);
 
-        // 정점 i의 방문 순서를 출력
+        // 정점 i의 방문 순서 출력
         for (int i = 1; i <= N; i++) System.out.println(visited[i]);
     }
 }
