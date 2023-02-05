@@ -379,6 +379,44 @@
 | 구현 | <a href="https://www.acmicpc.net/problem/2669">백준 2669번 : 직사각형 네개의 합집합의 면적 구하기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n2669/Main.java">🔗</a> |
 | 브루트포스 | <a href="https://www.acmicpc.net/problem/10448">백준 10448번 : 유레카 이론</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n10448/Main.java">🔗</a> |
 
+### Week 42 (22.12.11.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/11051">백준 11051번 : 이항계수 2</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Dynamic%20programming%20(%EB%8F%99%EC%A0%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)/%EB%B0%B1%EC%A4%80/n11051/Main.java">🔗</a> |
+| 재귀 | <a href="https://www.acmicpc.net/problem/24060">백준 24060번 : 알고리즘 수업 - 병합 정렬 1
+</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Recursion%20(%EC%9E%AC%EA%B7%80)/%EB%B0%B1%EC%A4%80/n24060/Main.java">🔗</a> |
+| 집합 | <a href="https://www.acmicpc.net/problem/1302">백준 1302번 : 베스트셀러</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Set%20(%EC%A7%91%ED%95%A9)/%EB%B0%B1%EC%A4%80/n1302/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Set%20(%EC%A7%91%ED%95%A9)/%EB%B0%B1%EC%A4%80/n1302/Main2.java">📝</a> | 
+| 수학 | <a href="https://www.acmicpc.net/problem/3003">백준 3003번 : 킹, 퀸, 룩, 비숍, 나이트, 폰
+</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n3003/Main.java">🔗</a> |
+| 구현 | <a href="https://www.acmicpc.net/problem/6996">백준 6996번 : 애너그램</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n6996/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n6996/Main2.java">📝</a> | 
+
+
+### Week 43 (22.12.18.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 그리디 | <a href="https://www.acmicpc.net/problem/1343">백준 1343번 : 폴리오미노</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Greedy%20(%EA%B7%B8%EB%A6%AC%EB%94%94)/%EB%B0%B1%EC%A4%80/n1343/Main.java">🔗</a> |
+| 그리디 | <a href="https://www.acmicpc.net/problem/5585">백준 5585번 : 거스름돈</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Greedy%20(%EA%B7%B8%EB%A6%AC%EB%94%94)/%EB%B0%B1%EC%A4%80/n5585/Main.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/13458">백준 13458번 : 시험 감독</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n13458/Main.java">🔗</a> |
+| 구현 | <a href="https://www.acmicpc.net/problem/1100">백준 1100번 : 하얀 칸</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n1100/Main.java">🔗</a> |
+| 브루트포스 | <a href="https://www.acmicpc.net/problem/1977">백준 1977번 : 완전제곱수</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Brute%20Force%20(%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4)/%EB%B0%B1%EC%A4%80/n1977/Main.java">🔗</a> |
+
+### Week 45 (23.01.22.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 수학 | <a href="https://www.acmicpc.net/problem/1057">백준 1057번 : 토너먼트</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n1057/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n1057/Main2.java">📝</a> | 
+| 자료구조 | <a href="https://www.acmicpc.net/problem/11652">백준 11652번 : 카드</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Data%20structure%20(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/%EB%B0%B1%EC%A4%80/n11652/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Data%20structure%20(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/%EB%B0%B1%EC%A4%80/n11652/Main2.java">📝</a> | 
+| 정렬 | <a href="https://www.acmicpc.net/problem/2693">백준 2693번 : N번째 큰 수</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n2693/Main.java">🔗</a> |
+| 구현 | <a href="https://www.acmicpc.net/problem/1296">백준 1296번 : 팀 이름 정하기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n1296/Main.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/10886">백준 10886번 : 0 = not cute / 1 = cute</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n10886/Main.java">🔗</a> |
+
+### Week 46 (23.01.29.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| DFS/BFS | <a href="https://www.acmicpc.net/problem/1260">백준 1260번 : DFS와 BFS</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Graph%20Search%20(%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89)/DFS%20(%EA%B9%8A%EC%9D%B4%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89)/%EB%B0%B1%EC%A4%80/n1260/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Graph%20Search%20(%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89)/DFS%20(%EA%B9%8A%EC%9D%B4%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89)/%EB%B0%B1%EC%A4%80/n1260/Main2.java">📝</a> | 
+| BFS | <a href="https://www.acmicpc.net/problem/2178">백준 2178번 : 미로 탐색</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Graph%20Search%20(%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89)/BFS%20(%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89)/%EB%B0%B1%EC%A4%80/n2178/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Graph%20Search%20(%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89)/BFS%20(%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89)/%EB%B0%B1%EC%A4%80/n2178/Main2.java">📝(DFS)</a><a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Graph%20Search%20(%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89)/BFS%20(%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89)/%EB%B0%B1%EC%A4%80/n2178/Main3.java">📝</a> | 
+| DFS | <a href="https://www.acmicpc.net/problem/1388">백준 1388번 : 바닥 장식</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Graph%20Search%20(%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89)/DFS%20(%EA%B9%8A%EC%9D%B4%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89)/%EB%B0%B1%EC%A4%80/n1388/Main.java">🔗</a> |
+| 구현 | <a href="https://www.acmicpc.net/problem/1652">백준 1652번 : 누울 자리를 찾아라</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n1652/Main.java">🔗</a> |
+| 정렬 | <a href="https://www.acmicpc.net/problem/11931">백준 11931번 : 수 정렬하기 4</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n11931/Main.java">🔗</a> |
 
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
