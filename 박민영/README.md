@@ -418,6 +418,15 @@
 | 구현 | <a href="https://www.acmicpc.net/problem/1652">백준 1652번 : 누울 자리를 찾아라</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n1652/Main.java">🔗</a> |
 | 정렬 | <a href="https://www.acmicpc.net/problem/11931">백준 11931번 : 수 정렬하기 4</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Sorting%20(%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/n11931/Main.java">🔗</a> |
 
+### Week 47 (23.02.05.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 투 포인터 | <a href="https://www.acmicpc.net/problem/2003">백준 2003번 : 수들의 합 2</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/MinYeongPark/%EB%B0%95%EB%AF%BC%EC%98%81/Two%20Pointers%20(%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0)/%EB%B2%A1%EC%A4%80/n2003/Main.java">🔗</a> |
+| 자료구조 | <a href="https://www.acmicpc.net/problem/17219">백준 17219번 : 비밀번호 찾기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/MinYeongPark/%EB%B0%95%EB%AF%BC%EC%98%81/Data%20structure%20(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)/%EB%B0%B1%EC%A4%80/n17219/Main.java">🔗</a> |
+| BFS | <a href="https://www.acmicpc.net/problem/9372">백준 9372번 : 상근이의 여행</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/MinYeongPark/%EB%B0%95%EB%AF%BC%EC%98%81/Graph%20Search%20(%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89)/BFS%20(%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89)/%EB%B0%B1%EC%A4%80/n9372/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/MinYeongPark/%EB%B0%95%EB%AF%BC%EC%98%81/Graph%20Search%20(%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89)/BFS%20(%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89)/%EB%B0%B1%EC%A4%80/n9372/Main2.java">📝</a> | 
+| 수학 | <a href="https://www.acmicpc.net/problem/1009">백준 1009번 : 분산처리</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/MinYeongPark/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n1009/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/MinYeongPark/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n1009/Main2.java">📝</a> | 
+| 구현 | <a href="https://www.acmicpc.net/problem/10996">백준 10996번 : 별 찍기 - 21</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/MinYeongPark/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n10996/Main.java">🔗</a> |
+
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
