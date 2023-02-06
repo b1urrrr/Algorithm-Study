@@ -1,5 +1,5 @@
 /*
-    백준 24480번 : 알고리즘 수업 - 깊이 우선 탐색 2
+    백준 24482번 : 알고리즘 수업 - 깊이 우선 탐색 4
     - 문제 유형 : 그래프 이론, 그래프 탐색, 정렬, 깊이 우선 탐색
     - 풀이 유형 : DFS (깊이 우선 탐색)
 */
@@ -7,18 +7,17 @@
 import java.io.*;
 import java.util.*;
 
-public class 알고리즘_수업_깊이_우선_탐색_2 {
+public class 알고리즘_수업_깊이_우선_탐색_4 {
     static ArrayList<ArrayList<Integer>> graph = new ArrayList<ArrayList<Integer>>();
     static int[] visited;
-    static int count = 1;
 
     // 깊이 우선 탐색 함수
-    public static void dfs(int start) {
-        visited[start] = count++; // 시작 정점 방문 표시
+    public static void dfs(int start, int depth) {
+        visited[start] = depth; // 시작 정점 방문 표시
         
         // 시작 정점의 인접 정점 집합 오름차순 방문
         for (int i = 0; i < graph.get(start).size(); i++) {
-            if (visited[graph.get(start).get(i)] == 0) dfs(graph.get(start).get(i));
+            if (visited[graph.get(start).get(i)] == 0) dfs(graph.get(start).get(i), depth + 1);
         }
     }
 
@@ -47,9 +46,9 @@ public class 알고리즘_수업_깊이_우선_탐색_2 {
         for (int i = 1; i <= n; i++) Collections.sort(graph.get(i), Collections.reverseOrder());
 
         // 깊이 우선 탐색 실행
-        dfs(r);
+        dfs(r, 1);
 
-        // 정점 i의 방문 순서 출력
-        for (int i = 1; i <= n; i++) System.out.println(visited[i]);
+        // 정점 i의 깊이 출력
+        for (int i = 1; i <= n; i++) System.out.println(visited[i] - 1);
     }
 }

@@ -407,62 +407,113 @@
 ### Week 37 (22.11.06.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| 구현 (Implementation) | <a href="">문자열 반복</a> | <a href="">🔗</a> |
-| 구현 (Implementation) | <a href="">단어의 개수</a> | <a href="">🔗</a> |
-| 수학 (Mathematics) | <a href="">최대공약수와 최소공배수</a> | <a href="">🔗</a> |
-| 수학 (Mathematics) | <a href="">분수찾기</a> | <a href="">🔗</a> |
-| 구현 (Implementation) | <a href="">단어 공부</a> | <a href="">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/2675">백준 2675번 : 문자열 반복</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/Implementation%20(구현)/문자열_반복.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/1152">백준 1152번 : 단어의 개수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/Implementation%20(구현)/단어의_개수.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/2609">최대공약수와 최소공배수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/Mathematics%20(수학)/최대공약수와_최소공배수.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/1193">백준 1193번 : 분수찾기</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/Mathematics%20(수학)/분수찾기.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/1157">단어 공부</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/Implementation%20(구현)/단어_공부.java">🔗</a> |
 
 <h1 dir="auto"></h1>
 
 ### Week 38 (22.11.13.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| 구현 (Implementation) | <a href="">16진수</a> | <a href="">🔗</a> |
-| 구현 (Implementation) | <a href="">피보나치 수 5</a> | <a href="">🔗</a> |
-| 구현 (Implementation) | <a href="">다이얼</a> | <a href="">🔗</a> |
-| 수학 (Mathematics) | <a href="">손익분기점</a> | <a href="">🔗</a> |
-| 수학 (Mathematics) | <a href="">정수 N개의 합</a> | <a href="">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/1550">백준 1550번 : 16진수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/Implementation%20(구현)/_16진수.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/10870">백준 10870번 : 피보나치 수 5</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/Implementation%20(구현)/피보나치_수_5.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/5622">백준 5622번 : 다이얼</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/Implementation%20(구현)/다이얼.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/1712">백준 1712번 : 손익분기점</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/Mathematics%20(수학)/손익분기점.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/15596">백준 15596번 : 정수 N개의 합</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/정수_N개의_합.java">🔗</a> |
 
 <h1 dir="auto"></h1>
 
 ### Week 39 (22.11.20.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| 수학 (Mathematics) | <a href="">주사위 세개</a> | <a href="">🔗</a> |
-| 구현 (Implementation) | <a href="">심준의 병역판정검사</a> | <a href="">🔗</a> |
-| 수학 (Mathematics) | <a href="">스타후르츠</a> | <a href="">🔗</a> |
-| 수학 (Mathematics) | <a href="">수도요금</a> | <a href="">🔗</a> |
-| 그리디 (Greedy) | <a href="">전자레인지</a> | <a href="">🔗</a> |
-| 수학 (Mathematics) | <a href="">오븐 시계</a> | <a href="">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/2480">백준 2480번 : 주사위 세개</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/주사위_세개.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/25285">백준 25285번 : 심준의 병역판정검사</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/심준의_병역판정검사.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/17496">백준 17496번 : 스타후르츠</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/스타후르츠.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/10707">백준 10707번 : 수도요금</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/수도요금.java">🔗</a> |
+| 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/10162">백준 10162번 : 전자레인지</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Greedy%20(그리디)/전자레인지.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/2525">백준 2525번 : 오븐 시계</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/오븐_시계.java">🔗</a> |
 
 <h1 dir="auto"></h1>
 
 ### Week 40 (22.11.27.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| 구현 (Implementation) | <a href="">세수정렬</a> | <a href="">🔗</a> |
-| 구현 (Implementation) | <a href="">10부제</a> | <a href="">🔗</a> |
-| 구현 (Implementation) | <a href="">알파벳 개수</a> | <a href="">🔗</a> |
-| 수학 (Mathematics) | <a href="">R2</a> | <a href="">🔗</a> |
-| 수학 (Mathematics) | <a href="">상근날드</a> | <a href="">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/2752">백준 2752번 : 세수정렬</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/세수정렬.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/10797">백준 10797번 : 10부제</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/_10부제.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/10808">백준 10808번 : 알파벳 개수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/알파벳_개수.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/3046">백준 3046번 : R2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/R2.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/5543">백준 5543번 : 상근날드</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/상근날드.java">🔗</a> |
 
 <h1 dir="auto"></h1>
 
 ### Week 41 (22.12.04.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-|  | <a href="">방학 숙제</a> | <a href="">🔗</a> |
-|  | <a href="">심부름 가는 길</a> | <a href="">🔗</a> |
-|  | <a href="">파티가 끝나고 난 뒤</a> | <a href="">🔗</a> |
-|  | <a href="">과자</a> | <a href="">🔗</a> |
-|  | <a href="">인공지능 시계</a> | <a href="">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/5532">백준 5532번 : 방학 숙제</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/방학_숙제.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/5554">백준 5554번 : 심부름 가는 길</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/심부름_가는_길.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/2845">백준 2845번 : 파티가 끝나고 난 뒤</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/파티가_끝나고_난_뒤.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/10156">백준 10156번 : 과자</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/과자.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/2530">백준 2530번 : 인공지능 시계</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/인공지능_시계.java">🔗</a> |
 
 <h1 dir="auto"></h1>
 
 ### Week 42 (22.12.11.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/10101">백준 10101번 : 삼각형 외우기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/삼각형_외우기.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/5596">백준 5596번 : 시험 점수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/시험_점수.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/15680">백준 15680번 : 연세대학교</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/연세대학교.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/1264">백준 1264번 : 모음의 개수</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/모음의_개수.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/11943">백준 11943번 : 파일 옮기기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/파일_옮기기.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 43 (22.12.18.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/6749">백준 6749번 : Next in line</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/Next_in_line.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/10768">백준 10768번 : 특별한 날</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/특별한_날.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/15963">백준 15963번 : CASIO</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/CASIO.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/11948">백준 11948번 : 과목선택</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/과목선택.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/5575">백준 5575번 : 타임 카드</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/타임_카드.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 45 (23.01.22.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/10826">백준 10826번 : 피보나치 수 4</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/피보나치_수_4.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/24416">백준 24416번 : 알고리즘 수업 - 피보나치 수 1</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/알고리즘_수업_피보나치_수_1.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/24417">백준 24417번 : 알고리즘 수업 - 피보나치 수 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/알고리즘_수업_피보나치_수_2.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/9655">백준 9655번 : 돌 게임</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/돌_게임.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/9656">백준 9656번 : 돌 게임 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/돌_게임_2.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 46 (23.01.29.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/18353">백준 18353번 : 병사 배치하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/병사_배치하기.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/1912">백준 1912번 : 연속합</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/연속합.java">🔗</a> |
+| 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/24479">백준 24479번 : 알고리즘 수업 - 깊이 우선 탐색 1</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/알고리즘_수업_깊이_우선_탐색_1.java">🔗</a> |
+| 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/24480">백준 24480번 : 알고리즘 수업 - 깊이 우선 탐색 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/알고리즘_수업_깊이_우선_탐색_2.java">🔗</a> |
+| 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/24481">백준 24481번 : 알고리즘 수업 - 깊이 우선 탐색 3</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/알고리즘_수업_깊이_우선_탐색_3.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 47 (23.02.05.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/24482">백준 24482번 : 알고리즘 수업 - 깊이 우선 탐색 4</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/알고리즘_수업_깊이_우선_탐색_4.java">🔗</a> |
+| 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/24483">백준 24483번 : 알고리즘 수업 - 깊이 우선 탐색 5</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/알고리즘_수업_깊이_우선_탐색_5.java">🔗</a> |
+| 깊이 우선 탐색 (DFS) | <a href="https://www.acmicpc.net/problem/24484">백준 24484번 : 알고리즘 수업 - 깊이 우선 탐색 6</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(깊이%20우선%20탐색)/알고리즘_수업_깊이_우선_탐색_6.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/24444">백준 24444번 : 알고리즘 수업 - 너비 우선 탐색 1</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(너비%20우선%20탐색)/알고리즘_수업_너비_우선_탐색_1.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/24445">백준 24445번 : 알고리즘 수업 - 너비 우선 탐색 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(너비%20우선%20탐색)/알고리즘_수업_너비_우선_탐색_2.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/24446">백준 24446번 : 알고리즘 수업 - 너비 우선 탐색 3</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(너비%20우선%20탐색)/알고리즘_수업_너비_우선_탐색_3.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/24447">백준 24447번 : 알고리즘 수업 - 너비 우선 탐색 4</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(너비%20우선%20탐색)/알고리즘_수업_너비_우선_탐색_4.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
