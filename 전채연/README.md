@@ -515,6 +515,13 @@
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/24446">백준 24446번 : 알고리즘 수업 - 너비 우선 탐색 3</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(너비%20우선%20탐색)/알고리즘_수업_너비_우선_탐색_3.java">🔗</a> |
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/24447">백준 24447번 : 알고리즘 수업 - 너비 우선 탐색 4</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/DFS%20(너비%20우선%20탐색)/알고리즘_수업_너비_우선_탐색_4.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 48 (23.02.12.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/2589">백준 2589번 : 보물섬</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/BFS%20(너비%20우선%20탐색)/보물섬.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
