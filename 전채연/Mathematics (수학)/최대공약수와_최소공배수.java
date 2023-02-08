@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class Main {
+public class 최대공약수와_최소공배수 {
     static int gcd(int x, int y) {
         if (y == 0) return x;
         return gcd(y, x % y);
