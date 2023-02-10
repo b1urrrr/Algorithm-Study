@@ -520,7 +520,8 @@
 ### Week 48 (23.02.12.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/2589">백준 2589번 : 보물섬</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/보물섬.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/2589">백준 2589번 : 보물섬</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/보물섬.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/3055">백준 3055번 : 탈출</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/탈출.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
