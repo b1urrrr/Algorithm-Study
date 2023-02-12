@@ -1,4 +1,4 @@
-# 🐤 이가인 ([LGAIN](github.com/LGAIN))
+# 🐤 이가인 ([LGAIN](https://github.com/LGAIN))
 
 | Week 01 (22.02.27) |
 | :-- |
