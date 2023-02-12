@@ -427,6 +427,11 @@
 | 수학 | <a href="https://www.acmicpc.net/problem/1009">백준 1009번 : 분산처리</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/MinYeongPark/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n1009/Main.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/MinYeongPark/%EB%B0%95%EB%AF%BC%EC%98%81/Math%20(%EC%88%98%ED%95%99)/%EB%B0%B1%EC%A4%80/n1009/Main2.java">📝</a> | 
 | 구현 | <a href="https://www.acmicpc.net/problem/10996">백준 10996번 : 별 찍기 - 21</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/MinYeongPark/%EB%B0%95%EB%AF%BC%EC%98%81/Implement%20(%EA%B5%AC%ED%98%84)/%EB%B0%B1%EC%A4%80/n10996/Main.java">🔗</a> |
 
+### Week 48 (23.02.12.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 구현 | <a href="https://www.acmicpc.net/problem/1244">백준 1244번 : 스위치 켜고 끄기</a> | <a href = "">🔗</a> |
+
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
