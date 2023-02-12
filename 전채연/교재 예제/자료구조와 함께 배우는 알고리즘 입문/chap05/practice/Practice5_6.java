@@ -28,5 +28,7 @@ public class Practice5_6 {
         int n = stdIn.nextInt();
 
         move(n, 1, 3);
+
+        stdIn.close();
     }
 }

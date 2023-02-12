@@ -12,8 +12,8 @@ public class GenericClassTester {
     }
 
     public static void main(String[] args) {
-        GenericClass<String> s = new GenericClass("ABC");
-        GenericClass<Integer> n = new GenericClass(15);
+        GenericClass<String> s = new GenericClass<String>("ABC");
+        GenericClass<Integer> n = new GenericClass<Integer>(15);
 
         System.out.println(s.getXyz());
         System.out.println(n.getXyz());

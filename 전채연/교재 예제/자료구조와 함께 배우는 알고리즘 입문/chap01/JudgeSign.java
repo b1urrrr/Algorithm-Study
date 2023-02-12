@@ -21,7 +21,8 @@ class JudgeSign {
             System.out.println("이 수는 2입니다.");
         else if (n == 3)
             System.out.println("이 수는 3입니다.");
-        else 
-            ;
+        else ;
+
+        stdIn.close();
     }
 }

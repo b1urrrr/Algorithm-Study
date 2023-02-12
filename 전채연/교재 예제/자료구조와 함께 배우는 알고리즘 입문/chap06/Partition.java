@@ -56,5 +56,7 @@ public class Partition {
             x[i] = stdIn.nextInt();
         }
         partition(x, nx);
+
+        stdIn.close();
     }
 }

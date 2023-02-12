@@ -36,5 +36,7 @@ public class 점수_집계 {
             if (scores[3] - scores[1] >= 4) System.out.println("KIN");
             else System.out.println(scores[1] + scores[2] + scores[3]);
         }
+
+        stdIn.close();
     }
 }

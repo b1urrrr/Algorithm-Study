@@ -26,5 +26,7 @@ public class 카드2 {
         }
 
         System.out.println(num); // 마지막으로 꺼낸 카드의 숫자 출력
+
+        stdIn.close();
     }
 }

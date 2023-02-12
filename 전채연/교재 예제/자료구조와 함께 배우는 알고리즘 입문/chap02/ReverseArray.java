@@ -30,5 +30,7 @@ public class ReverseArray {
         System.out.println("요소를 역순으로 정렬했습니다.");
         for (int i = 0; i < num; i++)
             System.out.printf("x[%d] = %d\n", i, x[i]);
+
+        stdIn.close();
     }
 }

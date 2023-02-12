@@ -14,5 +14,7 @@ public class Digits {
         } while (no < 10 || no > 99);
 
         System.out.println("변수 no의 값은 " + no + "가(이ㅏ) 되었습니다.");
+
+        stdIn.close();
     }
 }

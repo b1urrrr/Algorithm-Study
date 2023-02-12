@@ -55,5 +55,7 @@ public class Practice1_15 {
         triangleRU(n);
         System.out.println("오른쪽 아래가 직각인 이등변 삼각형을 출력합니다.");
         triangleRB(n);
+
+        stdIn.close();
     }
 }

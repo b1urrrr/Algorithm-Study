@@ -30,5 +30,7 @@ public class Practice3_6 {
 
         if (idx < 0) System.out.printf("그 값의 요소가 없습니다.\n삽입 포인트 : %d\n", (idx + 1) * -1);
         else System.out.printf("%d은(는) x[%d]에 있습니다.", ky, idx);
+
+        stdIn.close();
     }
 }
