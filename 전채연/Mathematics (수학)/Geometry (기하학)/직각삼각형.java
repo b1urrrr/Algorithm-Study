@@ -3,7 +3,6 @@
     - 문제 유형 : 수학, 기하학, 피타고라스의 정리
 */
 
-
 import java.io.*;
 import java.util.StringTokenizer;
 

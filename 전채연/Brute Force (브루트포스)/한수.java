@@ -28,5 +28,7 @@ public class 한수 {
         
         // 1보다 크거나 같고, N보다 작거나 같은 한수의 개수 출력
         System.out.print(count);
+
+        sc.close();
     }
 }

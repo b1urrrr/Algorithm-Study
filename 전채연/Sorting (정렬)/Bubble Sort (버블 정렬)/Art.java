@@ -41,5 +41,7 @@ public class Art {
         // 프레임 출력 : 왼쪽 하단 꼭짓점의 좌표와 오른쪽 상단 꼭짓점의 좌표
         System.out.printf("%d,%d\n", X[0] - 1, Y[0] - 1);
         System.out.printf("%d,%d\n", X[repeat - 1] + 1, Y[repeat - 1] + 1);
+
+        stdIn.close();
     }
 }

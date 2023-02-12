@@ -90,5 +90,7 @@ public class Example9_2 {
             if (d[i] == Integer.MAX_VALUE) System.out.println("INFINITY");
             else System.out.println(d[i]);
         }
+
+        sc.close();
     }
 }

@@ -13,7 +13,7 @@ public class DSLR {
     static char[] dx = {'D', 'S', 'L', 'R'};
 
     // DSLR 연산 결과를 반환한느 메서드
-    static int DSLR(char type, int num) {
+    static int dslr(char type, int num) {
         switch(type) {
             // D 연산
             case 'D':
@@ -47,7 +47,7 @@ public class DSLR {
         while (!que.isEmpty()) {
             int node = que.remove();
             for (int i = 0; i < 4; i++) {
-                int next = DSLR(dx[i], node);
+                int next = dslr(dx[i], node);
                 // 이미 방문한 노드인 경우
                 if (graph[next] != null) continue;
                 que.add(next);

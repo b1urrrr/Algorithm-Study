@@ -7,5 +7,7 @@ public class R2 {
         int average = stdIn.nextInt();
         
         System.out.println(average * 2 - n1);
+
+        stdIn.close();
     }
 }

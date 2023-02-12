@@ -12,5 +12,7 @@ public class 파티가_끝나고_난_뒤 {
             System.out.printf("%d ", article - (people * area));
         }
         System.out.println();
+
+        stdIn.close();
     }
 }

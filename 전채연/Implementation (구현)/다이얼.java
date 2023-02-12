@@ -56,5 +56,7 @@ public class 다이얼 {
             }
         }
         System.out.print(answer);
+        
+        sc.close();
     }
 }

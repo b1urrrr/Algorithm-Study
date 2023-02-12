@@ -33,5 +33,7 @@ public class 그룹_단어_체커 {
 
         // 그룹 단어 개수 출력
         System.out.print(answer);
+
+        sc.close();
     }
 }

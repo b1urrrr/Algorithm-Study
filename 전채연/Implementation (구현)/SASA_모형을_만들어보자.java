@@ -13,5 +13,7 @@ public class SASA_모형을_만들어보자 {
         
         int max = Math.min(n, m);
         System.out.println(max / 2);
+
+        stdIn.close();
     }
 }
