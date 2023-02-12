@@ -522,6 +522,9 @@
 | :------: | :---: | :--: |
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/2589">백준 2589번 : 보물섬</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/보물섬.java">🔗</a> |
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/3055">백준 3055번 : 탈출</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/탈출.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/14442">백준 14442번 : 벽 부수고 이동하기 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/벽_부수고_이동하기_2.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/16933">백준 16933번 : 벽 부수고 이동하기 3</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/벽_부수고_이동하기_3.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/1245">백준 1245번 : 농장 관리</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/농장_관리.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
