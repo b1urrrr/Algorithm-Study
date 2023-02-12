@@ -15,5 +15,7 @@ public class 상근날드 {
         }
 
         System.out.println(burger + beverage - 50);
+
+        stdIn.close();
     }
 }

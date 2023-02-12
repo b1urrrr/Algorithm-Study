@@ -64,5 +64,7 @@ public class 잔디깎기 {
             // 결과 출력
             System.out.println((result)? "YES" : "NO");
         }
+
+        stdIn.close();
     }
 }

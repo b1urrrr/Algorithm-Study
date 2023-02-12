@@ -12,5 +12,7 @@ public class 단어의_개수 {
             }
         }
         System.out.print(answer);
+
+        sc.close();
     }
 }

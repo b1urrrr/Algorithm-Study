@@ -3,32 +3,21 @@
     - 문제 유형 : 수학, 에라토스테네스의 체
 */
 
-import java.util.Scanner;
+import java.io.*;
 
 public class 소수_구하기 {
-    static boolean[] isNotPrime; // 소수가 아님을 표시하는 배열
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int N = Integer.parseInt(br.readLine()); // 정수 N 입력
 
-    // 에라토스테네스의 체 함수
-    static void seive_of_eratosthenes(int range) {
-        // 0과 1은 소수가 아님을 표시
-		isNotPrime[0] = isNotPrime[1] = true;
-        // 2부터 i가 소수이면 자신의 배수는 소수가 아님을 표시
-		for (int i = 2; i * i <= range; i++)
-				if (!isNotPrime[i])
-						for (int j = i * i; j <= range; j += i)
-								isNotPrime[j] = true;
-}
-    public static void main(String[] args) {
-        Scanner stdIn = new Scanner(System.in);
-        int start = stdIn.nextInt(); // M 입력
-        int end = stdIn.nextInt(); // N 입력
-        isNotPrime = new boolean[end + 1];
-        
-        // 에라토스테네스의 체 함수 호출
-        seive_of_eratosthenes(end);
-
-        // 범위 내의 소수 출력
-        for (int i = start; i <= end; i++)
-            if (!isNotPrime[i]) System.out.println(i);
+        while(N > 1) {
+            for (int i = 2; i <= N; i++) {
+                if (N % i == 0) {
+                    N /= i;
+                    System.out.println(i); // 인수 출력
+                    break;
+                }
+            }
+        }
     }
 }

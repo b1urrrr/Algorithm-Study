@@ -15,5 +15,7 @@ public class 문자열_반복 {
             }
             System.out.println(answer);
         }
+
+        sc.close();
     }
 }

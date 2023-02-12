@@ -1,3 +1,5 @@
+package chap11;
+
 import java.io.*;
 import java.util.StringTokenizer;
 import java.util.Arrays;
@@ -25,7 +27,6 @@ public class Question11_5 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
         int N = Integer.parseInt(st.nextToken()); // 볼링공의 개수 입력
-        int M = Integer.parseInt(st.nextToken()); // 볼링공의 최대 무게 입력
         Ball[] balls = new Ball[N];
 
         st = new StringTokenizer(br.readLine());

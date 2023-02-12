@@ -6,5 +6,7 @@ public class _16진수 {
         String A = stdIn.next();
         int num = Integer.parseInt(A, 16);
         System.out.println(num);
+
+        stdIn.close();
     }
 }

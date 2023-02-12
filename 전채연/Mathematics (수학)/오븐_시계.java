@@ -13,5 +13,7 @@ public class 오븐_시계 {
         curHour %= 24;
         
         System.out.print(curHour + " " + curSec);
+
+        sc.close();
     }
 }

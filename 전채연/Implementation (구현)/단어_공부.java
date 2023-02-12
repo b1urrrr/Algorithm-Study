@@ -32,5 +32,7 @@ public class 단어_공부 {
         } else {
             System.out.print((char) (max + 65));
         }
+
+        sc.close();
     }
 }

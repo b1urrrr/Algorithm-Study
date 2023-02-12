@@ -29,5 +29,7 @@ public class 분수찾기 {
         }
 
         System.out.print(numerator + "/" + denominator);
+
+        sc.close();
     }
 }

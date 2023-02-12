@@ -18,6 +18,7 @@ public class 전자레인지 {
                 count[2]++;
             } else {
                 System.out.println(-1);
+                stdIn.close();
                 return;
             }
 
@@ -27,5 +28,7 @@ public class 전자레인지 {
             System.out.print(count[i] + " ");
         }
         System.out.println();
+
+        stdIn.close();
     }
 }
