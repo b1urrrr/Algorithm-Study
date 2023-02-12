@@ -1,7 +1,5 @@
 package chap04.practice;
 
-import java.util.Scanner;
-
 public class Practice4_3 {
     int max;
     int ptrA;

@@ -51,5 +51,7 @@ public class PhysExamSearch {
             System.out.printf("x[%d]에 있습니다.\n", idx);
             System.out.printf("찾은 데이터 : %s\n", x[idx]);
         }
+
+        stdIn.close();
     }
 }

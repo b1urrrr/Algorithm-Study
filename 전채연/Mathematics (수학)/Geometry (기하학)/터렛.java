@@ -2,9 +2,7 @@ import java.util.Scanner;
  
 public class 터렛 {
 	public static void main(String[] args) {
- 
 		Scanner in = new Scanner(System.in);
- 
  
 		int T = in.nextInt();
  
@@ -20,7 +18,8 @@ public class 터렛 {
 			
 			System.out.println(tangent_point(x1, y1, r1, x2, y2, r2));
 		}
- 
+		
+		in.close();
 	}
  
  

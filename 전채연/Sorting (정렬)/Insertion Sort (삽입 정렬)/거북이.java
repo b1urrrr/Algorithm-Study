@@ -27,5 +27,7 @@ public class 거북이 {
 
         // 가장 큰 직사각형은 (두 번째로 가장 큰 값) * (네 번째로 가장 큰 값)이므로 이를 출력
         System.out.println(steps[2] * steps[0]);
+
+        stdIn.close();
     } 
 }

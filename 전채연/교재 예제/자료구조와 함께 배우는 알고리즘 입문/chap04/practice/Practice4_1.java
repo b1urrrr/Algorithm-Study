@@ -57,5 +57,7 @@ public class Practice4_1 {
                     break;
             }
         }
+
+        stdIn.close();
     }
 }

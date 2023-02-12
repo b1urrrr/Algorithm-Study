@@ -61,5 +61,7 @@ public class N번째_큰_수 {
             // 세 번째로 가장 큰 수 출력
             System.out.println(data[SIZE - 3]);
         }
+
+        stdIn.close();
     }
 }

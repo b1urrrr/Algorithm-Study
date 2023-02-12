@@ -54,5 +54,7 @@ public class 소트인사이드 {
             System.out.print(numbers[i]);
         }
         System.out.println();
+
+        stdIn.close();
     }
 }

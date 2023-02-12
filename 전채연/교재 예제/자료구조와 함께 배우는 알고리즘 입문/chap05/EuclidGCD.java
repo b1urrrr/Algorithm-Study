@@ -21,5 +21,7 @@ public class EuclidGCD {
         int y = stdIn.nextInt();
 
         System.out.println("최대공약수는 " + gcd(x, y) + "입니다.");
+
+        stdIn.close();
     }
 }

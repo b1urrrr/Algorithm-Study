@@ -46,7 +46,8 @@ public class Practice6_5 {
         bubbleSort(x, nx);
 
         System.out.println("오름차순으로 정렬했습니다.");
-        for (int i = 0; i < nx; i++)
-            System.out.printf("x[%d] = %d\n", i, x[i]);
+        for (int i = 0; i < nx; i++) System.out.printf("x[%d] = %d\n", i, x[i]);
+
+        stdIn.close();
     }
 }

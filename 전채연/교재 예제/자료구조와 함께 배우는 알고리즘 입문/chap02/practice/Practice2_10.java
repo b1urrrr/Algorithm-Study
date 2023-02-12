@@ -60,5 +60,7 @@ public class Practice2_10 {
             for (int j = 0; j < vdist[i]; j++) System.out.print("*");
             System.out.println();
         }
+
+        stdIn.close();
     }
 }

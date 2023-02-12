@@ -29,5 +29,7 @@ public class BinarySearchTester {
 
         if (idx < 0) System.out.println("그 값의 요소가 없습니다.");
         else System.out.printf("%d은(는) x[%d]에 있습니다.", ky, idx);
+
+        stdIn.close();
     }
 }

@@ -3,18 +3,18 @@ package chap09;
 import java.util.Comparator;
 
 public class LinkedList<E> {
-    class Node<E> {
+    class Node {
         private E data;
-        private Node<E> next;
+        private Node next;
 
-        Node(E data, Node<E> next) {
+        Node(E data, Node next) {
             this.data = data;
             this.next = next;
         }
     }
 
-    private Node<E> head; // 머리 노드
-    private Node<E> crnt; // 선택 노드
+    private Node head; // 머리 노드
+    private Node crnt; // 선택 노드
 
     // 생성자
     public LinkedList() {
@@ -23,7 +23,7 @@ public class LinkedList<E> {
 
     // 검색
     public E search(E obj, Comparator<? super E> c) {
-        Node<E> ptr = head;
+        Node ptr = head;
 
         while (ptr != null) {
             if (c.compare(obj, ptr.data) == 0) {
@@ -37,8 +37,8 @@ public class LinkedList<E> {
 
     // 머리에 노드 삽입
     public void addFirst(E obj) {
-        Node<E> ptr = head;
-        head = crnt = new Node<E>(obj, ptr);
+        Node ptr = head;
+        head = crnt = new Node(obj, ptr);
     }
 
     // 꼬리에 노드 삽입
@@ -46,10 +46,10 @@ public class LinkedList<E> {
         if (head == null)
             addFirst(obj);
         else {
-            Node<E> ptr = head;
+            Node ptr = head;
             while (ptr.next != null)
                 ptr = ptr.next;
-            ptr.next = crnt = new Node<E>(obj, null);
+            ptr.next = crnt = new Node(obj, null);
         }
     }
 
@@ -65,8 +65,8 @@ public class LinkedList<E> {
             if (head.next == null)
                 removeFirst();
         } else {
-            Node<E> ptr = head;
-            Node<E> pre = head;
+            Node ptr = head;
+            Node pre = head;
 
             while (ptr.next != null) {
                 pre = ptr;
@@ -83,7 +83,7 @@ public class LinkedList<E> {
             if (p == head)
                 removeFirst();
             else {
-                Node<E> ptr = head;
+                Node ptr = head;
 
                 while (ptr.next != p) {
                     ptr = ptr.next;

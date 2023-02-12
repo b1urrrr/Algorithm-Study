@@ -1,5 +1,5 @@
 package chap03;
-import java.util.Comparator;
+// import java.util.Comparator;
 
 public class X {
     // public static final Comparator<T> COMPARATOR = new Comp(); // 클래스 인스턴스

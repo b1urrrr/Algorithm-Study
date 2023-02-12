@@ -15,5 +15,7 @@ public class Max3 {
         if (c > max) max = c;
      
         System.out.println("최댓값은 " + max + "입니다.");
+
+        stdIn.close();
     }
 }

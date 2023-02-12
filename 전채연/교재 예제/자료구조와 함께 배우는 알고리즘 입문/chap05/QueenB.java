@@ -1,7 +1,5 @@
 package chap05;
 
-import java.util.Scanner;
-
 public class QueenB {
     static int[] pos = new int[8];
 
@@ -23,5 +21,5 @@ public class QueenB {
 
     public static void main(String[] args) {
         set(0);
-    }    
+    }
 }
