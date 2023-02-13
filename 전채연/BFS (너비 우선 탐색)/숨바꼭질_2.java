@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 import java.util.Queue;
 import java.util.LinkedList;
 
-public class 숨바꼭질2 {
+public class 숨바꼭질_2 {
     static final int MAX = 100000;
     static int[] graph = new int[MAX + 1];
 
