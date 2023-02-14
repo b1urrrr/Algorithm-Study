@@ -526,6 +526,13 @@
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/16933">백준 16933번 : 벽 부수고 이동하기 3</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/벽_부수고_이동하기_3.java">🔗</a> |
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/1245">백준 1245번 : 농장 관리</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/농장_관리.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 49 (23.02.19.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 다익스트라 (Dijkstra) | <a href="https://www.acmicpc.net/problem/4485">백준 4485번 : 녹색 옷 입은 애가 젤다지?</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dijkstra%20(다익스트라)/녹색_옷_입은_애가_젤다지.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
