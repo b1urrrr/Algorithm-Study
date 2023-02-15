@@ -532,6 +532,7 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 다익스트라 (Dijkstra) | <a href="https://www.acmicpc.net/problem/4485">백준 4485번 : 녹색 옷 입은 애가 젤다지?</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dijkstra%20(다익스트라)/녹색_옷_입은_애가_젤다지.java">🔗</a> |
+| 다익스트라 (Dijkstra) | <a href="https://www.acmicpc.net/problem/5972">백준 5972번 : 택배 배송</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dijkstra%20(다익스트라)/택배_배송.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
