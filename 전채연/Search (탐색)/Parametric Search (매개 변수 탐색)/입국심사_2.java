@@ -26,7 +26,12 @@ public class 입국심사_2 {
         while (start <= end) {
             long mid = (start + end) / 2;
             long total = 0;
-            for (int i = 0; i < N; i++) total += mid / times[i];
+
+            for (int i = 0; i < N; i++) {
+                // 오버플로우 예외 처리
+                if (total > M) break;
+                total += mid / times[i];
+            }
 
             // 심사 가능 인원이 부족한 경우 시간 증가
             if (total < M) start = mid + 1;
