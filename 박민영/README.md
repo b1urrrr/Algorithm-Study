@@ -431,7 +431,10 @@
 | 유형 | 제목 | 풀이 | 다른 코드 공부 |
 | :---: | :---: | :---: | :---: |
 | 구현 | <a href="https://www.acmicpc.net/problem/1244">백준 1244번 : 스위치 켜고 끄기</a> | <a href = "">🔗</a> |
-
+| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/1463">백준 1463번 : 1로 만들기</a> | <a href = "">🔗</a> |
+| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/11726">백준 11726번 : 2×n 타일링</a> | <a href = "">🔗</a> |
+| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/11727">백준 11727번 : 2×n 타일링 2</a> | <a href = "">🔗</a> |
+| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/9095">백준 9095번 : 1, 2, 3 더하기</a> | <a href = "">🔗</a> |
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
