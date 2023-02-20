@@ -435,6 +435,16 @@
 | 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/11726">백준 11726번 : 2×n 타일링</a> | <a href = "">🔗</a> |
 | 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/11727">백준 11727번 : 2×n 타일링 2</a> | <a href = "">🔗</a> |
 | 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/9095">백준 9095번 : 1, 2, 3 더하기</a> | <a href = "">🔗</a> |
+
+### Week 49 (23.02.19.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 동적프로그래밍 | <a href="https://www.acmicpc.net/problem/11055">백준 11055번 : 가장 큰 증가 부분 수열</a> | <a href = "">🔗</a> |
+| 구현 | <a href="https://www.acmicpc.net/problem/18110">백준 18110번 : solved.ac</a> | <a href = "">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/16968">백준 16968번 : 차량 번호판 1</a> | <a href = "">🔗</a> |
+| 구현 | <a href="https://www.acmicpc.net/problem/2810">백준 2810번 : 컵홀더</a> | <a href = "">🔗</a> |
+| 구현 | <a href="https://www.acmicpc.net/problem/2846">백준 2846번 : 오르막길</a> | <a href = "">🔗</a> |
+
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
