@@ -15,3 +15,14 @@ for i in range(1, n-1):
 li_cha.sort()
 #print(li_cha)
 print(sum(li_cha[:k-1]))
+
+# 수정한 코드
+n, k = map(int, input().split())
+li = list(map(int, input().split()))
+
+array = []
+for i in range(1, n):
+    array.append(li[i] - li[i-1])
+
+array.sort(reverse=True)
+print(sum(array[k-1:]))
