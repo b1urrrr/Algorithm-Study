@@ -537,6 +537,13 @@
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/13913">백준 13913번 : 숨바꼭질 4</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/숨바꼭질_4.java">🔗</a> |
 | 0-1 너비 우선 탐색 (0-1 BFS) | <a href="https://www.acmicpc.net/problem/1261">백준 1261번 : 알고스팟</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/BFS%20(너비%20우선%20탐색)/0-1%20BFS%20(0-1%20너비%20우선%20탐색)/알고스팟.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 49 (23.02.19.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 0-1 너비 우선 탐색 (0-1 BFS) | <a href="https://www.acmicpc.net/problem/2665">백준 2665번 : 미로만들기</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/BFS%20(너비%20우선%20탐색)/0-1%20BFS%20(0-1%20너비%20우선%20탐색)/미로만들기.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
