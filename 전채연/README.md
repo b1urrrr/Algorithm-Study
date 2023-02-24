@@ -539,11 +539,12 @@
 
 <h1 dir="auto"></h1>
 
-### Week 49 (23.02.19.)
+### Week 50 (23.02.26.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 0-1 너비 우선 탐색 (0-1 BFS) | <a href="https://www.acmicpc.net/problem/2665">백준 2665번 : 미로만들기</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/0-1%20BFS%20(0-1%20너비%20우선%20탐색)/미로만들기.java">🔗</a> |
 | 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/11403">백준 11403번 : 경로 찾기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/경로_찾기.java">🔗</a> |
+| 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/1389">백준 1389번 : 케빈 베이컨의 6단계 법칙</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/케빈_베이컨의_6단계_법칙.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
