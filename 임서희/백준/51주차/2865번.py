@@ -23,3 +23,23 @@ for i in li:
     else:
         continue
 print(s_l)
+
+# 코드 참고
+import sys
+
+# N: 예선 참가자 수, M: 장르, K: 본선 진출자 수
+N, M, K = map(int, input().split())
+
+score = {}
+for i in range(N):
+    score[i+1] = 0
+
+for i in range(M):
+    li = list(map(float, input().split()))
+    for j in range(0, 2*N, 2):
+        if li[j+1] > score[li[j]]:
+            score[li[j]] = li[j+1]
+
+score = sorted(list(score.values()), reverse=True)
+s = sum(score[:K])
+print('%.1f' % s)
