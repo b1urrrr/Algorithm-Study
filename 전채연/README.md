@@ -548,6 +548,13 @@
 | 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/1956">백준 1956번 : 운동</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/운동.java">🔗</a> |
 | 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/10159">백준 10159번 : 저울</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/저울.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 50 (23.02.26.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/2660">백준 2660번 : 회장뽑기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/회장뽑기.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
