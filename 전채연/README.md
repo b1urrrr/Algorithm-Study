@@ -554,6 +554,7 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/2660">백준 2660번 : 회장뽑기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/회장뽑기.java">🔗</a> |
+| 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/1613">백준 1613번 : 역사</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/Floyd-Warshall%20(플로이드-워셜)/역사.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
