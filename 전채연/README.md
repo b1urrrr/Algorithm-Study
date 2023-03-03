@@ -555,7 +555,8 @@
 | :------: | :---: | :--: |
 | 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/2660">백준 2660번 : 회장뽑기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/회장뽑기.java">🔗</a> |
 | 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/1613">백준 1613번 : 역사</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/역사.java">🔗</a> |
-| 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/2617">백준 2617번 : 구슬 찾</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/구슬_찾기.java">🔗</a> |
+| 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/2617">백준 2617번 : 구슬 찾기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/구슬_찾기.java">🔗</a> |
+| 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/11265">백준 11265번 : 끝나지 않는 파티</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/끝나지_않는_파티.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
