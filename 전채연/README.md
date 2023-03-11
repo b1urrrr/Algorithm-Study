@@ -567,6 +567,7 @@
 | 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/21278">백준 21278번 : 호석이 두 마리 치킨</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/호석이_두_마리_치킨.java">🔗</a> |
 | 다익스트라 (Dijkstra) | <a href="https://www.acmicpc.net/problem/17396">백준 17396번 : 백도어</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dijkstra%20(다익스트라)/백도어.java">🔗</a> |
 | 다익스트라 (Dijkstra) | <a href="https://www.acmicpc.net/problem/10282">백준 10282번 : 해킹</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dijkstra%20(다익스트라)/해킹.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/1149">백준 1149번 : RGB거리</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/RGB거리.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
