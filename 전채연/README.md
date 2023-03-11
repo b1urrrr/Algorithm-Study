@@ -568,6 +568,7 @@
 | 다익스트라 (Dijkstra) | <a href="https://www.acmicpc.net/problem/17396">백준 17396번 : 백도어</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dijkstra%20(다익스트라)/백도어.java">🔗</a> |
 | 다익스트라 (Dijkstra) | <a href="https://www.acmicpc.net/problem/10282">백준 10282번 : 해킹</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dijkstra%20(다익스트라)/해킹.java">🔗</a> |
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/1149">백준 1149번 : RGB거리</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/RGB거리.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/12852">백준 12852번 : 1로 만들기 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/_1로_만들기_2.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
