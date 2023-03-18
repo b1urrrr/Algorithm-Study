@@ -576,6 +576,10 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/9328">백준 9328번 : 열쇠</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/열쇠.java">🔗</a> |
+| 기하학 (Geometry) | <a href="https://www.acmicpc.net/problem/2166">백준 2166번 : 다각형의 면적</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/Geometry%20(기하학)/다각형의_면적.java">🔗</a> |
+| 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/20040">백준 20040번 : 사이클 게임</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/사이클_게임.java">🔗</a> |
+| 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/16724">백준 16724번 : 피리 부는 사나이</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/피리_부는_사나이.java">🔗</a> |
+| 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/16566">백준 16566번 : 카드 게임</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/카드_게임.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
@@ -599,8 +603,8 @@
 | 17 | 10 | 그래프 이론 | 22.06.21. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap10">🔗</a> |
 | 19 | 11 | 그리디 문제 | 22.07.05. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap11">🔗</a> |
 | 20 | 12 | 구현 문제 | 22.07.12. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap12">🔗</a> |
-| 30 & 31 | 13 | DFS/BFS | 22.09.13. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap13">🔗</a> |
-| 32 | 14 | 정렬 | 22.9.27. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap14">🔗</a> |
+| 30 & 31 | 13 | DFS/BFS 문제 | 22.09.13. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap13">🔗</a> |
+| 32 | 14 | 정렬 문제 | 22.9.27. | <a href="https://github.com/b1urrrr/Algorithm-Study/tree/main/전채연/교재%20예제/이것이%20코딩테스트다/chap14">🔗</a> |
 
 <!--
 |  |  |  | 22. | <a href="">🔗</a> |
