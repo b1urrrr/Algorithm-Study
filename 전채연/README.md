@@ -581,6 +581,13 @@
 | 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/16724">백준 16724번 : 피리 부는 사나이</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/피리_부는_사나이.java">🔗</a> |
 | 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/16566">백준 16566번 : 카드 게임</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/카드_게임.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 54 (23.03.26.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/10775">백준 10775번 : 공항</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/공항.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
