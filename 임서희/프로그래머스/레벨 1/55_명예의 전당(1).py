@@ -15,3 +15,14 @@ def solution(k, score):
         print(res)
 
     return answer
+
+# 참고 코드
+def solution(k, score):
+    answer = []
+    li = []
+    for s in score:
+        li.append(s)
+        li = sorted(li, reverse=True)[:k]
+
+        answer.append(min(li))
+    return answer
