@@ -587,6 +587,10 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/10775">백준 10775번 : 공항</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/공항.java">🔗</a> |
+| 기하학 (Geometry) | <a href="https://www.acmicpc.net/problem/17386">백준 17386번 : 선분 교차 1</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/Geometry%20(기하학)/선분_교차_1.java">🔗</a> |
+| 기하학 (Geometry) | <a href="https://www.acmicpc.net/problem/17387">백준 17387번 : 선분 교차 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/Geometry%20(기하학)/선분_교차_2.java">🔗</a> |
+| 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/2162">백준 2162번 : 선분 그룹</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/선분_그룹.java">🔗</a> |
+| 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/1043">백준 1043번 : 거짓말</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/거짓말.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
