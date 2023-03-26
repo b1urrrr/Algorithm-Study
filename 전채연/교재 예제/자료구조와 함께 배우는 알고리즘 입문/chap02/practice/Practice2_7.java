@@ -53,5 +53,7 @@ public class Practice2_7 {
             System.out.print(number[i]);
         }
         System.out.println("입니다.");
+
+        stdIn.close();
     }
 }

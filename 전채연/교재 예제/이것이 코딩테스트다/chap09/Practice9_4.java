@@ -24,11 +24,6 @@ public class Practice9_4 {
         }
     }
 
-    static void dijstra(int start) {
-        PriorityQueue<Node> pq = new PriorityQueue<>();
-        // 시작 노드 처리
-    }
-
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

@@ -27,5 +27,7 @@ public class StringBinarySearch {
 
         if (idx < 0) System.out.println("해당 키워드가 없습니다.");
         else System.out.printf("해당 키워드는 x[%d]에 있습니다.\n", idx);
+
+        stdIn.close();
     }
 }

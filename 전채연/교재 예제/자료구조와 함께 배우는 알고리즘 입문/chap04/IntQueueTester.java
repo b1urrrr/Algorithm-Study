@@ -52,5 +52,7 @@ public class IntQueueTester {
                     break;
             }
         }
+
+        stdIn.close();
     }    
 }

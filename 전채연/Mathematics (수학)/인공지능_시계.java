@@ -27,5 +27,7 @@ public class 인공지능_시계 {
         }
 
         System.out.printf("%d %d %d\n", hr, min, sec);
+
+        stdIn.close();
     }
 }

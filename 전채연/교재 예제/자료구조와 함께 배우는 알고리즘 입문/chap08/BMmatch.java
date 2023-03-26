@@ -52,5 +52,7 @@ public class BMmatch {
             System.out.println("텍스트 : " + s1);
             System.out.printf(String.format("패턴 : %%%ds\n", len), s2);
         }
+
+        stdIn.close();
     } 
 }

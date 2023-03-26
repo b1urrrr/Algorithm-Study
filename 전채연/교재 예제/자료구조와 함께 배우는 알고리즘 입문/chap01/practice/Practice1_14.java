@@ -14,5 +14,7 @@ public class Practice1_14 {
             }
             System.out.println();
         }
+
+        stdIn.close();
     }
 }

@@ -25,5 +25,7 @@ public class 주사위_세개 {
         }
         
         System.out.print(prize);
+
+        sc.close();
     }
 }

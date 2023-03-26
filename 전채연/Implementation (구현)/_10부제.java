@@ -10,5 +10,7 @@ public class _10부제 {
         }
 
         System.out.println(count);
+
+        stdIn.close();
     }
 }

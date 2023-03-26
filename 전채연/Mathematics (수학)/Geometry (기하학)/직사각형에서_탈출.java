@@ -23,5 +23,7 @@ public class 직사각형에서_탈출 {
 
         // 출력
         System.out.println(min);
+
+        stdIn.close();
     }
 }

@@ -14,5 +14,7 @@ public class Practice1_11 {
         }
 
         System.out.printf("그 수는 %d자리입니다.\n", digits);
+
+        stdIn.close();
     }
 }

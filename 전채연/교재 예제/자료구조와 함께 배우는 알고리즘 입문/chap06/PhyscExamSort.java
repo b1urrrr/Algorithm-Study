@@ -1,7 +1,6 @@
 package chap06;
 
 import java.util.Arrays;
-import java.util.Scanner;
 import java.util.Comparator;
 
 public class PhyscExamSort {

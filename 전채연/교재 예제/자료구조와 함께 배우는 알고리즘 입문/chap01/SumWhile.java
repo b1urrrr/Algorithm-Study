@@ -20,5 +20,7 @@ public class SumWhile {
         
         // Q6
         System.out.println("i의 값은 " + i + "입니다.");
+
+        stdIn.close();
     }
 }

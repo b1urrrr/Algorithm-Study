@@ -12,5 +12,7 @@ public class Practice1_10 {
             else break;
         }
         System.out.println("b - a는 " + (b - a) + "입니다.");
+
+        stdIn.close();
     }
 }

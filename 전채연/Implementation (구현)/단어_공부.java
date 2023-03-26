@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class 단어_공부 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String word = sc.next();
@@ -32,5 +32,7 @@ public class Main {
         } else {
             System.out.print((char) (max + 65));
         }
+
+        sc.close();
     }
 }

@@ -1,3 +1,5 @@
+package chap10;
+
 public class Example10_2 {
     static int[] parent = new int[(int) 1e9];
 

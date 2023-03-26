@@ -33,5 +33,7 @@ public class Practice5_3 {
         }
 
         System.out.printf("최대공약수는 %d입니다.\n", gcdArray(data, num));
+
+        stdIn.close();
     }    
 }

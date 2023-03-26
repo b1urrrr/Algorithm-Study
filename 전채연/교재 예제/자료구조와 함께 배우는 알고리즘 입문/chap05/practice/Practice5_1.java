@@ -1,4 +1,5 @@
 package chap05.practice;
+
 import java.util.Scanner;
 
 public class Practice5_1 {
@@ -18,5 +19,7 @@ public class Practice5_1 {
         int x = stdIn.nextInt();
 
         System.out.println(x + "의 팩토리얼은 " + factorial(x) + "입니다.");
+
+        stdIn.close();
     }
 }

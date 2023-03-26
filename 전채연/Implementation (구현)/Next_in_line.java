@@ -7,5 +7,7 @@ public class Next_in_line {
         int middle = stdIn.nextInt();
         
         System.out.println(middle + middle - youngest);
+
+        stdIn.close();
     }
 }

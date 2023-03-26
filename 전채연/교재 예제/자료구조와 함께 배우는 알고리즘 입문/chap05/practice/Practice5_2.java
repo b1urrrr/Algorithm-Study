@@ -23,5 +23,7 @@ public class Practice5_2 {
         int y = stdIn.nextInt();
 
         System.out.println("최대공약수는 " + gcd(x, y) + "입니다.");
+
+        stdIn.close();
     }    
 }

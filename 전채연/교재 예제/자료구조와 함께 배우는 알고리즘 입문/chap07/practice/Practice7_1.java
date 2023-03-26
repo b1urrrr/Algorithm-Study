@@ -1,7 +1,5 @@
 package chap07.practice;
 
-import javax.imageio.stream.MemoryCacheImageInputStream;
-
 public class Practice7_1 {
     static class IntSet {
         private int max;

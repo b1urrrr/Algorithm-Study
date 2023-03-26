@@ -24,5 +24,7 @@ public class 세수정렬 {
                 System.out.printf("%d %d %d\n", a, c, b);
             }
         }
+
+        stdIn.close();
     }
 }
