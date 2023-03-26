@@ -1,7 +1,8 @@
+# 백준 10809
 s = input()
 
-alphabet = [-1] * 26
+# 아스키 코드 이용
+alphabet = list(range(97, 123))
 
-for i in s:
-    if i == 141:
-        print(1)
+for i in alphabet:
+    print(s.find(chr(i)))
