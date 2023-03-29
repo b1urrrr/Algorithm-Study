@@ -592,6 +592,13 @@
 | 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/2162">백준 2162번 : 선분 그룹</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/선분_그룹.java">🔗</a> |
 | 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/1043">백준 1043번 : 거짓말</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/거짓말.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 55 (23.04.02.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/1197">백준 1197번 : 최소 스패닝 트리</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/Kruskal%20(크루스칼)/최소_스패닝_트리.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
