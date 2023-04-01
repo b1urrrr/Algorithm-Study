@@ -71,8 +71,8 @@ public class Practice6_11 {
         quickSort(x, 0, nx - 1);
 
         System.out.println("오름차순으로 정렬했습니다.");
-        for (int i = 0; i < nx; i++) {
-            System.out.printf("x[%d] = %d\n", i, x[i]);
-        }
+        for (int i = 0; i < nx; i++) System.out.printf("x[%d] = %d\n", i, x[i]);
+
+        stdIn.close();
     }
 }

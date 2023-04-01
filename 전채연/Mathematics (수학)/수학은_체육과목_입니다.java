@@ -10,5 +10,7 @@ public class 수학은_체육과목_입니다 {
         Scanner sc = new Scanner(System.in);
         long square = sc.nextInt();
         System.out.print(4 * square);
+
+        sc.close();
     }
 }

@@ -15,6 +15,7 @@ public class Gstack<E> {
         public OverflowGStackException() { }
     }
 
+    @SuppressWarnings("unchecked")
     public Gstack(int capacity) {
         max = capacity;
         ptr = 0;

@@ -46,5 +46,7 @@ public class Practice2_6 {
             System.out.print(number[i]);
         }
         System.out.println("입니다.");
+
+        stdIn.close();
     }
 }

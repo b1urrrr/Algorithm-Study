@@ -34,5 +34,7 @@ public class DayOfYear {
             System.out.print("한 번 더 할까요? (1.예/0.아니오) : ");
             retry = stdIn.nextInt();
         } while (retry == 1);
+
+        stdIn.close();
     }
 }

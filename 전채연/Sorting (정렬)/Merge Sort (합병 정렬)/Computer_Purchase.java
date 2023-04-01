@@ -85,13 +85,17 @@ public class Computer_Purchase {
             computers[i] = new Computer(name, R, S, D); // 컴퓨터 객체 생성
         }
 
-        if (testCase == 0) return; // 테스트 케이스 개수가 0개면 출력 없음
-        else if (testCase == 1) System.out.println(computers[0]); // 테스트 케이스 개수가 1개면 한 번만 출력
+        if (testCase == 0) {
+            stdIn.close();
+            return; // 테스트 케이스 개수가 0개면 출력 없음
+        } else if (testCase == 1) System.out.println(computers[0]); // 테스트 케이스 개수가 1개면 한 번만 출력
         else {
             // 합병 정렬 함수 호출
             merge_sort(computers, 0, testCase - 1);
             System.out.println(computers[testCase - 1]); // 우선순위가 가장 높은 컴퓨터 이름 출력
             System.out.println(computers[testCase - 2]); // 두 번째로 우선순위가 높은 컴퓨터 이름 출력
         }
+
+        stdIn.close();
     }    
 }

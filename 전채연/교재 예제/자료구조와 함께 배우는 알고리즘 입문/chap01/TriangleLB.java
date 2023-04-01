@@ -20,5 +20,7 @@ public class TriangleLB {
             }
             System.out.println();
         }
+
+        stdIn.close();
     }
 }

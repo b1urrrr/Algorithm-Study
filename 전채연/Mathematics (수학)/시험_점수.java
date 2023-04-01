@@ -15,5 +15,7 @@ public class 시험_점수 {
         
         int result = (sum1 >= sum2) ? sum1 : sum2;
         System.out.println(result);
+
+        stdIn.close();
     }
 }

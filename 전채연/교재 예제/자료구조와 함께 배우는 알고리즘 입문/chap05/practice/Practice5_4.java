@@ -21,5 +21,7 @@ public class Practice5_4 {
         int num = stdIn.nextInt();
 
         recur2(num);
+
+        stdIn.close();
     }
 }

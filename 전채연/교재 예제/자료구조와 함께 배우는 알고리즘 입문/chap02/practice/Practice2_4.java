@@ -48,5 +48,6 @@ public class Practice2_4 {
             System.out.printf("a[%d] = %d\n", i, a[i]);
         }
 
+        stdIn.close();
     }
 }

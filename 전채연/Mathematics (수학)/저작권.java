@@ -12,5 +12,7 @@ public class 저작권 {
         int average = stdIn.nextInt();
         
         System.out.println(songs * (average - 1) + 1);
+
+        stdIn.close();
     }
 }

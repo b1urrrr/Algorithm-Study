@@ -62,5 +62,7 @@ public class 알고리즘_수업_퀵_정렬_1 {
 
         if (exchange > 0) System.out.println(-1); // 정렬 후에도 교환 횟수가 남은 경우 -1 출력
         else System.out.printf("%d %d\n", swap[0], swap[1]); // 마지막으로 교환된 두 수 출력 
+
+        stdIn.close();
     }
 }

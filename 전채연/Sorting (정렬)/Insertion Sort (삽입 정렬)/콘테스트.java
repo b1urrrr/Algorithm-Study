@@ -37,5 +37,7 @@ public class 콘테스트 {
         // 출력
         System.out.printf("%d ", max3(W, 10));
         System.out.print(max3(K, 10));
+
+        stdIn.close();
     }
 }

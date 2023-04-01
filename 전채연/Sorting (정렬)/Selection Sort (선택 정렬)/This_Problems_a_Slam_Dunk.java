@@ -45,5 +45,7 @@ public class This_Problems_a_Slam_Dunk {
 
         // 출력
         System.out.println(count);
+
+        stdIn.close();
     }
 }

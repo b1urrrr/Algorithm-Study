@@ -60,5 +60,7 @@ public class Practice6_9 {
         }
 
         System.out.printf("요소의 이동 횟수 : %d", count);
+
+        stdIn.close();
     }
 }

@@ -50,6 +50,8 @@ public class IntStackTester {
                 System.out.println();
                 break;
             }
+
+            stdIn.close();
         }
     }
     

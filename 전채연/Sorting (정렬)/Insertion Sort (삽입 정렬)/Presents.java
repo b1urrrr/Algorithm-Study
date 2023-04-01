@@ -32,5 +32,7 @@ public class Presents {
 
         // 두 번째로 낮은 값의 가격 출력
         System.out.printf("%.2f\n", prices[1]);
+
+        stdIn.close();
     }
 }

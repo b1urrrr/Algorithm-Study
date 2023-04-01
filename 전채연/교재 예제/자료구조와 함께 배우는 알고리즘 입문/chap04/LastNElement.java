@@ -18,12 +18,13 @@ public class LastNElement {
 
             System.out.print("계속 할까요? (1 = 예/0 = 아니오) : ");
             retry = stdIn.nextInt();
+            
+            if (retry != 1) stdIn.close();
         } while (retry == 1);
 
         int i = cnt - N;
         if (i < 0) i = 0;
 
-        for ( ; i < cnt; i++)
-            System.out.printf("%2d번째의 정수 = %d\n", i + 1, a[i % N]);
+        for ( ; i < cnt; i++) System.out.printf("%2d번째의 정수 = %d\n", i + 1, a[i % N]);
     }
 }

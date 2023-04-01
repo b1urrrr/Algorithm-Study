@@ -21,5 +21,7 @@ public class Hanoi {
         int n = stdIn.nextInt();
 
         move(n, 1, 3);
+
+        stdIn.close();
     }    
 }

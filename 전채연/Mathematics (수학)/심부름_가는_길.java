@@ -11,5 +11,7 @@ public class 심부름_가는_길 {
 
         System.out.println(sum / 60);
         System.out.println(sum % 60);
+
+        stdIn.close();
     }
 }

@@ -11,5 +11,7 @@ public class 피보나치_수_5 {
         Scanner stdIn = new Scanner(System.in);
         int num = stdIn.nextInt();
         System.out.println(fibo(num));
+
+        stdIn.close();
     }
 }

@@ -16,5 +16,7 @@ public class 스타후르츠 {
         }
 
         System.out.println(count * cost);
+
+        stdIn.close();
     }
 }

@@ -36,5 +36,7 @@ public class ArrayEqual {
         }
 
         System.out.printf("배열 a와 b는 %s\n", equals(a, b)? "같습니다" : "같지 않습니다.");
+
+        stdIn.close();
     }
 }

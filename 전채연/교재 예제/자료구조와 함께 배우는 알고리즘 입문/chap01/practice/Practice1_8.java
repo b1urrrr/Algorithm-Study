@@ -15,5 +15,7 @@ public class Practice1_8 {
         }
 
         System.out.printf("1부터 %d까지의 합 : %d", n, result);
+
+        stdIn.close();
     }
 }

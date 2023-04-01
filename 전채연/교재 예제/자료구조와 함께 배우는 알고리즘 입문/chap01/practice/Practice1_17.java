@@ -18,5 +18,7 @@ public class Practice1_17 {
         System.out.print("몇 단 피라미드입니까? : ");
         int n = stdIn.nextInt();
         spira(n);
+
+        stdIn.close();
     }
 }

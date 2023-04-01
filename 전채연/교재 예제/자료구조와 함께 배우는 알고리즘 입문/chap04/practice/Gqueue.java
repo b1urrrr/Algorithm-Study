@@ -18,12 +18,13 @@ public class Gqueue<E> {
     }
 
     // 생성자
+    @SuppressWarnings("unchecked")
     public Gqueue(int capacity) {
         max = capacity;
         num = 0;
         front = rear = 0;
         try {
-            E[] que = (E[]) new Object[capacity];
+            que = (E[]) new Object[capacity];
         } catch (OutOfMemoryError e) {
             max = 0;
         }

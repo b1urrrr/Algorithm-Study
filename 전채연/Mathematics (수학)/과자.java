@@ -11,5 +11,7 @@ public class 과자 {
         cost -= money;
         if (cost < 0) cost = 0;
         System.out.println(cost);
+
+        stdIn.close();
     }
 }

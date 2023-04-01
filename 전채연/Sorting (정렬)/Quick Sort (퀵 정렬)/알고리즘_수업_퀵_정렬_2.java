@@ -56,5 +56,7 @@ public class 알고리즘_수업_퀵_정렬_2 {
         else for (int i = 0; i < size; i++ )
             System.out.printf("%d ", data[i]); // 배열 출력
         System.out.println();
+
+        stdIn.close();
     }
 }

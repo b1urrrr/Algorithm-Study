@@ -45,5 +45,7 @@ public class Practice5_5 {
         System.out.print("인자 : ");
         int num = stdIn.nextInt();
         recur3(num);
+
+        stdIn.close();
     }    
 }

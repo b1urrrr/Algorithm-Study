@@ -46,5 +46,7 @@ public class 요세푸스_문제_0 {
 
         // 결과 출력
         System.out.println(sb);
+
+        stdIn.close();
     }
 }

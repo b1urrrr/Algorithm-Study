@@ -1,5 +1,4 @@
 import java.io.*;
-import java.util.*;
 
 public class 모음의_개수 {
     public static void main(String[] args) throws IOException {

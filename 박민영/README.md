@@ -492,7 +492,6 @@
 | 위상정렬 | <a href="https://www.acmicpc.net/problem/2252">백준 2252번 : 줄 세우기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Topological%20Sort%20(%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/2252.java">🔗</a> |
 | 위상정렬 | <a href="https://www.acmicpc.net/problem/2056">백준 2056번 : 작업</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/%EB%B0%95%EB%AF%BC%EC%98%81/Topological%20Sort%20(%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC)/%EB%B0%B1%EC%A4%80/2056.java">🔗</a> |
 
-
 <!--
 https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |

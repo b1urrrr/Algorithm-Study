@@ -24,5 +24,7 @@ public class 소수_찾기 {
         }
         // 소수의 개수 출력
         System.out.print(count);
+
+        sc.close();
     }
 }

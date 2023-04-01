@@ -15,5 +15,7 @@ public class Identifying_Tea {
                 ans += 1;
         }
         System.out.println(ans);
+
+        sc.close();
     }
 }
