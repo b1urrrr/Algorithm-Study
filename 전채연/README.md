@@ -599,6 +599,7 @@
 | :------: | :---: | :--: |
 | 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/1197">백준 1197번 : 최소 스패닝 트리</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Kruskal%20(크루스칼)/최소_스패닝_트리.java">🔗</a> |
 | 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/4386">백준 4386번 : 별자리 만들기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Kruskal%20(크루스칼)/별자리_만들기.java">🔗</a> |
+| 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/2887">백준 2887번 : 행성 터널</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Kruskal%20(크루스칼)/행성_터널.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
