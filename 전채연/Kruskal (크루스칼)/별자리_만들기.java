@@ -88,11 +88,10 @@ public class 별자리_만들기 {
         Collections.sort(edges);
 
         float total = 0;
-        for (int i = 0; i < edges.size(); i++) {
-            Edge next = edges.get(i);
-            if (findParent(next.starA) != findParent(next.starB)) {
-                union(next.starA, next.starB);
-                total += next.distance;
+        for (Edge edge : edges) {
+            if (findParent(edge.starA) != findParent(edge.starB)) {
+                union(edge.starA, edge.starB);
+                total += edge.distance;
             }
         }
 
