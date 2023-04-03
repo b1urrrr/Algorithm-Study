@@ -592,6 +592,17 @@
 | 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/2162">백준 2162번 : 선분 그룹</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/선분_그룹.java">🔗</a> |
 | 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/1043">백준 1043번 : 거짓말</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/거짓말.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 55 (23.04.02.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/1197">백준 1197번 : 최소 스패닝 트리</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Kruskal%20(크루스칼)/최소_스패닝_트리.java">🔗</a> |
+| 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/4386">백준 4386번 : 별자리 만들기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Kruskal%20(크루스칼)/별자리_만들기.java">🔗</a> |
+| 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/2887">백준 2887번 : 행성 터널</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Kruskal%20(크루스칼)/행성_터널.java">🔗</a> |
+| 위상 정렬 (Topology Sort) | <a href="https://www.acmicpc.net/problem/2252">백준 2252번 : 줄 세우기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Topology%20Sort%20(위상%20정렬)/줄_세우기.java">🔗</a> |
+| 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/1946">백준 1946번 : 신입 사원</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Greedy%20(그리디)/신입_사원.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
