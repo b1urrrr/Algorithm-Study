@@ -603,6 +603,14 @@
 | 위상 정렬 (Topology Sort) | <a href="https://www.acmicpc.net/problem/2252">백준 2252번 : 줄 세우기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Topology%20Sort%20(위상%20정렬)/줄_세우기.java">🔗</a> |
 | 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/1946">백준 1946번 : 신입 사원</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Greedy%20(그리디)/신입_사원.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 56 (23.04.09.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 위상 정렬 (Topology Sort) | <a href="https://www.acmicpc.net/problem/1766">백준 1766번 ： 문제집</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/Topology%20Sort%20(위상%20정렬)/문제집.java">🔗</a> |
+| 위상 정렬 (Topology Sort) | <a href="https://www.acmicpc.net/problem/2623">백준 2623번 : 음악프로그램</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/Topology%20Sort%20(위상%20정렬)/음악프로그램.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
