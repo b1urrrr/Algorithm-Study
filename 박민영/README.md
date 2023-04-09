@@ -502,10 +502,18 @@
 | 트리 | <a href="https://www.acmicpc.net/problem/11437">백준 11437번 : 이진 검색 트리</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Tree (트리)/백준/11437.java">🔗</a> |
 | 그리디 | <a href="https://www.acmicpc.net/problem/1946">백준 1946번 : 신입사원</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Greedy (그리디)/백준/1946.java">🔗</a> |
 
+### Week 56 (23.04.09.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 브루트포스 | <a href="https://www.acmicpc.net/problem/3085">백준 3085번 : 사탕 게임</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Brute Force (브루트포스)/백준/3085.java">🔗</a> |
+| 정렬 | <a href="https://www.acmicpc.net/problem/5800">백준 5800번 : 성적 통계</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Sorting (정렬)/백준/5800.java">🔗</a> |
+| 정렬 | <a href="https://www.acmicpc.net/problem/2628">백준 2628번 : 종이자르기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Sorting (정렬)/백준/2628.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Sorting (정렬)/백준/2628_2.java">📝</a> |
+| 구현 | <a href="https://www.acmicpc.net/problem/25314">백준 25314번 : 코딩은 체육과목 입니다</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Implement (구현)/백준/25314.java">🔗</a> |
+| 구현 | <a href="https://www.acmicpc.net/problem/9086">백준 9086번 : 문자열</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Implement (구현)/백준/9086.java">🔗</a> |
+
 <!--
-https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/
-| 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> |
-| 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "">🔗</a> | <a href = "">📝</a> | 
+| 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/">🔗</a> |
+| 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/">📝</a> | 
 -->
 
 <br>
