@@ -511,6 +511,11 @@
 | 구현 | <a href="https://www.acmicpc.net/problem/25314">백준 25314번 : 코딩은 체육과목 입니다</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Implement (구현)/백준/25314.java">🔗</a> |
 | 구현 | <a href="https://www.acmicpc.net/problem/9086">백준 9086번 : 문자열</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Implement (구현)/백준/9086.java">🔗</a> |
 
+### Week 57 (23.04.30.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 정렬 | <a href="https://www.acmicpc.net/problem/1449">백준 1449번 : 수리공 항승</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Sorting (정렬)/백준/1449.java">🔗</a> |
+
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/">🔗</a> |
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/">📝</a> | 
