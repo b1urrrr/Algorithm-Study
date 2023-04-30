@@ -42,18 +42,6 @@ public class 말이_되고픈_원숭이 {
             Node next = que.remove();
             if (next.x == H - 1 && next.y == W - 1) return next.move;
 
-            // 말처럼 이동하는 경우
-            if (next.k < K) {
-                for (int i = 0; i < 8; i++) {
-                    int nx = next.x + horseX[i];
-                    int ny = next.y + horseY[i];
-
-                    if (isValidPlace(nx, ny, next.k + 1)) continue;
-                    visited[nx][ny][next.k + 1] = true;
-                    que.add(new Node(nx, ny, next.k + 1, next.move + 1));
-                }
-            }
-
             // 원숭이처럼 이동하는 경우
             for (int i = 0; i < 4; i++) {
                 int nx = next.x + monkeyX[i];
@@ -62,6 +50,17 @@ public class 말이_되고픈_원숭이 {
                 if (isValidPlace(nx, ny, next.k)) continue;
                 visited[nx][ny][next.k] = true;
                 que.add(new Node(nx, ny, next.k, next.move + 1));
+            }
+
+            // 말처럼 이동하는 경우
+            if (next.k >= K) continue;
+            for (int i = 0; i < 8; i++) {
+                int nx = next.x + horseX[i];
+                int ny = next.y + horseY[i];
+
+                if (isValidPlace(nx, ny, next.k + 1)) continue;
+                visited[nx][ny][next.k + 1] = true;
+                que.add(new Node(nx, ny, next.k + 1, next.move + 1));
             }
         }
 
