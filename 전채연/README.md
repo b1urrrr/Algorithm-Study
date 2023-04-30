@@ -608,8 +608,8 @@
 ### Week 56 (23.04.09.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| 위상 정렬 (Topology Sort) | <a href="https://www.acmicpc.net/problem/1766">백준 1766번 ： 문제집</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/Topology%20Sort%20(위상%20정렬)/문제집.java">🔗</a> |
-| 위상 정렬 (Topology Sort) | <a href="https://www.acmicpc.net/problem/2623">백준 2623번 : 음악프로그램</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/Topology%20Sort%20(위상%20정렬)/음악프로그램.java">🔗</a> |
+| 위상 정렬 (Topology Sort) | <a href="https://www.acmicpc.net/problem/1766">백준 1766번 ： 문제집</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Topology%20Sort%20(위상%20정렬)/문제집.java">🔗</a> |
+| 위상 정렬 (Topology Sort) | <a href="https://www.acmicpc.net/problem/2623">백준 2623번 : 음악프로그램</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Topology%20Sort%20(위상%20정렬)/음악프로그램.java">🔗</a> |
 | 브루트 포스 (Brute Force) | <a href="https://www.acmicpc.net/problem/3085">백준 3085번 : 사탕 게임</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Brute%20Force%20(브루트포스)/사탕_게임.java">🔗</a> |
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/13459">백준 13459번 : 구슬 탈출</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/구슬_탈출.java">🔗</a> |
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/13460">백준 13460번 : 구슬 탈출 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/구슬_탈출_2.java">🔗</a> |
@@ -622,6 +622,8 @@
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/15644">백준 15644번 : 구슬 탈출 3</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/구슬_탈출_3.java">🔗</a> |
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/15653">백준 15653번 : 구슬 탈출 4</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/구슬_탈출_4.java">🔗</a> |
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/17404">백준 17404번 : RGB거리 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/RGB거리_2.java">🔗</a> |
+| 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/1449">백준 1449번 : 수리공 항승</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Greedy%20(그리디)/수리공_항승.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/1600">백준 1600번 : 말이 되고픈 원숭이</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/말이_되고픈_원숭이.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
