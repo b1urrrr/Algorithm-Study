@@ -10,6 +10,7 @@ public class 스타트링크 {
     static int[] floors, move = new int[2];
     static int F, S, G, U, D;
 
+    /** 너비 우선 탐색 수행 */
     static int bfs() {
         Queue<Integer> que = new LinkedList<>();
         floors[S] = 1;
@@ -46,6 +47,7 @@ public class 스타트링크 {
         move[0] = U;
         move[1] = -D;
 
+        // "use the stairs" 또는 강호가 S층에서 G층으로 가기 위해 눌러야 하는 버튼의 수의 최솟값 출력
         int result = bfs();
         if (result == -1) System.out.println("use the stairs");
         else System.out.println(result);
