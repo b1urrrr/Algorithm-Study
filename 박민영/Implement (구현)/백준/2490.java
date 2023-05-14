@@ -1,3 +1,11 @@
+/*
+ * @author Minyeong Park
+ * @date 2023.05.14.
+ * 윷놀이
+ * 문제 링크 : https://www.acmicpc.net/problem/2490
+ */
+
+
 import java.io.*;
 import java.util.StringTokenizer;
 
