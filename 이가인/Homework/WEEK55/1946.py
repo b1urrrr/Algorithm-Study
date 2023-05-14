@@ -8,7 +8,7 @@ for _ in range(t):
     rank = [list(map(int, input().split())) for _ in range(n)]
     sorted_rank = sorted(rank)
     top = 0
-    result = 1
+    res = 1
 
     for i in range(1, len(rank)):
         if sorted_rank[i][1] < sorted_rank[top][1]:
