@@ -636,6 +636,17 @@
 | 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/21940">백준 21940번 : 가운데에서 만나기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/가운데에서_만나기.java">🔗</a> |
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/9205">백준 9205번 : 맥주 마시면서 걸어가기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/맥주_마시면서_걸어가기.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 59 (23.05.14.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 이분 탐색 (Binary Search) | <a href="https://www.acmicpc.net/problem/1072">백준 1072번 : 게임</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Search%20(탐색)/Binary%20Search%20(이분%20탐색)/게임.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/6593">백준 6593번 : 상범 빌딩</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/상범_빌딩.java">🔗</a> |
+| 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/1240">백준 1240번 : 노드사이의 거리</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/노드사이의_거리.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/27866">백준 27866번 : 문자와 문자열</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/문자와_문자열.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/27323">백준 27323번 : 직사각형</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/직사각형.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
