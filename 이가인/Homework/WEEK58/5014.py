@@ -2,7 +2,7 @@ F, S, G, U, D = map(int, input().split())
 cnt = 0
 
 if S == G:
-    print(0)
+    print("use the stairs")
 elif S > G:
     # 목적지가 시작점의 아래에 있는 경우
     # U가 0이면 올라갈 수 없으므로 무조건 use the stairs
@@ -26,7 +26,7 @@ elif S > G:
                     cnt += (S - G) // D 
                     print(cnt)
                     break
-                if (S >= F):
+                if (S > F):
                     print("use the stairs")
                     break
 else:
