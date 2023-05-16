@@ -525,6 +525,15 @@
 | 구현 | <a href="https://www.acmicpc.net/problem/10811">백준 10811번 : 바구니 뒤집기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Implement (구현)/백준/10811.java">🔗</a> |
 | 구현 | <a href="https://www.acmicpc.net/problem/27866">백준 27866번 : 문자와 문자열</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Implement (구현)/백준/27866.java">🔗</a> |
 
+### Week 59 (23.05.14.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 이진탐색 | <a href="https://www.acmicpc.net/problem/1072">백준 1072번 : 게임</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Binary Search (이진탐색)/백준/1072.java">🔗</a> |
+| 이진탐색 | <a href="https://www.acmicpc.net/problem/2776">백준 2776번 : 암기왕</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Binary Search (이진탐색)/백준/2776.java">🔗</a> |
+| 이진탐색 | <a href="https://www.acmicpc.net/problem/4158">백준 4158번 : CD</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Binary Search (이진탐색)/백준/4158.java">🔗</a> |
+| 구현 | <a href="https://www.acmicpc.net/problem/2444">백준 2444번 : 별 찍기 - 7</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Implement (구현)/백준/2444.java">🔗</a> |
+| 구현 | <a href="https://www.acmicpc.net/problem/2490">백준 2490번 : 윷놀이</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Implement (구현)/백준/2490.java">🔗</a> |
+
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/">🔗</a> |
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/">📝</a> | 
