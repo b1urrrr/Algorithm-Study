@@ -534,6 +534,15 @@
 | 구현 | <a href="https://www.acmicpc.net/problem/2444">백준 2444번 : 별 찍기 - 7</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Implement (구현)/백준/2444.java">🔗</a> |
 | 구현 | <a href="https://www.acmicpc.net/problem/2490">백준 2490번 : 윷놀이</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Implement (구현)/백준/2490.java">🔗</a> |
 
+### Week 60 (23.05.21.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 동적프로그래밍| <a href="https://www.acmicpc.net/problem/11048">백준 11048번 : 이동하기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Dynamic programming (동적프로그래밍)/백준/11048.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/2745">백준 2745번 : 진법 변환</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Math (수학)/백준/2745.java">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Math (수학)/백준/2745_2.java">📝</a> | 
+| 수학 | <a href="https://www.acmicpc.net/problem/11005">백준 11005번 : 진법 변환 2</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Math (수학)/백준/11005.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/2720">백준 2720번 : 세탁소 사장 동혁</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Math (수학)/백준/2720.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/2903">백준 2903번 : 중앙 이동 알고리즘</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Math (수학)/백준/2903.java">🔗</a> |
+
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/">🔗</a> |
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/">📝</a> | 
