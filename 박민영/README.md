@@ -543,6 +543,16 @@
 | 수학 | <a href="https://www.acmicpc.net/problem/2720">백준 2720번 : 세탁소 사장 동혁</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Math (수학)/백준/2720.java">🔗</a> |
 | 수학 | <a href="https://www.acmicpc.net/problem/2903">백준 2903번 : 중앙 이동 알고리즘</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Math (수학)/백준/2903.java">🔗</a> |
 
+### Week 61 (23.05.28.)
+| 유형 | 제목 | 풀이 | 다른 코드 공부 |
+| :---: | :---: | :---: | :---: |
+| 구현 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92335">프로그래머스 lv2 'k진수에서 소수 개수 구하기'</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Implement (구현)/프로그래머스/k진수에서 소수 개수 구하기.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/2501">백준 2501번 : 약수 구하기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Math (수학)/백준/2501.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/9506">백준 9506번 : 약수들의 합</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Math (수학)/백준/9506.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/27323">백준 27323번 : 직사각형</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Math (수학)/백준/27323.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/15894">백준 15894번 : 수학은 체육과목 입니다</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Math (수학)/백준/15894.java">🔗</a> |
+
+
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/">🔗</a> |
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/">🔗</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/">📝</a> | 
