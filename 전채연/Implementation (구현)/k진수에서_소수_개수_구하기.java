@@ -26,8 +26,8 @@ class k진수에서_소수_개수_구하기 {
         int answer = 0, i = 0, j;
         
         while (i < number.length()) {
-            for(j = i + 1; j < number.length() && number.charAt(j) != '0'; j++);
-            if(isPrime(Long.parseLong(number.substring(i,j)))) answer++;
+            for (j = i + 1; j < number.length() && number.charAt(j) != '0'; j++);
+            if (isPrime(Long.parseLong(number.substring(i,j)))) answer++;
             i = j;
         }
         
