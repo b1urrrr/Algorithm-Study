@@ -652,11 +652,23 @@
 ### Week 60 (23.05.21.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/17836">백준 17836번 : 공주님을 구해라!</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/BFS%20(너비%20우선%20탐색)/공주님을_구해라.java">🔗</a> |
-| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/11048">백준 11048번 : 이동하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/Dynamic%20Programming%20(동적%20계획법)/이동하기.java">🔗</a> |
-| 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/18116">백준 18116번 : 로봇 조립</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/로봇_조립.java">🔗</a> |
-| 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/11085">백준 11085번 : 군사 이동</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/Kruskal%20(크루스칼)/군사_이동.java">🔗</a> |
-| 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/1939">백준 1939번 : 중량제한</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/Kruskal%20(크루스칼)/중량제한.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/17836">백준 17836번 : 공주님을 구해라!</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/공주님을_구해라.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/11048">백준 11048번 : 이동하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/이동하기.java">🔗</a> |
+| 분리 집합 (Disjoint Set) | <a href="https://www.acmicpc.net/problem/18116">백준 18116번 : 로봇 조립</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/로봇_조립.java">🔗</a> |
+| 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/11085">백준 11085번 : 군사 이동</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Kruskal%20(크루스칼)/군사_이동.java">🔗</a> |
+| 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/1939">백준 1939번 : 중량제한</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Kruskal%20(크루스칼)/중량제한.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 61 (23.05.28.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/1507">백준 1507번 : 궁금한 민호</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/궁금한_민호.java">🔗</a> |
+| 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/1922">백준 1922번 : 네트워크 연결</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Kruskal%20(크루스칼)/네트워크_연결.java">🔗</a> |
+| 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/6497">백준 6497번 : 전력난</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Kruskal%20(크루스칼)/전력난.java">🔗</a> |
+| 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/14621">백준 14621번 : 나만 안되는 연애</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Kruskal%20(크루스칼)/나만_안되는_연애.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92335">프로그래머스 > 2022 KAKAO BLIND RECRUITMENT >
+k진수에서 소수 개수 구하기</a> | <a href="ttps://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/k진수에서_소수_개수_구하기.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
