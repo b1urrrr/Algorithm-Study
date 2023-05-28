@@ -3,7 +3,8 @@
 */
 
 class k진수에서_소수_개수_구하기 {
-    public boolean isPrime(long n) {
+    public boolean isPrime(String number) {
+        long n = Long.parseLong(number);
         if (n <= 1) return false;
         if (n == 2) return true;
         for (int i = 2; i <= (int) Math.sqrt(n); i++) {
@@ -27,7 +28,7 @@ class k진수에서_소수_개수_구하기 {
         
         while (i < number.length()) {
             for (j = i + 1; j < number.length() && number.charAt(j) != '0'; j++);
-            if (isPrime(Long.parseLong(number.substring(i,j)))) answer++;
+            if (isPrime(number.substring(i,j))) answer++;
             i = j;
         }
         
