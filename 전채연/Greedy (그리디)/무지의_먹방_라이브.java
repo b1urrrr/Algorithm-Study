@@ -1,5 +1,5 @@
 /*
-    프로그래머스 > 2019 KAKAO BLIND RECRUITMENT : 잃어버린 괄호
+    프로그래머스 > 2019 KAKAO BLIND RECRUITMENT : 무지의 먹방 라이브
     - 문제 유형 : 그리디
 */
 
