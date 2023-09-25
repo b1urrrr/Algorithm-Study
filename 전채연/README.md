@@ -669,10 +669,14 @@
 | 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/14621">백준 14621번 : 나만 안되는 연애</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Kruskal%20(크루스칼)/나만_안되는_연애.java">🔗</a> |
 | 구현 (Implementation) | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92335">프로그래머스 > 2022 KAKAO BLIND RECRUITMENT > k진수에서 소수 개수 구하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/k진수에서_소수_개수_구하기.java">🔗</a> |
 
-### Week 62 (23.00.00.)
+<h1 dir="auto"></h1>
+
+### Week 62 (23.09.25.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/1774">백준 1774번 : 우주신과의 교감</a> | <a href="">🔗</a> |
+| 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/1774">백준 1774번 : 우주신과의 교감</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Kruskal%20(크루스칼)/우주신과의_교감.java">🔗</a> |
+| 분리 집합 (Disjoint Set), 배낭 문제 (Knapsack Problem) | <a href="https://www.acmicpc.net/problem/20303">백준 20303번 : 할로윈의 양아치</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/할로윈의_양아치.java">🔗</a> |
+| 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/2239">백준 2239번 : 스도쿠</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/스도쿠.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
