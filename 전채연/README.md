@@ -669,6 +669,11 @@
 | 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/14621">백준 14621번 : 나만 안되는 연애</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Kruskal%20(크루스칼)/나만_안되는_연애.java">🔗</a> |
 | 구현 (Implementation) | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92335">프로그래머스 > 2022 KAKAO BLIND RECRUITMENT > k진수에서 소수 개수 구하기</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/k진수에서_소수_개수_구하기.java">🔗</a> |
 
+### Week 62 (23.00.00.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 크루스칼 (Kruskal) | <a href="https://www.acmicpc.net/problem/1774">백준 1774번 : 우주신과의 교감</a> | <a href="">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
