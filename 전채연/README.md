@@ -678,6 +678,15 @@
 | 분리 집합 (Disjoint Set), 배낭 문제 (Knapsack Problem) | <a href="https://www.acmicpc.net/problem/20303">백준 20303번 : 할로윈의 양아치</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Data%20Structure%20(자료구조)/Disjoint%20Set%20(분리%20집합)/할로윈의_양아치.java">🔗</a> |
 | 백트래킹 (Backtracking) | <a href="https://www.acmicpc.net/problem/2239">백준 2239번 : 스도쿠</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Backtracking%20(백트래킹)/스도쿠.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 63 (23.10.01.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/11060">백준 11060번 : 점프 점프</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/BFS%20(너비%20우선%20탐색)/점프_점프.java">🔗</a> |
+|  | <a href=""></a> | <a href="">🔗</a> |
+|  | <a href=""></a> | <a href="">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
