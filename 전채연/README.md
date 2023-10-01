@@ -683,9 +683,9 @@
 ### Week 63 (23.10.01.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/11060">백준 11060번 : 점프 점프</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/b1urrrr/전채연/BFS%20(너비%20우선%20탐색)/점프_점프.java">🔗</a> |
-|  | <a href=""></a> | <a href="">🔗</a> |
-|  | <a href=""></a> | <a href="">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/11060">백준 11060번 : 점프 점프</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/점프_점프.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/2156">백준 2156번 : 포도주 시식</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/포도주_시식.java">🔗</a> |
+| 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/1890">백준 1890번 : 점프</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/점프.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
