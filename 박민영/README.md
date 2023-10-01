@@ -552,6 +552,20 @@
 | 수학 | <a href="https://www.acmicpc.net/problem/27323">백준 27323번 : 직사각형</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Math (수학)/백준/27323.java">🔗</a> |
 | 수학 | <a href="https://www.acmicpc.net/problem/15894">백준 15894번 : 수학은 체육과목 입니다</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Math (수학)/백준/15894.java">🔗</a> |
 
+### Week 62 (23.09.24.)
+| 유형  | 제목 | 풀이 | 다른 코드 공부 |
+|:---:| :---: | :---: | :---: |
+| BFS | <a href="https://www.acmicpc.net/problem/1012">백준 1012번 : 유기농 배추</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Graph Search (그래프 탐색)/BFS (너비 우선 탐색)/백준/1012.java">🔗</a> |
+| 구현 | <a href="https://www.acmicpc.net/problem/10101">백준 10101번 : 삼각형 외우기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Implement (구현)/백준/10101.java">🔗</a> |
+| 수학 | <a href="https://www.acmicpc.net/problem/5073">백준 5073번 : 삼각형과 세 변</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Math (수학)/백준/5073.java">🔗</a> |
+
+### Week 63 (23.10.01.)
+|  유형   | 제목 | 풀이 | 다른 코드 공부 |
+|:-----:| :---: | :---: | :---: |
+|  재귀   | <a href="https://www.acmicpc.net/problem/1074">백준 1074번 : Z</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Recursion (재귀)/백준/1074.java">🔗</a> |
+|  BFS  | <a href="https://www.acmicpc.net/problem/14940">백준 14940번 : 쉬운 최단거리</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Graph Search (그래프 탐색)/BFS (너비 우선 탐색)/백준/14940.java">🔗</a> |
+| 다익스트라 | <a href="https://www.acmicpc.net/problem/1916">백준 1916번 : 최소비용 구하기</a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/박민영/Shortest Path (최단 경로)/Dijkstra (다익스트라)/1916.java">🔗</a> |
+
 
 <!--
 | 유형 | <a href="https://www.acmicpc.net/problem/숫자">백준 번 : </a> | <a href = "https://github.com/b1urrrr/Algorithm-Study/blob/main/">🔗</a> |
