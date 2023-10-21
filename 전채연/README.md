@@ -704,6 +704,16 @@
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/2606">백준 2606번 : 바이러스</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/바이러스.java">🔗</a> |
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/3184">백준 3184번 : 양</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/양.java">🔗</a> |
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/3187">백준 3187번 : 양치기 꿍</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/양치기_꿍.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 66 (23.10.22.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/12886">백준 12886번 : 돌 그룹</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/돌_그룹.java">🔗</a> |
+|  | <a href=""></a> | <a href="">🔗</a> |
+|  | <a href=""></a> | <a href="">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
