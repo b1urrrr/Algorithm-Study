@@ -711,8 +711,8 @@
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/12886">백준 12886번 : 돌 그룹</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/돌_그룹.java">🔗</a> |
-|  | <a href=""></a> | <a href="">🔗</a> |
-|  | <a href=""></a> | <a href="">🔗</a> |
+| 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/1058">백준 1058번 : 친구</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/친구.java">🔗</a> |
+| 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/2224">백준 2224번 : 명제 증명</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/명제_증명.java">🔗</a> |
 
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
