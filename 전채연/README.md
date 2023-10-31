@@ -687,6 +687,33 @@
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/2156">백준 2156번 : 포도주 시식</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/포도주_시식.java">🔗</a> |
 | 동적 계획법 (Dynamic Programming) | <a href="https://www.acmicpc.net/problem/1890">백준 1890번 : 점프</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Dynamic%20Programming%20(동적%20계획법)/점프.java">🔗</a> |
 
+<h1 dir="auto"></h1>
+
+### Week 64 (23.10.08.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/14940">백준 14940번 : 쉬운 최단거리</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/쉬운_최단거리.java">🔗</a> |
+| 구현 (Implementation) | <a href="https://www.acmicpc.net/problem/27889">백준 27889번 : 특별한 학교 이름</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Implementation%20(구현)/특별한_학교_이름.java">🔗</a> |
+| 수학 (Mathematics) | <a href="https://www.acmicpc.net/problem/27433">백준 27433번 : 팩토리얼 2</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Mathematics%20(수학)/팩토리얼_2.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 65 (23.10.15.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/2606">백준 2606번 : 바이러스</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/바이러스.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/3184">백준 3184번 : 양</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/양.java">🔗</a> |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/3187">백준 3187번 : 양치기 꿍</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/양치기_꿍.java">🔗</a> |
+
+<h1 dir="auto"></h1>
+
+### Week 66 (23.10.22.)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 너비 우선 탐색 (BFS) | <a href="https://www.acmicpc.net/problem/12886">백준 12886번 : 돌 그룹</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/BFS%20(너비%20우선%20탐색)/돌_그룹.java">🔗</a> |
+| 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/1058">백준 1058번 : 친구</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/친구.java">🔗</a> |
+| 플로이드-워셜 (Floyd-Warshall) | <a href="https://www.acmicpc.net/problem/2224">백준 2224번 : 명제 증명</a> | <a href="https://github.com/b1urrrr/Algorithm-Study/blob/main/전채연/Floyd-Warshall%20(플로이드-워셜)/명제_증명.java">🔗</a> |
+
 <!--
 |  | <a href=""></a> | <a href="">🔗</a> |
 -->
